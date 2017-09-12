@@ -1,0 +1,26 @@
+{
+  "name": "dogame",
+  "version": "1.0.0",
+  "description": "a egret frontend game framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdoBeatTheWorld/EgretGameCore.git"
+  },
+  "keywords": [
+    "egret",
+    "game"
+  ],
+  "author": "Ado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdoBeatTheWorld/EgretGameCore/issues"
+  },
+  "homepage": "https://github.com/AdoBeatTheWorld/EgretGameCore#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
