@@ -1,0 +1,293 @@
+{"mc":{
+	"zt_tuowei1":{
+		"frameRate":10,
+		"labels":[
+			{"name":"run","frame":1,"end":10}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"ZTPaoPar1_01",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_02",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_03",
+			"x":-450,
+			"y":-46
+			},
+			{
+			"res":"ZTPaoPar1_04",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_05",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_01",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_02",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_03",
+			"x":-450,
+			"y":-46
+			},
+			{
+			"res":"ZTPaoPar1_04",
+			"x":-450,
+			"y":-47
+			},
+			{
+			"res":"ZTPaoPar1_05",
+			"x":-450,
+			"y":-47
+			}
+			]
+},"zt_tuowei2":{
+		"frameRate":7,
+		"labels":[
+			{"name":"run","frame":1,"end":3}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"ZTPaoPar2_01",
+			"x":-450,
+			"y":-38
+			},
+			{
+			"res":"ZTPaoPar2_03",
+			"x":-450,
+			"y":-36
+			},
+			{
+			"res":"ZTPaoPar2_05",
+			"x":-450,
+			"y":-38
+			}
+			]
+},"zt_tuowei3":{
+		"frameRate":8,
+		"labels":[
+			{"name":"run","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"ZTPaoPar3_01",
+			"x":-450,
+			"y":-29
+			},
+			{
+			"res":"ZTPaoPar3_02",
+			"x":-450,
+			"y":-29
+			},
+			{
+			"res":"ZTPaoPar3_04",
+			"x":-450,
+			"y":-29
+			},
+			{
+			"res":"ZTPaoPar3_05",
+			"x":-450,
+			"y":-29
+			}
+			]
+},"zt_tuowei4":{
+		"frameRate":8,
+		"labels":[
+			{"name":"run","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"ZTPaoPar4_01",
+			"x":-355,
+			"y":-19
+			},
+			{
+			"res":"ZTPaoPar4_02",
+			"x":-305,
+			"y":-19
+			},
+			{
+			"res":"ZTPaoPar4_04",
+			"x":-242,
+			"y":-19
+			},
+			{
+			"res":"ZTPaoPar4_05",
+			"x":-231,
+			"y":-19
+			}
+			]
+},"zt_hod":{
+		"frameRate":7,
+		"labels":[
+			{"name":"run","frame":1,"end":5}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"BarrelAiguille_Narmol_01",
+			"x":-110,
+			"y":-151
+			},
+			{
+			"res":"BarrelAiguille_Narmol_03",
+			"x":-115,
+			"y":-138
+			},
+			{
+			"res":"BarrelAiguille_Narmol_04",
+			"x":-111,
+			"y":-132
+			},
+			{
+			"res":"BarrelAiguille_Narmol_07",
+			"x":-139,
+			"y":-136
+			},
+			{
+			"res":"BarrelAiguille_Narmol_10",
+			"x":-106,
+			"y":-136
+			}
+			]
+},"zt_hit":{
+		"frameRate":7,
+		"labels":[
+			{"name":"run","frame":1,"end":4}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"zt_68",
+			"x":-275,
+			"y":-157
+			},
+			{
+			"res":"zt_72",
+			"x":-275,
+			"y":-180
+			},
+			{
+			"res":"zt_74",
+			"x":-275,
+			"y":-180
+			},
+			{
+			"res":"zt_78",
+			"x":-275,
+			"y":-180
+			}
+			]
+},"zt_boom":{
+		"frameRate":7,
+		"labels":[
+			{"name":"run","frame":1,"end":5}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Bullet_AiguilleBullet_Drift_1",
+			"x":-104,
+			"y":-183
+			},
+			{
+			"res":"Bullet_AiguilleBullet_Drift_3",
+			"x":-149,
+			"y":-183
+			},
+			{
+			"res":"Bullet_AiguilleBullet_Drift_4",
+			"x":-149,
+			"y":-183
+			},
+			{
+			"res":"Bullet_AiguilleBullet_Drift_7",
+			"x":-148,
+			"y":-183
+			},
+			{
+			"res":"Bullet_AiguilleBullet_Drift_9",
+			"x":-149,
+			"y":-183
+			}
+			]
+}},
+	"res":{
+		"ZTPaoPar2_05":{"x":902,"y":821,"w":900,"h":70},
+		"zt_78":{"x":552,"y":0,"w":550,"h":360},
+		"ZTPaoPar3_02":{"x":0,"y":1032,"w":900,"h":50},
+		"ZTPaoPar4_01":{"x":0,"y":1084,"w":805,"h":30},
+		"Bullet_AiguilleBullet_Drift_9":{"x":1656,"y":0,"w":254,"h":366},
+		"BarrelAiguille_Narmol_03":{"x":1804,"y":665,"w":233,"h":281},
+		"ZTPaoPar1_02":{"x":902,"y":730,"w":900,"h":89},
+		"ZTPaoPar2_01":{"x":902,"y":821,"w":900,"h":70},
+		"ZTPaoPar4_04":{"x":1346,"y":948,"w":692,"h":30},
+		"Bullet_AiguilleBullet_Drift_3":{"x":1064,"y":362,"w":254,"h":366},
+		"ZTPaoPar3_01":{"x":0,"y":980,"w":900,"h":50},
+		"ZTPaoPar1_04":{"x":902,"y":730,"w":900,"h":89},
+		"ZTPaoPar3_04":{"x":0,"y":1032,"w":900,"h":50},
+		"ZTPaoPar4_02":{"x":0,"y":1116,"w":755,"h":30},
+		"ZTPaoPar2_03":{"x":0,"y":910,"w":900,"h":68},
+		"Bullet_AiguilleBullet_Drift_1":{"x":1320,"y":362,"w":208,"h":366},
+		"BarrelAiguille_Narmol_04":{"x":902,"y":893,"w":229,"h":275},
+		"ZTPaoPar1_01":{"x":0,"y":730,"w":900,"h":89},
+		"ZTPaoPar1_03":{"x":0,"y":821,"w":900,"h":87},
+		"ZTPaoPar4_05":{"x":1346,"y":980,"w":681,"h":30},
+		"ZTPaoPar1_05":{"x":0,"y":730,"w":900,"h":89},
+		"ZTPaoPar3_05":{"x":0,"y":980,"w":900,"h":50},
+		"BarrelAiguille_Narmol_01":{"x":1799,"y":368,"w":228,"h":295},
+		"Bullet_AiguilleBullet_Drift_4":{"x":552,"y":362,"w":254,"h":366},
+		"BarrelAiguille_Narmol_10":{"x":1133,"y":893,"w":211,"h":279},
+		"zt_74":{"x":1104,"y":0,"w":550,"h":360},
+		"BarrelAiguille_Narmol_07":{"x":1530,"y":368,"w":267,"h":279},
+		"zt_72":{"x":0,"y":0,"w":550,"h":360},
+		"Bullet_AiguilleBullet_Drift_7":{"x":808,"y":362,"w":254,"h":366},
+		"zt_68":{"x":0,"y":362,"w":550,"h":338}
+	}}

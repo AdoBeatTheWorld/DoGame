@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbSetPanelSkin" width="742" height="428" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="0" source="bb_bg_png" width="100%" height="100%"/>
+	<e:Button id="close_btn" label="" x="653.66" y="0.66">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_set_clostNormal_png" source.down="bb_set_clostDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="bb_set_title_png" y="16" x="316"/>
+	<e:Label text="音效" x="152" y="143" size="50" fontFamily="微软雅黑" textColor="0x000000"/>
+	<e:Label text="音乐" x="152" y="273" size="50" fontFamily="微软雅黑" textColor="0x000000"/>
+	<e:Label text="开" x="408" y="146" size="50" fontFamily="微软雅黑" textColor="0x000000"/>
+	<e:Label text="开" x="408" y="270" size="50" fontFamily="微软雅黑" textColor="0x020000"/>
+	<e:Label text="关" x="596" y="270" size="50" fontFamily="微软雅黑" textColor="0x000000"/>
+	<e:Label text="关" x="596" y="146" size="50" fontFamily="微软雅黑" textColor="0x000000"/>
+	<e:Image source="bb_set_music_png" x="87" y="270"/>
+	<e:Image source="bb_set_sound_png" x="87" y="140"/>
+
+	<e:CheckBox id="musicClose_chb" label="" x="507" y="256">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+            <e:Image width="100%" height="100%" source="bb_set_selectBg_png"/>
+			<e:Image source.down="bb_set_selectDown_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:CheckBox>
+	<e:CheckBox id="soundClose_chb" label="" x="507" y="129">
+		<e:Skin states="up,down,disabled">
+		<e:Image width="100%" height="100%" source="bb_set_selectBg_png"/>
+		<e:Image source.down="bb_set_selectDown_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+	</e:CheckBox>
+	<e:CheckBox id="musicOpen_chb" label="" x="324" y="256">
+		<e:Skin states="up,down,disabled">
+		<e:Image width="100%" height="100%" source="bb_set_selectBg_png"/>
+		<e:Image source.down="bb_set_selectDown_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+	</e:CheckBox>
+	<e:CheckBox id="soundOpen_chb" label="" x="324" y="132">
+		<e:Skin states="up,down,disabled">
+		<e:Image width="100%" height="100%" source="bb_set_selectBg_png"/>
+		<e:Image source.down="bb_set_selectDown_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+	</e:CheckBox>
+</e:Skin>

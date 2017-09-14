@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AwardS_SC_kin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="145" y="74" width="1000" height="577" source="award_bg" scale9Grid="113,72,678,433"/>
+	<e:Scroller id="awardScroller" width="926" height="460" x="177" y="156" anchorOffsetX="0" anchorOffsetY="0">
+		<e:List id="awardNumList" itemRendererSkinName="AwardItemRender_SC_Skin" anchorOffsetX="0" x="1.52" y="-3.03">
+
+			<e:layout>
+				<e:VerticalLayout gap="13"/>
+			</e:layout>
+
+		</e:List>
+	</e:Scroller>
+	<e:Button id="closeButton" label="" x="1100" y="45" width="63" height="65">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" bottom="0" scaleX.down="0.8" scaleY.down="0.8" height="100%" horizontalCenter="0" verticalCenter="0" source="userInfo_close2" source.down="userInfo_close1"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image x="550" y="103" source="award_number"/>
+	<e:Image x="249" y="103" source="award_time2"/>
+	<e:Image x="952" y="103" source="award_profit"/>
+</e:Skin>

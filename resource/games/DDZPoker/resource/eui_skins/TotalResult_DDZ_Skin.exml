@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TotalResult_DDZ_Skin" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="1280">
+	<e:Image width="1280" height="720" x="0" y="0" source="total_result_bg"/>
+	<e:Button id="_backBtn" label="" y="10.6" scaleX="0.9" scaleY="0.9" left="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="public_DDZ9" source.down="public_DDZ9"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image id="_title" width="246" height="58" y="21.2" source="total_title" horizontalCenter="0"/>
+	<e:Label id="_roomId" text="房间号：123456 " x="30" y="120" anchorOffsetX="0" width="240" size="26"/>
+	<e:Label id="_datatime" text="2017.06.27  17:11" x="1040" y="120" anchorOffsetX="0" width="240" size="26"/>
+	<e:Image width="1266" height="476" x="0" y="160" source="total_item_kuang" scale9Grid="25,17,66,72"/>
+	<e:List id="_itemList" width="1200" height="340" y="220" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" itemRendererSkinName="TotalItemSkin_lose_DDZ_Skin">
+		<e:layout>
+		<e:VerticalLayout gap="20" horizontalAlign="center" verticalAlign="middle"/>
+		</e:layout>
+		<e:ArrayCollection>
+			<e:Array>
+				<e:Object/>
+				<e:Object/>
+				<e:Object 啊啊="null"/>
+			</e:Array>
+		</e:ArrayCollection>
+	</e:List>
+	<e:Button id="_shareBtn" label="" scaleX="0.9" scaleY="0.9" horizontalCenter="0.5" bottom="14">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="total_share_btn" source.down="total_share_btn"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label text="玩家" x="233" y="180" anchorOffsetY="0" height="32"/>
+	<e:Label text="单局最高得分" x="370" y="180" anchorOffsetY="0" height="32"/>
+	<e:Label text="打出炸弹数" x="590" y="180" anchorOffsetY="0" height="32"/>
+	<e:Label text="胜负局数" x="800" y="180" anchorOffsetY="0" height="32"/>
+	<e:Label text="总分" x="1000" y="180" anchorOffsetY="0" height="32"/>
+
+
+
+
+
+
+
+
+
+
+</e:Skin>

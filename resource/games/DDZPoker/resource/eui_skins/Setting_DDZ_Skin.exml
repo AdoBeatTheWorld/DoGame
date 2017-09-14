@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Setting_DDZ_Skin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" alpha="0.1" fillColor="0x000000" />
+	<e:Image source="public_DDZ3" y="151" width="752" height="441" horizontalCenter="0" scale9Grid="71,48,448,113" />
+	<e:Image source="public_DDZ4" y="65" horizontalCenter="0" />
+	<e:Image y="89" x="590" source="setting_title_DDZ" />
+	<e:Group id="contentGroup" height="380" width="665" x="350" y="150" >
+		<e:Button id="refrenshButton" label="重启" x="200" y="320">
+			<e:Skin states="up,down,disabled">
+				<e:Image source="setting_DDZ_json.exitGame_btn_DDZ1" anchorOffsetX="93" anchorOffsetY="30" x="93" y="30"
+				         scaleX.down="0.95" scaleY.down="0.95" source.down="setting_DDZ_json.exitGame_btn_DDZ2"/>
+			</e:Skin>
+		</e:Button>
+	</e:Group>
+	<e:Button id="closeButton" x="947" y="125">
+		<e:Skin states="up,down,disabled">
+			<e:Image horizontalCenter="1" verticalCenter="1" width="100%" height="100%" width.down="80%" height.down="80%"
+			         source="public_DDZ5" />
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+		</e:Skin>
+	</e:Button>
+</e:Skin>

@@ -1,0 +1,16 @@
+{"file":"nbjl_ownbet_font.png","frames":{
+"1":{"x":18,"y":94,"w":12,"h":20,"offX":0,"offY":2,"sourceW":12,"sourceH":25},
+"2":{"x":1,"y":72,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+"3":{"x":1,"y":50,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+"4":{"x":1,"y":28,"w":19,"h":20,"offX":0,"offY":2,"sourceW":19,"sourceH":25},
+"5":{"x":42,"y":28,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+"6":{"x":22,"y":28,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+"7":{"x":41,"y":50,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+"8":{"x":21,"y":72,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+"9":{"x":41,"y":72,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25},
+",":{"x":55,"y":1,"w":6,"h":8,"offX":0,"offY":16,"sourceW":6,"sourceH":25},
+"万":{"x":1,"y":1,"w":25,"h":25,"offX":0,"offY":0,"sourceW":25,"sourceH":25},
+"亿":{"x":28,"y":1,"w":25,"h":25,"offX":0,"offY":0,"sourceW":25,"sourceH":25},
+"-":{"x":32,"y":94,"w":9,"h":6,"offX":0,"offY":10,"sourceW":9,"sourceH":25},
+"+":{"x":1,"y":94,"w":15,"h":17,"offX":0,"offY":5,"sourceW":15,"sourceH":25},
+"0":{"x":21,"y":50,"w":18,"h":20,"offX":0,"offY":2,"sourceW":18,"sourceH":25}}}

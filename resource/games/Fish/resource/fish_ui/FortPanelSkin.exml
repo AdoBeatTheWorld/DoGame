@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="FortPanelSkin"  width="565" height="84" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:states>
+		<e:State name="normal"/>
+		<e:State name="disabled"/>
+	</e:states>
+	<e:Image source="puyu_fj_paotai_png" x="201" y="0"/>
+	<e:Image id="sub_img" source="puyu_fj_iconpian_png" x="245" y="42"/>
+	<e:Image id="add_img" source="puyu_fj_iconpian_png" x="369" y="42" scaleX="-1"/>
+	<e:Image id="bg_img" source="puyu_fj_botton01_png" x="415" y="0"/>
+	<e:Label id="nick_lbl" width="133" size="22" y="52" height="24" x="422" text="1264025" verticalAlign="middle" textAlign="center" fontFamily="微软雅黑"/>
+	<e:Button id="sub_btn" label="" x="205" y="7">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="puyu_fj_icon02_png" source.down="puyu_fj_icon02_press_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="add_btn" label="" x="353" y="7">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="puyu_fj_icon01_png" source.down="puyu_fj_icon01_press_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:BitmapLabel id="gold_blbl" text="0000" y="17" font="puyu_playerGold_fnt_fnt" horizontalCenter="210.5"/>
+	<e:Image id="gun_img" x="307" y="20" source="puyu_fj_erpao_png" anchorOffsetY="34.5" anchorOffsetX="39"/>
+	<e:BitmapLabel id="consume_blbl" text="50"  y="50" font="puyu_bulletConsume_fnt_fnt" horizontalCenter="24.5"/>
+	<e:Group id="tower_grp" width="187" height="84" x="0" y="0" touchEnabled="false" touchChildren="false">
+	</e:Group>
+</e:Skin>

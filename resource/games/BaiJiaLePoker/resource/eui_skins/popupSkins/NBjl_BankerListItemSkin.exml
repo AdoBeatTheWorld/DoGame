@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NBjl_BankerListItemSkin" width="540" height="75" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="156db98bc84"/>
+	<e:Image source="nbjl_userlistitem_bg_png" scale9Grid="15,13,18,18" left="0" right="0" top="0" bottom="0"/>
+	<e:Image id="headImage" width="65" height="60" x="14" y="8"/>
+	<e:Image source="nbjl_avar_frame_png" x="14" y="8" width="64" height="59" locked="true"/>
+	<e:Label id="nameLabel" text="标签" x="90" y="26" size="26" textColor="0xb77c5c"/>
+	<e:Label id="chipsLabel" text="标签" x="411" y="27" size="20" textColor="0x904123"/>
+	<e:Image id="moneyIcon" source="nbjl_money_png" x="368" y="19" width="34" height="34"/>
+</e:Skin>

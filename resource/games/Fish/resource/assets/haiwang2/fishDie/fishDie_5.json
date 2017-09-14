@@ -1,0 +1,52 @@
+{"mc":{
+	"1":{
+		"frameRate":12,
+		"labels":[
+			{"name":"run","frame":1,"end":6}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_BigClown_Die_1",
+			"x":-131,
+			"y":-84
+			},
+			{
+			"res":"Fish_BigClown_Die_2",
+			"x":-131,
+			"y":-84
+			},
+			{
+			"res":"Fish_BigClown_Die_3",
+			"x":-140,
+			"y":-88
+			},
+			{
+			"res":"Fish_BigClown_Die_4",
+			"x":-133,
+			"y":-85
+			},
+			{
+			"res":"Fish_BigClown_Die_5",
+			"x":-110,
+			"y":-85
+			},
+			{
+			"res":"Fish_BigClown_Die_6",
+			"x":-142,
+			"y":-87
+			}
+			]
+}},
+	"res":{
+		"Fish_BigClown_Die_3":{"x":0,"y":173,"w":277,"h":171},
+		"Fish_BigClown_Die_6":{"x":0,"y":0,"w":279,"h":171},
+		"Fish_BigClown_Die_2":{"x":552,"y":0,"w":268,"h":169},
+		"Fish_BigClown_Die_5":{"x":552,"y":171,"w":247,"h":171},
+		"Fish_BigClown_Die_4":{"x":281,"y":0,"w":269,"h":171},
+		"Fish_BigClown_Die_1":{"x":279,"y":173,"w":268,"h":169}
+	}}

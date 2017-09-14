@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoomId_SC_Skin" width="200" height="45" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="public_cs_json.public_bg3" x="-2" y="-2.5" width="200" height="45"/>
+	<e:Label id="roomIdLabel" text="房间号：4561313" x="2" y="6" anchorOffsetX="0" width="190" height="30" textAlign="center" verticalAlign="middle" size="20" fontFamily="黑体" textColor="0xfccf58"/>
+</e:Skin>

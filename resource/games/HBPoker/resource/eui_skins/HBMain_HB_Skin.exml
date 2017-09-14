@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HBMain_HB_Skin" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        width="1280">
+	<w:Config id="15bccfd0ad2" />
+	<e:Image id="background" source="bj_png" x="0.19" y="-2.85" />
+	<e:Image y="147.34"  source="room_banker_hb" horizontalCenter="0"/>
+	<e:Image id="stateImage" source="" x="300" y="260"/>
+	<e:Group id="message" width="717" height="41.33" x="281" y="304" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image source="hb_gg_bj" x="1" y="2" scaleX="1" scaleY="1" />
+		<e:Image source="hb_lb" x="8" y="6" scaleX="1" scaleY="1" />
+	</e:Group>
+	<e:Button id="kamishoButton" label="" x="700" y="23">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image id="iconDisplay" width="100%" height="100%" source="hb_waitlist"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="backButton" x="1150" y="23">
+		<e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+			<e:Image source="hb_fh" source.down="hb_fh_2" />
+		</e:Skin>
+	</e:Button>
+	<e:Button id="menuButton" x="8" y="11">
+		<e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+			<e:Image source="hb_zhcd_sh" source.down="hb_zhcd_sh_2" />
+		</e:Skin>
+	</e:Button>
+	<e:Button id="changeTableButton" x="8" y="89.79">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="hb_wx_share" source.down="hb_wx_share_1"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="playerListButton" x="1184" y="636">
+		<e:Skin states="up,down,disabled">
+			<e:Image source="hb_player_nor" source.down="hb_player_nor_down" />
+		</e:Skin>
+	</e:Button>
+	<e:Button id="recordButton" x="1024" y="636">
+		<e:Skin states="up,down,disabled">
+			<e:Image source="hb_phb_2" source.down="hb_phb" />
+		</e:Skin>
+	</e:Button>
+	<e:Button id="oddsButton" x="1104" y="636">
+		<e:Skin states="up,down,disabled">
+			<e:Image source="hb_p_2" source.down="hb_p"  />
+		</e:Skin>
+	</e:Button>
+	<e:ToggleButton id="helpButton" x="1184" y="636" visible="false">
+		<e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+			<e:Image source="hb_help" includeIn="up,down" />
+			<e:Image source="hb_bzh" includeIn="upAndSelected,downAndSelected" />
+		</e:Skin>
+	</e:ToggleButton>
+	<e:Button id="chatButton" x="1184" y="540.02">
+		<e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+			<e:Image source="hb_lt_2" source.down="hb_lt" />
+		</e:Skin>
+	</e:Button>
+	<e:Image source="main_hb_json.hb_total_bet_bg" x="865" y="24"/>
+	<e:Label text="已下注:" x="894" y="37" size="20" rotation="359.9" fontFamily="黑体" textColor="0xffffff"/>
+	<e:Label id="betSumLabel" text="" x="980" y="39" size="20" textColor="0xffc400" width="130" height="20" visible="false"/>
+	<e:Label text="可下注:" x="894" y="77.57" size="20" rotation="359.9" fontFamily="黑体" textColor="0xffffff"/>
+	<e:Label id="betUpLabel" text="" x="980" y="79" size="20" rotation="359.9" textColor="0xffc400" width="130" height="20" visible="false"/>
+	<e:BitmapLabel id="hadBetLabel" width="215" height="32" x="962" y="37" font="hb_winNumber_fnt" text="" anchorOffsetX="0" scaleX="0.8" scaleY="0.8" letterSpacing="-3"/>
+	<e:BitmapLabel id="canBetLabel" width="215" height="32" x="962" y="76.33" font="hb_winNumber_fnt" text="" anchorOffsetX="0" scaleX="0.8" scaleY="0.8" letterSpacing="-3"/>
+	<e:Button id="dissRoomButton" label="解散房间" x="1072.58" y="254" skinName="ChatRadioButton_HB_Skin" anchorOffsetX="0" width="134.85"/>
+	<e:Label id="roomId" text="" x="110" y="40" width="300" textAlign="center" verticalAlign="middle" height="30" fontFamily="黑体" size="30" textColor="0xffd505"/>
+</e:Skin>

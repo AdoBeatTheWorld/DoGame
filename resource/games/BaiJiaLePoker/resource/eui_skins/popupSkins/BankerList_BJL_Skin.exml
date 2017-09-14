@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BankerList_BJL_Skin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" width="1280" height="720">
+	<e:Rect id="closeButton" left="0" right="0" top="0" bottom="0" alpha="0"/>
+	<e:Image id="background" anchorOffsetX="0" scale9Grid="44,39,482,127" anchorOffsetY="0" scaleX="1" scaleY="1" source="bjl_bg" width="680" height="550" verticalCenter="-1" horizontalCenter="0"/>
+	<e:Image source="bjl_item_bg" x="335" y="212.91" scale9Grid="15,16,47,38" width="610" height="277"/>
+	<e:Image source="bjl_list_title" y="119.33" x="550.5"/>
+	<e:Image source="bjl_frame" x="334.51" y="181.65" scale9Grid="10,9,37,30" anchorOffsetX="0" width="610" height="60"/>
+	<e:Image source="bjl_head" x="363" y="196"/>
+	<e:Image source="bjl_id_title" x="493" y="196" visible="false"/>
+	<e:Image source="bjl_name_title" x="598" y="196"/>
+	<e:Image source="bjl_gold_title" x="808" y="196"/>
+	<e:Label id="kamishoLabel" text="上庄所需金币:" y="509.66" fontFamily="黑体" size="20" scaleX="1" scaleY="1" textColor="0xde6b08" horizontalCenter="-52"/>
+	<e:Label id="bankerLimit" text="8000" x="690" y="504" textColor="0xa57401" fontFamily="黑体" height="30" anchorOffsetX="0" width="217" verticalAlign="middle" textAlign="left" scaleX="1" scaleY="1" visible="false"/>
+	<e:Button id="applyBankerBtn" y="542" scaleX="1" scaleY="1" horizontalCenter="0">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="hb_obbs_btn" scaleX.down="0.97" scaleY.down="0.97"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="cancelApplyBankerBtn" y="542" scaleX="1" scaleY="1" horizontalCenter="0" visible="false">
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="cancle_obbs_btn" scaleX.down="0.97" scaleY.down="0.97"/>
+			</e:Skin>
+	</e:Button>
+	<e:Button id="closeBtn" y="66.65" scaleX="1" scaleY="1" horizontalCenter="303.5">
+		<e:Skin states="up,down,disabled">
+			<e:Image  source="bjl_btn_exit_2_png" source.down="bjl_btn_exit_1_png" scaleX.down="0.95" scaleY.down="0.95"/>
+		</e:Skin>
+	</e:Button>
+	<e:Group horizontalCenter="0" verticalCenter="5" width="610" height="250" anchorOffsetY="0" anchorOffsetX="0">
+		<e:Scroller width="610" height="250" y="0" anchorOffsetX="0" anchorOffsetY="0" x="0">
+			<e:List id="bankerList" y="1.33">
+			<e:layout>
+				<e:VerticalLayout/>
+			</e:layout>
+			</e:List>
+		</e:Scroller>
+	</e:Group>
+	<e:BitmapLabel id="limitLabel" width="236" height="30" x="654.87" text="0" scaleX="0.7" scaleY="0.7" letterSpacing="-2" anchorOffsetX="0" y="509.98" font="bjl_winNumber_fnt"/>
+</e:Skin>

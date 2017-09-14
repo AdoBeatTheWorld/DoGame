@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleList_BJL_Skin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="1280" height="720">
+	<e:Rect id="backRect" top="0" bottom="0" left="0" right="0" fillAlpha="1" alpha="0"/>
+	<e:Image source="public_bg_bjl" anchorOffsetX="0" scale9Grid="44,39,482,127" width="700" height="530" verticalCenter="0" horizontalCenter="0"/>
+	<e:Image source="bjl_item_bg" x="333" y="150.01" scale9Grid="16,16,46,36" width="610" height="437"/>
+	<e:Image source="bjl_frame" x="333" y="117" scale9Grid="10,9,37,30" width="610"/>
+	<e:Image source="bjl_head" x="362" y="126"/>
+	<e:Image source="bjl_id_title" x="493" y="128" visible="false"/>
+	<e:Image source="bjl_name_title" y="128" x="602"/>
+	<e:Image source="bjl_gold_title" x="817" y="128"/>
+	<e:Group width="610" height="423" x="334" y="167">
+		<e:Scroller width="610" height="423" y="-1" anchorOffsetX="0" anchorOffsetY="0" x="0" scaleX="1" scaleY="1">
+			<e:List id="userList_lst"/>
+		</e:Scroller>
+		<e:layout>
+			<e:VerticalLayout/>
+		</e:layout>
+	</e:Group>
+		<e:Button id="closeBtn" y="75" scaleX="1" scaleY="1" horizontalCenter="330.5">
+		<e:Skin states="up,down,disabled">
+			<e:Image  source="bjl_btn_exit_2_png" source.down="bjl_btn_exit_1_png" scaleX.down="0.95" scaleY.down="0.95"/>
+		</e:Skin>
+	</e:Button>
+</e:Skin>

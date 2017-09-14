@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ConfirmBtn1Skin" width="234" height="70" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="buttonyellow" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0" top="0" bottom="0"  scaleX.down="0.7" scaleY.down="0.7"/>
+	<e:Label id="labelDisplay" height="40" width="180" textAlign="center" verticalAlign="middle" scaleX.down="0.95" scaleY.down="0.95" fontFamily="黑体" horizontalCenter="0" verticalCenter="0"/>
+    
+</e:Skin>

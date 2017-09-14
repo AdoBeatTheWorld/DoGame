@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BackLobby_SC_Button" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="tch_2" />
+</e:Skin>

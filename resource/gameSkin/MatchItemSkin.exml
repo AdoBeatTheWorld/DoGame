@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MatchItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bgImage" source="lobby_match1"/>
+	<e:BitmapLabel id="castLabel" height="30" y="223" text="底注：6.6" anchorOffsetX="0" anchorOffsetY="0" font="matchFont_fnt" horizontalCenter="0.5"/>
+	<e:BitmapLabel id="standardLabel" height="29" y="276" text="准入标准：55" anchorOffsetX="0" anchorOffsetY="0" font="matchFont_fnt" horizontalCenter="0.5"/>
+</e:Skin>

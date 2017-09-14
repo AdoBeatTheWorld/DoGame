@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FishNewPlayer" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="help_jpg" x="0" y="0" anchorOffsetX="0" width="1280" anchorOffsetY="0" height="720"/>
+		<e:Button id="helpClose" label="" x="1208.67" y="2.33" >
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="hw2_ui_json.help_icon" source.down="hw2_ui_json.help_icon_press"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="22" fontFamily="微软雅黑"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

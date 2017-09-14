@@ -1,0 +1,64 @@
+{"mc":{
+	"loading":{
+		"frameRate":24,
+		"labels":[
+			{"name":"load","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"loading01",
+			"x":14,
+			"y":15
+			},
+			{
+			"res":"loading02",
+			"x":14,
+			"y":15
+			},
+			{
+			"res":"loading03",
+			"x":15,
+			"y":15
+			},
+			{
+			"res":"loading04",
+			"x":15,
+			"y":16
+			},
+			{
+			"res":"loading05",
+			"x":21,
+			"y":16
+			},
+			{
+			"res":"loading06",
+			"x":13,
+			"y":17
+			},
+			{
+			"res":"loading07",
+			"x":13,
+			"y":22
+			},
+			{
+			"res":"loading08",
+			"x":14,
+			"y":14
+			}
+			]
+}},
+	"res":{
+		"loading05":{"x":129,"y":0,"w":56,"h":61},
+		"loading06":{"x":66,"y":64,"w":64,"h":60},
+		"loading07":{"x":187,"y":0,"w":63,"h":54},
+		"loading01":{"x":132,"y":119,"w":56,"h":60},
+		"loading02":{"x":0,"y":64,"w":64,"h":60},
+		"loading04":{"x":0,"y":0,"w":63,"h":62},
+		"loading03":{"x":132,"y":63,"w":63,"h":54},
+		"loading08":{"x":65,"y":0,"w":62,"h":62}
+	}}

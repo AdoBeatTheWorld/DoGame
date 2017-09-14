@@ -1,0 +1,64 @@
+{"mc":{
+	"fish_17":{
+		"frameRate":10,
+		"labels":[
+			{"name":"run","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_CrabLaser_Life_01",
+			"x":-83,
+			"y":-59
+			},
+			{
+			"res":"Fish_CrabLaser_Life_02",
+			"x":-77,
+			"y":-57
+			},
+			{
+			"res":"Fish_CrabLaser_Life_03",
+			"x":-75,
+			"y":-56
+			},
+			{
+			"res":"Fish_CrabLaser_Life_04",
+			"x":-67,
+			"y":-56
+			},
+			{
+			"res":"Fish_CrabLaser_Life_05",
+			"x":-74,
+			"y":-55
+			},
+			{
+			"res":"Fish_CrabLaser_Life_06",
+			"x":-77,
+			"y":-54
+			},
+			{
+			"res":"Fish_CrabLaser_Life_07",
+			"x":-79,
+			"y":-54
+			},
+			{
+			"res":"Fish_CrabLaser_Life_08",
+			"x":-79,
+			"y":-58
+			}
+			]
+}},
+	"res":{
+		"Fish_CrabLaser_Life_02":{"x":0,"y":120,"w":148,"h":119},
+		"Fish_CrabLaser_Life_01":{"x":312,"y":122,"w":145,"h":121},
+		"Fish_CrabLaser_Life_03":{"x":0,"y":0,"w":156,"h":118},
+		"Fish_CrabLaser_Life_07":{"x":158,"y":0,"w":155,"h":117},
+		"Fish_CrabLaser_Life_08":{"x":315,"y":0,"w":149,"h":120},
+		"Fish_CrabLaser_Life_06":{"x":158,"y":119,"w":152,"h":116},
+		"Fish_CrabLaser_Life_05":{"x":150,"y":237,"w":151,"h":116},
+		"Fish_CrabLaser_Life_04":{"x":0,"y":241,"w":146,"h":116}
+	}}

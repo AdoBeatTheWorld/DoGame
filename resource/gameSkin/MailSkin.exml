@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MailSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="brackground" horizontalCenter="0" source="common_bg_3" bottom="104"  width="778" height="450" scale9Grid="29,24,147,93"/>
+	<e:Image y="84" source="public3" horizontalCenter="0" />
+	<e:Scroller id="infoScroller" width="723" height="298.67" y="192" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="2.5">
+		<e:List id="informationList" itemRendererSkinName="MailItemRenderSkin" y="-123.17">
+			<e:layout>
+				<e:VerticalLayout gap="5" />
+			</e:layout>
+		</e:List>
+	</e:Scroller>
+	<e:Button id="closeBtn" label="Button" x="970.34" y="123.84" skinName="CloseBtnSkin" />
+	<e:Button id="quickgetButton" label="" x="640" anchorOffsetX="0" anchorOffsetY="0" width="172" height="64" y="527">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image source="mail_btn" scaleY.down="0.9" scaleX.down="0.9" horizontalCenter="0" verticalCenter="0"
+				         source.down="mail_btn" />
+				<e:Image horizontalCenter="0" scaleY.down="0.9" scaleX.down="0.9" verticalCenter="0" source="quickget" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="quickdelButton" label="" x="828.67" anchorOffsetX="0" anchorOffsetY="0" bottom="129" height="64" width="172">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image scaleX.down="0.9" scaleY="1" scaleY.down="0.9" horizontalCenter="0" verticalCenter="0" source="mail_btn"
+				         source.down="mail_btn" />
+				<e:Image source="quickdelete" scaleX.down="0.9" scaleY.down="0.9" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image y="102.34" horizontalCenter="0" source="word_mail" />
+	<e:Label id="noticeLabel" text="暂 无 邮 件" y="298.99" size="40" fontFamily="Microsoft YaHei" textColor="0x0c0101" horizontalCenter="0"/>
+</e:Skin>

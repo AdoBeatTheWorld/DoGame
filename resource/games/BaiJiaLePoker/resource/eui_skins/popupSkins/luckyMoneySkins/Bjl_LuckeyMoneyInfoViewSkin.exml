@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="Bjl_LuckeyMoneyInfoViewSkin" width="590" height="830" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bjl_red_bg" x="0" y="0" scale9Grid="37,100,31,12" width="590" height="830"/>
+	<e:Label text="红包详情" y="21" size="35" fontFamily="微软雅黑" x="23"/>
+	<e:Button id="closeBtn" label="按钮" x="533" y="23">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="closeBtn_normal_png" source.down="closeBtn_normal_png" source.disabled="closeBtn_normal_png"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="bjl_redList_bg2" x="6" y="82" width="578" height="690"/>
+	<e:List id="list" height="673" width="577" x="5" y="88"/>
+</e:Skin>

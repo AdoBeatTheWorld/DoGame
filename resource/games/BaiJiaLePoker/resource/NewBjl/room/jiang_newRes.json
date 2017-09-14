@@ -1,0 +1,575 @@
+{
+  "file": "jiang_newRes.png",
+  "frames": {
+    "hand_left": {
+      "x": 945,
+      "y": 0,
+      "w": 68,
+      "h": 139,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 139
+    },
+    "hand_right": {
+      "x": 0,
+      "y": 877,
+      "w": 122,
+      "h": 113,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 123,
+      "sourceH": 113
+    },
+    "jiang_avar_info_bg": {
+      "x": 233,
+      "y": 982,
+      "w": 103,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 38
+    },
+    "jiang_banker_select_bg": {
+      "x": 527,
+      "y": 949,
+      "w": 68,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 68,
+      "sourceH": 66
+    },
+    "jiang_bg_buttom_1": {
+      "x": 0,
+      "y": 473,
+      "w": 890,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 890,
+      "sourceH": 114
+    },
+    "jiang_bg_buttom_2": {
+      "x": 0,
+      "y": 813,
+      "w": 608,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 608,
+      "sourceH": 64
+    },
+    "jiang_bg_buttom_3": {
+      "x": 0,
+      "y": 587,
+      "w": 890,
+      "h": 114,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 890,
+      "sourceH": 114
+    },
+    "jiang_dayingjia_add": {
+      "x": 778,
+      "y": 350,
+      "w": 18,
+      "h": 21,
+      "offX": 0,
+      "offY": 6,
+      "sourceW": 18,
+      "sourceH": 29
+    },
+    "jiang_dayingjia_bg": {
+      "x": 0,
+      "y": 0,
+      "w": 552,
+      "h": 473,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 552,
+      "sourceH": 473
+    },
+    "jiang_diamond": {
+      "x": 597,
+      "y": 945,
+      "w": 67,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 57
+    },
+    "jiang_erji_gold": {
+      "x": 836,
+      "y": 434,
+      "w": 37,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 39
+    },
+    "jiang_false": {
+      "x": 175,
+      "y": 984,
+      "w": 30,
+      "h": 31,
+      "offX": 3,
+      "offY": 2,
+      "sourceW": 36,
+      "sourceH": 35
+    },
+    "jiang_frame_1": {
+      "x": 597,
+      "y": 877,
+      "w": 67,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 68
+    },
+    "jiang_icon_ji": {
+      "x": 736,
+      "y": 911,
+      "w": 42,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 42,
+      "sourceH": 44
+    },
+    "jiang_icon_total": {
+      "x": 890,
+      "y": 589,
+      "w": 64,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 64
+    },
+    "jiang_icon_zuang": {
+      "x": 972,
+      "y": 659,
+      "w": 36,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 35
+    },
+    "jiang_item_0": {
+      "x": 920,
+      "y": 350,
+      "w": 92,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 57
+    },
+    "jiang_item_1": {
+      "x": 435,
+      "y": 877,
+      "w": 92,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 57
+    },
+    "jiang_item_2": {
+      "x": 920,
+      "y": 407,
+      "w": 92,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 57
+    },
+    "jiang_item_3": {
+      "x": 890,
+      "y": 464,
+      "w": 92,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 57
+    },
+    "jiang_item_4": {
+      "x": 435,
+      "y": 934,
+      "w": 92,
+      "h": 57,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 92,
+      "sourceH": 57
+    },
+    "jiang_jinbi": {
+      "x": 752,
+      "y": 350,
+      "w": 26,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 26,
+      "sourceH": 26
+    },
+    "jiang_label_rank": {
+      "x": 982,
+      "y": 464,
+      "w": 33,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 123
+    },
+    "jiang_label_self": {
+      "x": 803,
+      "y": 701,
+      "w": 33,
+      "h": 123,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 33,
+      "sourceH": 123
+    },
+    "jiang_lottery_di_1": {
+      "x": 233,
+      "y": 877,
+      "w": 104,
+      "h": 105,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 105
+    },
+    "jiang_lottery_di_2": {
+      "x": 836,
+      "y": 350,
+      "w": 84,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 84,
+      "sourceH": 84
+    },
+    "jiang_lottery_role_bg": {
+      "x": 890,
+      "y": 521,
+      "w": 72,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 68
+    },
+    "jiang_lottery_title": {
+      "x": 0,
+      "y": 701,
+      "w": 632,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 632,
+      "sourceH": 112
+    },
+    "jiang_point_0": {
+      "x": 890,
+      "y": 653,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_1": {
+      "x": 908,
+      "y": 723,
+      "w": 59,
+      "h": 35,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 60,
+      "sourceH": 35
+    },
+    "jiang_point_2": {
+      "x": 954,
+      "y": 589,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_3": {
+      "x": 954,
+      "y": 624,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_4": {
+      "x": 337,
+      "y": 975,
+      "w": 65,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 35
+    },
+    "jiang_point_5": {
+      "x": 664,
+      "y": 931,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_6": {
+      "x": 908,
+      "y": 688,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_7": {
+      "x": 736,
+      "y": 876,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_8": {
+      "x": 803,
+      "y": 824,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_point_9": {
+      "x": 664,
+      "y": 966,
+      "w": 64,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 35
+    },
+    "jiang_rank_label_1": {
+      "x": 836,
+      "y": 757,
+      "w": 72,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 60
+    },
+    "jiang_rank_label_2": {
+      "x": 664,
+      "y": 876,
+      "w": 72,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 60
+    },
+    "jiang_rank_label_3": {
+      "x": 836,
+      "y": 701,
+      "w": 72,
+      "h": 56,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 72,
+      "sourceH": 60
+    },
+    "jiang_result_line": {
+      "x": 552,
+      "y": 460,
+      "w": 37,
+      "h": 2,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 2
+    },
+    "jiang_true": {
+      "x": 803,
+      "y": 859,
+      "w": 36,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 36,
+      "sourceH": 35
+    },
+    "jiang_vip_0": {
+      "x": 762,
+      "y": 175,
+      "w": 179,
+      "h": 175,
+      "offX": 6,
+      "offY": 20,
+      "sourceW": 210,
+      "sourceH": 195
+    },
+    "jiang_vip_1": {
+      "x": 632,
+      "y": 701,
+      "w": 171,
+      "h": 175,
+      "offX": 9,
+      "offY": 20,
+      "sourceW": 210,
+      "sourceH": 195
+    },
+    "jiang_vip_2": {
+      "x": 762,
+      "y": 0,
+      "w": 183,
+      "h": 175,
+      "offX": 3,
+      "offY": 20,
+      "sourceW": 210,
+      "sourceH": 195
+    },
+    "jiang_vip_3": {
+      "x": 552,
+      "y": 194,
+      "w": 200,
+      "h": 183,
+      "offX": 0,
+      "offY": 11,
+      "sourceW": 210,
+      "sourceH": 195
+    },
+    "jiang_vip_4": {
+      "x": 552,
+      "y": 0,
+      "w": 210,
+      "h": 194,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 210,
+      "sourceH": 195
+    },
+    "jiang_warn_bg": {
+      "x": 0,
+      "y": 990,
+      "w": 175,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 175,
+      "sourceH": 28
+    },
+    "nebg_banker_closebtn_nonal": {
+      "x": 941,
+      "y": 230,
+      "w": 72,
+      "h": 72,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "nebg_banker_closebtn_selected": {
+      "x": 527,
+      "y": 877,
+      "w": 70,
+      "h": 72,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 72,
+      "sourceH": 72
+    },
+    "nebg_chip_cantselect": {
+      "x": 337,
+      "y": 877,
+      "w": 98,
+      "h": 98,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 98
+    },
+    "nebg_chip_selected": {
+      "x": 122,
+      "y": 877,
+      "w": 111,
+      "h": 107,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 113,
+      "sourceH": 113
+    },
+    "nebg_count_bg": {
+      "x": 945,
+      "y": 139,
+      "w": 78,
+      "h": 91,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 78,
+      "sourceH": 91
+    },
+    "nebg_rebet_btn_nomal": {
+      "x": 552,
+      "y": 377,
+      "w": 142,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 143,
+      "sourceH": 83
+    },
+    "nebg_rebet_btn_selected": {
+      "x": 694,
+      "y": 377,
+      "w": 142,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 143,
+      "sourceH": 83
+    },
+    "nebg_task_ticketIcon": {
+      "x": 941,
+      "y": 302,
+      "w": 51,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 51,
+      "sourceH": 46
+    }
+  }
+}

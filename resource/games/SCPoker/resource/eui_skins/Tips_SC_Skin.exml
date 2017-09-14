@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Tips_SC_Skin" width="1280" height="200" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="tips_background" source="public_bg2" scale9Grid="54,7,327,45" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="content" source="hb_wait-tips" x="425.5" y="64.5"/>
+	<e:BitmapLabel id="inningLabel" height="65" x="889" y="67.5" font="game_tips_number_fnt" text="" anchorOffsetX="0"/>
+	<e:Label id="tipsLabel" text="" anchorOffsetX="0" width="500" size="40" fontFamily="黑体" textAlign="center" verticalAlign="middle" height="40" stroke="2" strokeColor="0x593000" textColor="0xf7e5aa" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

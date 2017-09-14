@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AddBtnSkin" width="40" height="33" states="up,down,disable" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="new_main_btn_add" x="20" y="16" anchorOffsetX="20" anchorOffsetY="16"
+	         scaleX.down="0.95" scaleY.down="0.95" />
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TaoJinSelectHeadGoldSkin" width="606" height="62" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="py_jinbi_bj_png" x="-1" verticalCenter="0"/>
+	<e:Image id="tickBg_img" source="py_jinbi_bj_png" x="309" verticalCenter="0"/>
+	<e:Image source="buyu_selectScene_json.lb_erji_gold_png" x="7" verticalCenter="-0.5"/>
+	<e:Image id="tick_img" source="buyu_selectScene_json.lb_erji_jiangquan_png" x="304" verticalCenter="-1.5"/>
+	<e:Label id="tick_lbl" text="00" x="347" fontFamily="微软雅黑" size="22" textAlign="center" width="195" textColor="0xFFB21C" verticalCenter="-2"/>
+	<e:Label id="gold_lbl" text="00" x="46" fontFamily="微软雅黑" size="22" textAlign="center" width="187" textColor="0xFFB21C" verticalCenter="-1"/>
+</e:Skin>

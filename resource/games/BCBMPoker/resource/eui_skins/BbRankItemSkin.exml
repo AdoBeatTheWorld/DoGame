@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbRankItemSkin" width="653" height="75" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg_img" x="0" y="0" width="100%" height="100%" source="bb_rank_bg1_png"/>
+	<e:Label id="rank_lbl" text="4" x="18" size="60" textColor="0xa8a8a8" verticalCenter="0.5" fontFamily="微软雅黑"/>
+	<e:Label id="nickName_lbl" text="4" x="123" size="30" textColor="0xA8A8A8" verticalCenter="0.5" fontFamily="微软雅黑"/>
+	<e:Label id="chips_lbl" text="4" size="30" textColor="0xA8A8A8" verticalCenter="0.5" right="32" fontFamily="微软雅黑"/>
+	<e:Label id="id_lbl" text="4" x="331" size="30" textColor="0xA8A8A8" verticalCenter="0.5" fontFamily="微软雅黑"/>
+</e:Skin>

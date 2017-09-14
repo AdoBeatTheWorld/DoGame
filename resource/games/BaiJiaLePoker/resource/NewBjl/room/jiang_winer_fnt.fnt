@@ -1,0 +1,16 @@
+{"file":"jiang_winer_fnt.png","frames":{
+"7":{"x":21,"y":51,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"8":{"x":1,"y":95,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"9":{"x":41,"y":51,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"万":{"x":28,"y":1,"w":25,"h":26,"offX":0,"offY":0,"sourceW":25,"sourceH":26},
+"亿":{"x":1,"y":1,"w":25,"h":26,"offX":0,"offY":0,"sourceW":25,"sourceH":26},
+",":{"x":55,"y":1,"w":6,"h":9,"offX":0,"offY":17,"sourceW":6,"sourceH":26},
+".":{"x":55,"y":12,"w":6,"h":8,"offX":0,"offY":17,"sourceW":6,"sourceH":26},
+"+":{"x":41,"y":73,"w":16,"h":19,"offX":0,"offY":4,"sourceW":16,"sourceH":26},
+"0":{"x":21,"y":73,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"1":{"x":41,"y":94,"w":12,"h":20,"offX":0,"offY":3,"sourceW":12,"sourceH":26},
+"2":{"x":1,"y":51,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"3":{"x":42,"y":29,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"4":{"x":1,"y":29,"w":19,"h":20,"offX":0,"offY":3,"sourceW":19,"sourceH":26},
+"5":{"x":1,"y":73,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26},
+"6":{"x":22,"y":29,"w":18,"h":20,"offX":0,"offY":3,"sourceW":18,"sourceH":26}}}

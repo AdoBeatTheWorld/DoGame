@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbPlayerListSkin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="1280" height="720">
+	<e:Rect id="backRect" top="0" bottom="0" left="0" right="0" fillAlpha="1" alpha="0"/>
+	<e:Image anchorOffsetX="0" scale9Grid="44,39,482,127" width="700" height="530" verticalCenter="0" horizontalCenter="0" source="public_client3_hb_png"/>
+	<e:Label text="姓名" x="594.04" size="25" anchorOffsetX="0" verticalCenter="-218.5" width="144" textAlign="center" textColor="0x000000"/>
+	<e:Label text="ID" x="430.04" size="25" verticalCenter="-218.5" anchorOffsetX="0" width="153" textAlign="center" textColor="0x000000"/>
+	<e:Label text="头像" x="340.69" size="25" verticalCenter="-218.5" anchorOffsetX="0" width="100" textAlign="center" textColor="0x000000"/>
+	<e:Label text="金币" x="751.04" size="25" anchorOffsetX="0" verticalCenter="-218.5" width="182" textAlign="center" textColor="0x000000"/>
+	<e:Image x="333" y="150.01" scale9Grid="16,16,46,36" width="610" height="437" source="hb_item_bg_png"/>
+	<e:Image x="333" y="117" scale9Grid="10,9,37,30" width="610" source="hb_frame_png"/>
+	<e:Image x="362" y="126" source="hb_head_png"/>
+	<e:Image source="main_hb_json.hb_id_title" x="493" y="128" visible="false"/>
+	<e:Image y="128" x="602" source="hb_name_title_png"/>
+	<e:Image x="817" y="128" source="hb_gold_title_png"/>
+	<e:Scroller width="610" height="423" y="166" anchorOffsetX="0" anchorOffsetY="0" x="334">
+		<e:List id="List" y="-1.33">
+		<e:layout>
+			<e:VerticalLayout/>
+		</e:layout>
+		</e:List>
+	</e:Scroller>
+</e:Skin>

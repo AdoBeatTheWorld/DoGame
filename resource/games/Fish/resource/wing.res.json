@@ -1,0 +1,1520 @@
+{
+  "groups": [],
+  "resources": [
+    {
+      "url": "config.json",
+      "type": "json",
+      "name": "config.json"
+    },
+    {
+      "url": "fish.res.json",
+      "type": "json",
+      "name": "fish.res.json"
+    },
+    {
+      "url": "fish.thm.json",
+      "type": "json",
+      "name": "fish.thm.json"
+    },
+    {
+      "url": "wing.res.json",
+      "type": "json",
+      "name": "wing.res.json"
+    },
+    {
+      "url": "config/fish_config.json",
+      "type": "json",
+      "name": "config/fish_config.json"
+    },
+    {
+      "url": "data/TableCollisionConfig.json",
+      "type": "json",
+      "name": "data/TableCollisionConfig.json"
+    },
+    {
+      "url": "data/TableFishAdd.json",
+      "type": "json",
+      "name": "data/TableFishAdd.json"
+    },
+    {
+      "url": "data/TableFishPath.json",
+      "type": "json",
+      "name": "data/TableFishPath.json"
+    },
+    {
+      "url": "data/TableLobbyConfig.json",
+      "type": "json",
+      "name": "data/TableLobbyConfig.json"
+    },
+    {
+      "url": "data/TableRoomConfig.json",
+      "type": "json",
+      "name": "data/TableRoomConfig.json"
+    },
+    {
+      "url": "data/TableSpecailFishAdd.json",
+      "type": "json",
+      "name": "data/TableSpecailFishAdd.json"
+    },
+    {
+      "url": "assets/effectRes/py_bulletGold_mc.json",
+      "type": "json",
+      "name": "assets/effectRes/py_bulletGold_mc.json"
+    },
+    {
+      "url": "assets/effectRes/py_bulletGold_mc.png",
+      "type": "image",
+      "name": "assets/effectRes/py_bulletGold_mc.png"
+    },
+    {
+      "url": "assets/fish_preload/loading.png",
+      "type": "image",
+      "name": "assets/fish_preload/loading.png"
+    },
+    {
+      "url": "assets/fish_preload/puyu_load_bar.png",
+      "type": "image",
+      "name": "assets/fish_preload/puyu_load_bar.png"
+    },
+    {
+      "url": "assets/fish_preload/puyu_load_barGb.png",
+      "type": "image",
+      "name": "assets/fish_preload/puyu_load_barGb.png"
+    },
+    {
+      "url": "assets/fish_preload/puyu_load_bg.jpg",
+      "type": "image",
+      "name": "assets/fish_preload/puyu_load_bg.jpg"
+    },
+    {
+      "url": "assets/fish_preload/puyu_load_Icon.png",
+      "type": "image",
+      "name": "assets/fish_preload/puyu_load_Icon.png"
+    },
+    {
+      "url": "assets/font/hw_selectScenefnt.fnt",
+      "type": "font",
+      "name": "assets/font/hw_selectScenefnt.fnt"
+    },
+    {
+      "url": "assets/font/hw_selectScenefnt.png",
+      "type": "image",
+      "name": "assets/font/hw_selectScenefnt.png"
+    },
+    {
+      "url": "assets/font/puyu_Cyclone.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_Cyclone.fnt"
+    },
+    {
+      "url": "assets/font/puyu_Cyclone.png",
+      "type": "image",
+      "name": "assets/font/puyu_Cyclone.png"
+    },
+    {
+      "url": "assets/font/puyu_flower_fnt.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_flower_fnt.fnt"
+    },
+    {
+      "url": "assets/font/puyu_flower_fnt.png",
+      "type": "image",
+      "name": "assets/font/puyu_flower_fnt.png"
+    },
+    {
+      "url": "assets/font/puyu_machineNum.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_machineNum.fnt"
+    },
+    {
+      "url": "assets/font/puyu_machineNum.png",
+      "type": "image",
+      "name": "assets/font/puyu_machineNum.png"
+    },
+    {
+      "url": "assets/font/puyu_machinePlayerNum.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_machinePlayerNum.fnt"
+    },
+    {
+      "url": "assets/font/puyu_machinePlayerNum.png",
+      "type": "image",
+      "name": "assets/font/puyu_machinePlayerNum.png"
+    },
+    {
+      "url": "assets/font/puyu_obtainNumber_fnt.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_obtainNumber_fnt.fnt"
+    },
+    {
+      "url": "assets/font/puyu_obtainNumber_fnt.png",
+      "type": "image",
+      "name": "assets/font/puyu_obtainNumber_fnt.png"
+    },
+    {
+      "url": "assets/font/puyu_saveTake_fnt.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_saveTake_fnt.fnt"
+    },
+    {
+      "url": "assets/font/puyu_saveTake_fnt.png",
+      "type": "image",
+      "name": "assets/font/puyu_saveTake_fnt.png"
+    },
+    {
+      "url": "assets/font/puyu_select_experience.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_select_experience.fnt"
+    },
+    {
+      "url": "assets/font/puyu_select_experience.png",
+      "type": "image",
+      "name": "assets/font/puyu_select_experience.png"
+    },
+    {
+      "url": "assets/font/puyu_select_gold.fnt",
+      "type": "font",
+      "name": "assets/font/puyu_select_gold.fnt"
+    },
+    {
+      "url": "assets/font/puyu_select_gold.png",
+      "type": "image",
+      "name": "assets/font/puyu_select_gold.png"
+    },
+    {
+      "url": "assets/selectScene/buyu_selectScene.json",
+      "type": "json",
+      "name": "assets/selectScene/buyu_selectScene.json"
+    },
+    {
+      "url": "assets/selectScene/buyu_selectScene.png",
+      "type": "image",
+      "name": "assets/selectScene/buyu_selectScene.png"
+    },
+    {
+      "url": "assets/selectScene/py_slelect_bg.jpg",
+      "type": "image",
+      "name": "assets/selectScene/py_slelect_bg.jpg"
+    },
+    {
+      "url": "assets/music/by_changeFort_sound.mp3",
+      "type": "sound",
+      "name": "assets/music/by_changeFort_sound.mp3"
+    },
+    {
+      "url": "assets/music/by_wave_sound.mp3",
+      "type": "sound",
+      "name": "assets/music/by_wave_sound.mp3"
+    },
+    {
+      "url": "assets/music/hw_bg_1.mp3",
+      "type": "sound",
+      "name": "assets/music/hw_bg_1.mp3"
+    },
+    {
+      "url": "assets/music/hw_bg_2.mp3",
+      "type": "sound",
+      "name": "assets/music/hw_bg_2.mp3"
+    },
+    {
+      "url": "assets/music/hw_bg_3.mp3",
+      "type": "sound",
+      "name": "assets/music/hw_bg_3.mp3"
+    },
+    {
+      "url": "assets/music/hw_bg_4.mp3",
+      "type": "sound",
+      "name": "assets/music/hw_bg_4.mp3"
+    },
+    {
+      "url": "assets/music/MUSIC_BACKGROUND_Boss.mp3",
+      "type": "sound",
+      "name": "assets/music/MUSIC_BACKGROUND_Boss.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_AddBet.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_AddBet.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_AddBetMax.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_AddBetMax.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_BossNumber.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_BossNumber.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_CardCatch.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_CardCatch.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_CoinGet_1.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_CoinGet_1.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_CoinGet_2.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_CoinGet_2.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_CoinGet_3.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_CoinGet_3.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_count1_1.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_count1_1.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_count1_2.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_count1_2.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_count1_3.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_count1_3.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_count1_4.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_count1_4.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_count1_5.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_count1_5.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_Crocodile_SceanRock.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_Crocodile_SceanRock.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_DragonBlow.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_DragonBlow.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_NumberCount.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_NumberCount.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_PLAYERCHANGE.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_PLAYERCHANGE.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_PlayerSystemAddScore.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_PlayerSystemAddScore.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_SupperFishCatch.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_SupperFishCatch.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_SupperResult_1.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_SupperResult_1.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_SupperResult_2.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_SupperResult_2.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_SupperResult_3.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_SupperResult_3.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_SupperResult_4.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_SupperResult_4.mp3"
+    },
+    {
+      "url": "assets/music/SOUND_TimeFireUp.mp3",
+      "type": "sound",
+      "name": "assets/music/SOUND_TimeFireUp.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch1.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch1.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch10.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch10.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch11.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch11.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch12.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch12.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch13.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch13.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch14.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch14.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch15.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch15.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch16.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch16.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch17.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch17.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch18.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch18.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch19.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch19.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch2.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch2.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch20.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch20.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch21.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch21.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch3.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch3.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch4.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch4.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch5.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch5.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch6.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch6.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch7.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch7.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch8.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch8.mp3"
+    },
+    {
+      "url": "assets/music/fishDie/SOUND_Whalecatch9.mp3",
+      "type": "sound",
+      "name": "assets/music/fishDie/SOUND_Whalecatch9.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleBoom.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleBoom.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleBoomReady.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleBoomReady.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleFire.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleFire.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleGet1.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleGet1.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleGet2.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleGet2.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleGet3.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleGet3.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleHit_1.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleHit_1.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleHit_2.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleHit_2.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_AiguilleStandBy.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_AiguilleStandBy.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_CrabBoom.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_CrabBoom.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_CrabBoomGet_1.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_CrabBoomGet_1.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_CrabBoomGet_2.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_CrabBoomGet_2.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_CrabBoomGet_3.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_CrabBoomGet_3.mp3"
+    },
+    {
+      "url": "assets/music/skill/SOUND_WhirlpoolWind.mp3",
+      "type": "sound",
+      "name": "assets/music/skill/SOUND_WhirlpoolWind.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_diancipao_1.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_diancipao_1.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_diancipao_2.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_diancipao_2.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_diancipao_3.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_diancipao_3.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_diancipao_fire.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_diancipao_fire.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_diancipao_ju.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_diancipao_ju.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_sound_lock.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_sound_lock.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_sound_shoot1.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_sound_shoot1.mp3"
+    },
+    {
+      "url": "assets/music/sound/hw_sound_shoot2.mp3",
+      "type": "sound",
+      "name": "assets/music/sound/hw_sound_shoot2.mp3"
+    },
+    {
+      "url": "assets/blue/Button/button_down.png",
+      "type": "image",
+      "name": "assets/blue/Button/button_down.png"
+    },
+    {
+      "url": "assets/blue/Button/button_up.png",
+      "type": "image",
+      "name": "assets/blue/Button/button_up.png"
+    },
+    {
+      "url": "assets/blue/ItemRenderer/selected.png",
+      "type": "image",
+      "name": "assets/blue/ItemRenderer/selected.png"
+    },
+    {
+      "url": "assets/blue/CheckBox/checkbox_select_disabled.png",
+      "type": "image",
+      "name": "assets/blue/CheckBox/checkbox_select_disabled.png"
+    },
+    {
+      "url": "assets/blue/CheckBox/checkbox_select_down.png",
+      "type": "image",
+      "name": "assets/blue/CheckBox/checkbox_select_down.png"
+    },
+    {
+      "url": "assets/blue/CheckBox/checkbox_select_up.png",
+      "type": "image",
+      "name": "assets/blue/CheckBox/checkbox_select_up.png"
+    },
+    {
+      "url": "assets/blue/CheckBox/checkbox_unselect.png",
+      "type": "image",
+      "name": "assets/blue/CheckBox/checkbox_unselect.png"
+    },
+    {
+      "url": "assets/blue/Panel/border.png",
+      "type": "image",
+      "name": "assets/blue/Panel/border.png"
+    },
+    {
+      "url": "assets/blue/Panel/header.png",
+      "type": "image",
+      "name": "assets/blue/Panel/header.png"
+    },
+    {
+      "url": "assets/blue/ProgressBar/thumb_pb.png",
+      "type": "image",
+      "name": "assets/blue/ProgressBar/thumb_pb.png"
+    },
+    {
+      "url": "assets/blue/ProgressBar/track_pb.png",
+      "type": "image",
+      "name": "assets/blue/ProgressBar/track_pb.png"
+    },
+    {
+      "url": "assets/blue/RadioButton/radiobutton_select_disabled.png",
+      "type": "image",
+      "name": "assets/blue/RadioButton/radiobutton_select_disabled.png"
+    },
+    {
+      "url": "assets/blue/RadioButton/radiobutton_select_down.png",
+      "type": "image",
+      "name": "assets/blue/RadioButton/radiobutton_select_down.png"
+    },
+    {
+      "url": "assets/blue/RadioButton/radiobutton_select_up.png",
+      "type": "image",
+      "name": "assets/blue/RadioButton/radiobutton_select_up.png"
+    },
+    {
+      "url": "assets/blue/RadioButton/radiobutton_unselect.png",
+      "type": "image",
+      "name": "assets/blue/RadioButton/radiobutton_unselect.png"
+    },
+    {
+      "url": "assets/blue/ScrollBar/roundthumb.png",
+      "type": "image",
+      "name": "assets/blue/ScrollBar/roundthumb.png"
+    },
+    {
+      "url": "assets/blue/ScrollBar/track_sb.png",
+      "type": "image",
+      "name": "assets/blue/ScrollBar/track_sb.png"
+    },
+    {
+      "url": "assets/blue/Slider/thumb.png",
+      "type": "image",
+      "name": "assets/blue/Slider/thumb.png"
+    },
+    {
+      "url": "assets/blue/Slider/track.png",
+      "type": "image",
+      "name": "assets/blue/Slider/track.png"
+    },
+    {
+      "url": "assets/blue/Slider/tracklight.png",
+      "type": "image",
+      "name": "assets/blue/Slider/tracklight.png"
+    },
+    {
+      "url": "assets/blue/ToggleSwitch/handle.png",
+      "type": "image",
+      "name": "assets/blue/ToggleSwitch/handle.png"
+    },
+    {
+      "url": "assets/blue/ToggleSwitch/off.png",
+      "type": "image",
+      "name": "assets/blue/ToggleSwitch/off.png"
+    },
+    {
+      "url": "assets/blue/ToggleSwitch/on.png",
+      "type": "image",
+      "name": "assets/blue/ToggleSwitch/on.png"
+    },
+    {
+      "url": "assets/haiwang2/bg/hwpy_qianhuan_effect_tex.png",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hwpy_qianhuan_effect_tex.png"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_1.jpg",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_1.jpg"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_1_1.png",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_1_1.png"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_2.jpg",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_2.jpg"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_2_1.png",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_2_1.png"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_2_2.png",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_2_2.png"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_3.png",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_3.png"
+    },
+    {
+      "url": "assets/haiwang2/bg/hw_bg_4.jpg",
+      "type": "image",
+      "name": "assets/haiwang2/bg/hw_bg_4.jpg"
+    },
+    {
+      "url": "assets/haiwang2/dragonBones/buyu_bazhuayu_tex.png",
+      "type": "image",
+      "name": "assets/haiwang2/dragonBones/buyu_bazhuayu_tex.png"
+    },
+    {
+      "url": "assets/haiwang2/deadBoss/deadBoss.json",
+      "type": "json",
+      "name": "assets/haiwang2/deadBoss/deadBoss.json"
+    },
+    {
+      "url": "assets/haiwang2/deadBoss/deadBoss.png",
+      "type": "image",
+      "name": "assets/haiwang2/deadBoss/deadBoss.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon1.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon1.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon1.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon1.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon11.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon11.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon11.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon11.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon16.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon16.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon16.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon16.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon21.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon21.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon21.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon21.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon26.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon26.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon26.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon26.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon31.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon31.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon31.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon31.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon36.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon36.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon36.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon36.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon41.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon41.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon41.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon41.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon46.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon46.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon46.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon46.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon51.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon51.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon51.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon51.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon56.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon56.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon56.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon56.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon6.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon6.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon6.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon6.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon61.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon61.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon61.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon61.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon66.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon66.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon66.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon66.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon71.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/dragon71.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/dragon71.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/dragon71.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_1.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_1.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_1.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_1.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_10.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_10.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_10.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_10.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_11.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_11.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_11.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_11.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_12.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_12.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_12.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_12.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_13.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_13.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_13.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_13.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_14.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_14.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_14.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_14.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_15.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_15.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_15.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_15.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_16.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_16.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_16.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_16.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_17.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_17.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_17.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_17.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_18.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_18.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_18.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_18.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_19.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_19.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_19.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_19.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_2.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_2.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_2.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_2.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_20.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_20.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_20.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_20.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_21.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_21.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_21.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_21.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_22.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_22.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_22.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_22.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_23.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_23.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_23.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_23.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_23_attack.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_23_attack.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_23_attack.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_23_attack.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_24.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_24.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_24.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_24.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_24_begin.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_24_begin.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_24_begin.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_24_begin.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_25.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_25.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_25.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_25.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_3.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_3.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_3.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_3.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_4.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_4.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_4.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_4.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_5.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_5.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_5.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_5.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_6.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_6.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_6.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_6.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_7.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_7.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_7.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_7.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_8.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_8.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_8.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_8.png"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_9.json",
+      "type": "json",
+      "name": "assets/haiwang2/fish/fish_9.json"
+    },
+    {
+      "url": "assets/haiwang2/fish/fish_9.png",
+      "type": "image",
+      "name": "assets/haiwang2/fish/fish_9.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_10.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_10.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_10.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_10.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_11.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_11.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_11.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_11.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_12.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_12.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_12.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_12.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_13.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_13.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_13.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_13.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_14.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_14.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_14.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_14.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_15.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_15.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_15.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_15.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_16.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_16.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_16.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_16.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_17.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_17.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_17.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_17.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_18.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_18.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_18.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_18.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_2.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_2.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_2.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_2.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_25.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_25.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_25.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_25.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_3.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_3.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_3.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_3.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_4.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_4.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_4.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_4.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_5.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_5.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_5.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_5.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_6.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_6.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_6.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_6.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_7.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_7.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_7.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_7.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_8.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_8.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_8.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_8.png"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_9.json",
+      "type": "json",
+      "name": "assets/haiwang2/fishDie/fishDie_9.json"
+    },
+    {
+      "url": "assets/haiwang2/fishDie/fishDie_9.png",
+      "type": "image",
+      "name": "assets/haiwang2/fishDie/fishDie_9.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw2_lyfb_score.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw2_lyfb_score.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw2_lyfb_score.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw2_lyfb_score.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_exchange.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw_exchange.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_exchange.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw_exchange.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_fen.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw_fen.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_fen.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw_fen.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_fortgold.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw_fortgold.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_fortgold.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw_fortgold.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_skill_score.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw_skill_score.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_skill_score.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw_skill_score.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_time.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw_time.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_time.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw_time.png"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_wingold.fnt",
+      "type": "font",
+      "name": "assets/haiwang2/font/hw_wingold.fnt"
+    },
+    {
+      "url": "assets/haiwang2/font/hw_wingold.png",
+      "type": "image",
+      "name": "assets/haiwang2/font/hw_wingold.png"
+    },
+    {
+      "url": "assets/haiwang2/fort/hw_fort.json",
+      "type": "json",
+      "name": "assets/haiwang2/fort/hw_fort.json"
+    },
+    {
+      "url": "assets/haiwang2/fort/hw_fort.png",
+      "type": "image",
+      "name": "assets/haiwang2/fort/hw_fort.png"
+    },
+    {
+      "url": "assets/haiwang2/ui/hw2_ui.json",
+      "type": "json",
+      "name": "assets/haiwang2/ui/hw2_ui.json"
+    },
+    {
+      "url": "assets/haiwang2/ui/hw2_ui.png",
+      "type": "image",
+      "name": "assets/haiwang2/ui/hw2_ui.png"
+    },
+    {
+      "url": "assets/haiwang2/ui/hwpy_room_tujian.png",
+      "type": "image",
+      "name": "assets/haiwang2/ui/hwpy_room_tujian.png"
+    },
+    {
+      "url": "assets/haiwang2/ui/hw_fishIcon.json",
+      "type": "json",
+      "name": "assets/haiwang2/ui/hw_fishIcon.json"
+    },
+    {
+      "url": "assets/haiwang2/ui/hw_fishIcon.png",
+      "type": "image",
+      "name": "assets/haiwang2/ui/hw_fishIcon.png"
+    },
+    {
+      "url": "assets/haiwang2/ui/lyfb.json",
+      "type": "json",
+      "name": "assets/haiwang2/ui/lyfb.json"
+    },
+    {
+      "url": "assets/haiwang2/ui/lyfb.png",
+      "type": "image",
+      "name": "assets/haiwang2/ui/lyfb.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_bomb.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/hw_bomb.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_bomb.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/hw_bomb.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_diancipao_effect.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/hw_diancipao_effect.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_diancipao_effect.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/hw_diancipao_effect.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_lighting_skill.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/hw_lighting_skill.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_lighting_skill.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/hw_lighting_skill.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_mc_1.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/hw_mc_1.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_mc_1.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/hw_mc_1.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_mc_2.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/hw_mc_2.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_mc_2.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/hw_mc_2.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_zt_skill.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/hw_zt_skill.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/hw_zt_skill.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/hw_zt_skill.png"
+    },
+    {
+      "url": "assets/haiwang2/mc/zd_effect.json",
+      "type": "json",
+      "name": "assets/haiwang2/mc/zd_effect.json"
+    },
+    {
+      "url": "assets/haiwang2/mc/zd_effect.png",
+      "type": "image",
+      "name": "assets/haiwang2/mc/zd_effect.png"
+    }
+  ]
+}

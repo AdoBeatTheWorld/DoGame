@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="MenuDownSkin" xmlns:e="http://ns.egret.com/eui" height="100">
+	<e:Group height="100" width="1100">
+		<e:layout>
+			<e:HorizontalLayout gap="15" horizontalAlign="center" verticalAlign="middle" />
+		</e:layout>
+		<e:Scroller width="1100" height="100" x="219" y="17">
+			<e:Group>
+				<e:Button id="rankBtn" y="14" x="200" width="180" scaleX="1" scaleY="1" height="100">
+					<e:skinName>
+						<e:Skin states="up,down,disabled">
+							<e:Image x="50" source="paihang1" />
+							<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+							<e:Image right="0" verticalCenter="0" source="new_main_separate_line" />
+						</e:Skin>
+					</e:skinName>
+				</e:Button>
+				<e:Button id="exchangeBtn" x="450" width="180" y="6" scaleX="1" scaleY="1" height="100">
+					<e:Skin states="up,down,disabled">
+						<e:Image horizontalCenter="0" verticalCenter="0" source="duihuan" />
+						<e:Image right="0" verticalCenter="0" source="new_main_separate_line" />
+						<e:Label id="labelDisplay1" width="100%" height="100%" horizontalCenter="0" verticalCenter="0" />
+					</e:Skin>
+				</e:Button>
+				<e:Button id="safeBoxBtn" width="180" y="14" x="650" scaleX="1" scaleY="1" height="100">
+					<e:Skin states="up,down,disabled">
+						<e:Image horizontalCenter="0" verticalCenter="0" source="baoxian" />
+						<e:Image right="0" verticalCenter="0" source="new_main_separate_line" />
+						<e:Label id="labelDisplay3" width="100%" height="100%" horizontalCenter="0" verticalCenter="0" />
+					</e:Skin>
+				</e:Button>
+				<e:Button id="rechargeBtn" x="850" width="180" y="0" scaleX="1" scaleY="1" height="100">
+					<e:Skin states="up,down,disabled" xmlns:w="http://ns.egret.com/wing">
+						<e:Image horizontalCenter="0" verticalCenter="0" source="chongzhi" />
+						<e:Image right="0" verticalCenter="0" source="new_main_separate_line" />
+						<e:Label id="labelDisplay4" width="100%" height="100%" horizontalCenter="0" verticalCenter="0" />
+					</e:Skin>
+				</e:Button>
+				<e:Button id="backBtn" y="2" x="0" width="180" scaleX="1" scaleY="1" height="100">
+					<e:Skin states="up,down,disabled">
+						<e:Image horizontalCenter="0" verticalCenter="0" source="wenti" />
+						<e:Image right="0" verticalCenter="0" source="new_main_separate_line" />
+						<e:Label id="labelDisplay2" width="100%" height="100%" horizontalCenter="0" verticalCenter="0" />
+					</e:Skin>
+				</e:Button>
+				<e:Button id="wealBtn" y="2" x="0" width="180" scaleX="1" scaleY="1" height="100">
+					<e:Skin states="up,down,disabled">
+						<e:Image horizontalCenter="0" verticalCenter="0" source="fuli" />
+						<e:Label id="labelDisplay2" width="100%" height="100%" horizontalCenter="0" verticalCenter="0" />
+					</e:Skin>
+				</e:Button>
+				<e:layout>
+					<e:HorizontalLayout horizontalAlign="center" verticalAlign="middle" gap="0" />
+				</e:layout>
+			</e:Group>
+		</e:Scroller>
+		<e:List id="menuList" width="0" height="0" x="1720" y="0" scaleX="1" scaleY="1" />
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HwFortPanelSkin" width="346" height="120" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="under_img" source="PaoTaiDown_png" y="0" horizontalCenter="0"/>
+	<e:Image source="PaoTaiFSBox_png" y="40" horizontalCenter="0" locked="true"/>
+	<e:Image id="fen_img" source="fenbox02_png" x="206" y="57" anchorOffsetX="0" width="138" locked="true"/>
+	<e:Image id="name_img" source="namebox01_png" x="-1" y="57" width="138" locked="true"/>
+	<e:Image id="gun_gold_bg" source="PaoTaiUp_png" y="39" horizontalCenter="0"/>
+	<e:Image source="PaoTaiYC_png" y="85" x="109"/>
+	<e:Label id="name_lbl" fontFamily="Microsoft YaHei" text="12" y="70" size="20" anchorOffsetX="0" textAlign="center" width="98" x="15"/>
+	<e:BitmapLabel id="fen_blbl" height="26" y="68" font="hw_fen_fnt" text="11" rotation="0" anchorOffsetY="0" anchorOffsetX="0" textAlign="left" verticalAlign="middle"  x="232"/>
+	<e:BitmapLabel id="fortGold_blbl" width="91" height="20" y="69" font="hw_fortgold_fnt" text="100000" horizontalCenter="0" textAlign="center" />
+</e:Skin>

@@ -1,0 +1,9 @@
+{"file":"lb_prelaoding_res.png","frames":{
+"lb_loadPanel_quan_png":{"x":803,"y":53,"w":101,"h":101,"offX":0,"offY":0,"sourceW":101,"sourceH":101},
+"lobby_Wait_png":{"x":985,"y":1,"w":33,"h":34,"offX":0,"offY":0,"sourceW":33,"sourceH":34},
+"tipsBg":{"x":1,"y":53,"w":800,"h":58,"offX":0,"offY":0,"sourceW":800,"sourceH":58},
+"lb_loadPanel_word_png":{"x":143,"y":113,"w":161,"h":24,"offX":0,"offY":0,"sourceW":161,"sourceH":24},
+"lb_loadPanel_taoxin_png":{"x":938,"y":1,"w":45,"h":47,"offX":0,"offY":0,"sourceW":45,"sourceH":47},
+"saizi":{"x":1,"y":113,"w":140,"h":50,"offX":0,"offY":0,"sourceW":140,"sourceH":50},
+"lb_loading_darkLine":{"x":1,"y":1,"w":935,"h":50,"offX":0,"offY":0,"sourceW":935,"sourceH":50},
+"lb_loading_lightLine":{"x":906,"y":53,"w":86,"h":10,"offX":0,"offY":24,"sourceW":86,"sourceH":50}}}

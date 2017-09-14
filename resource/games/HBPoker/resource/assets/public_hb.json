@@ -1,0 +1,45 @@
+{
+  "file": "public_hb.png",
+  "frames": {
+    "public_client2_hb": {
+      "x": 0,
+      "y": 297,
+      "w": 118,
+      "h": 177,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 118,
+      "sourceH": 177
+    },
+    "public_client3_hb": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "public_client4_hb": {
+      "x": 0,
+      "y": 211,
+      "w": 474,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 474,
+      "sourceH": 85
+    },
+    "public_client5_hb": {
+      "x": 119,
+      "y": 297,
+      "w": 86,
+      "h": 88,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 88
+    }
+  }
+}

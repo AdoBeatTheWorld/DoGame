@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NBjl_UserListSkin" width="280" height="500" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="156db63a0fd"/>
+	<e:Image source="nbjl_list_bg_png" scale9Grid="30,29,7,3" left="0" right="0" top="0" bottom="0" locked="true"/>
+	<e:Image source="nbjl_noset_title_png" x="89" y="10"/>
+	<e:Image source="nbjl_history_content_bg_png" scale9Grid="15,18,30,24" y="51" x="17" width="247" height="428"/>
+	<!--<e:Scroller width="230" height="409" y="60" x="25">-->
+		<!--<e:Group height="409" y="60" x="25">-->
+			<e:List id="userList_lst" width="230" height="400" itemRendererSkinName="NBjl_UserItemView" x="26" y="62">
+				<e:layout>
+					<e:VerticalLayout/>
+				</e:layout>
+			</e:List>
+		<!--</e:Group>-->
+	<!--</e:Scroller>-->
+</e:Skin>

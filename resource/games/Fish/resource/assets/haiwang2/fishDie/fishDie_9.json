@@ -1,0 +1,64 @@
+{"mc":{
+	"1":{
+		"frameRate":8,
+		"labels":[
+			{"name":"run","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_Tortoise_Die_01",
+			"x":-78,
+			"y":-64
+			},
+			{
+			"res":"Fish_Tortoise_Die_02",
+			"x":-74,
+			"y":-37
+			},
+			{
+			"res":"Fish_Tortoise_Die_03",
+			"x":-81,
+			"y":-54
+			},
+			{
+			"res":"Fish_Tortoise_Die_04",
+			"x":-86,
+			"y":-98
+			},
+			{
+			"res":"Fish_Tortoise_Die_05",
+			"x":-80,
+			"y":-57
+			},
+			{
+			"res":"Fish_Tortoise_Die_06",
+			"x":-75,
+			"y":-53
+			},
+			{
+			"res":"Fish_Tortoise_Die_07",
+			"x":-70,
+			"y":-88
+			},
+			{
+			"res":"Fish_Tortoise_Die_08",
+			"x":-72,
+			"y":-89
+			}
+			]
+}},
+	"res":{
+		"Fish_Tortoise_Die_07":{"x":320,"y":0,"w":149,"h":135},
+		"Fish_Tortoise_Die_01":{"x":320,"y":137,"w":158,"h":122},
+		"Fish_Tortoise_Die_03":{"x":0,"y":185,"w":159,"h":115},
+		"Fish_Tortoise_Die_04":{"x":0,"y":0,"w":165,"h":183},
+		"Fish_Tortoise_Die_08":{"x":167,"y":0,"w":151,"h":171},
+		"Fish_Tortoise_Die_02":{"x":322,"y":261,"w":156,"h":82},
+		"Fish_Tortoise_Die_06":{"x":161,"y":185,"w":156,"h":74},
+		"Fish_Tortoise_Die_05":{"x":161,"y":261,"w":159,"h":89}
+	}}

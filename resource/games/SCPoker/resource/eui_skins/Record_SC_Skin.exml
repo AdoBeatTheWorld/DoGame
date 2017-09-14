@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Record_SC_Skin" width="631" height="186" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bgImage" source="record_bg1" horizontalCenter="0" verticalCenter="0"/>
+	<e:Scroller width="541" height="117" x="70" y="52" anchorOffsetX="0" anchorOffsetY="0">
+		<e:List id="rightmarkList" x="63" y="52" anchorOffsetX="0" anchorOffsetY="0" width="533">
+		<e:layout>
+		<e:TileLayout orientation="columns" horizontalGap="0" verticalGap="0"/>
+		</e:layout>
+	</e:List>
+	</e:Scroller>
+</e:Skin>

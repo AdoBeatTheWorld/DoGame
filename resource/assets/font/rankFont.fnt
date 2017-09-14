@@ -1,0 +1,14 @@
+{"file":"rankFont.png","frames":{
+"0":{"x":173,"y":182,"w":36,"h":44,"offX":0,"offY":21,"sourceW":36,"sourceH":85},
+"1":{"x":211,"y":182,"w":21,"h":44,"offX":0,"offY":21,"sourceW":21,"sourceH":85},
+"2":{"x":79,"y":183,"w":36,"h":44,"offX":0,"offY":21,"sourceW":36,"sourceH":85},
+"3":{"x":95,"y":135,"w":38,"h":46,"offX":0,"offY":21,"sourceW":38,"sourceH":85},
+"4":{"x":95,"y":87,"w":38,"h":46,"offX":0,"offY":21,"sourceW":38,"sourceH":85},
+"5":{"x":135,"y":182,"w":36,"h":45,"offX":1,"offY":22,"sourceW":38,"sourceH":85},
+"6":{"x":135,"y":87,"w":37,"h":46,"offX":1,"offY":21,"sourceW":38,"sourceH":85},
+"7":{"x":135,"y":135,"w":37,"h":45,"offX":1,"offY":22,"sourceW":38,"sourceH":85},
+"8":{"x":0,"y":174,"w":38,"h":46,"offX":0,"offY":21,"sourceW":38,"sourceH":85},
+"9":{"x":40,"y":174,"w":37,"h":46,"offX":1,"offY":21,"sourceW":38,"sourceH":85},
+"金":{"x":0,"y":0,"w":93,"h":85,"offX":0,"offY":0,"sourceW":93,"sourceH":85},
+"铜":{"x":0,"y":87,"w":93,"h":85,"offX":0,"offY":0,"sourceW":93,"sourceH":85},
+"银":{"x":95,"y":0,"w":93,"h":85,"offX":0,"offY":0,"sourceW":93,"sourceH":85}}}

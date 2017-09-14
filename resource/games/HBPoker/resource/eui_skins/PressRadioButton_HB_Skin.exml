@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PressRadioButton_HB_Skin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="hb_press1" id="typeImage"/>
+	<e:Image id="lightImage" source="hb_shl_dh" visible.down="true"/>
+	<e:Image source="main_hb_json.hb_self_bet_bg" x="2" y="183"/>
+	<e:Label id="totalBetLabel" horizontalCenter="0" text="0" y="3" size="25"/>
+	<e:Label id="selfBetLabel" horizontalCenter="0" text="0" bottom="3" size="25" textColor="0xf7f709"/>
+</e:Skin>

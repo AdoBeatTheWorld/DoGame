@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CloseBtnSkin" width="104" height="105" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="0" y="0" source="public6" anchorOffsetX="0" verticalCenter="0" horizontalCenter="0" anchorOffsetY="0" scaleX.down="0.8"
+	         scaleY.down="0.8" />
+</e:Skin>

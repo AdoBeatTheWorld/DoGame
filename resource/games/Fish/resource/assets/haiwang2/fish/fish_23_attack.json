@@ -1,0 +1,349 @@
+{
+  "mc": {
+    "action": {
+      "frameRate": 8,
+      "labels": [
+        {
+          "name": "effect",
+          "frame": 1,
+          "end": 30
+        }
+      ],
+      "events": [],
+      "frames": [
+        {
+          "res": "Fish_BossCrocodile_Attack_001",
+          "x": -277,
+          "y": -83
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_002",
+          "x": -283,
+          "y": -84
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_003",
+          "x": -289,
+          "y": -85
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_004",
+          "x": -290,
+          "y": -85
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_005",
+          "x": -285,
+          "y": -85
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_006",
+          "x": -277,
+          "y": -85
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_007",
+          "x": -267,
+          "y": -87
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_008",
+          "x": -254,
+          "y": -91
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_009",
+          "x": -240,
+          "y": -96
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_010",
+          "x": -227,
+          "y": -99
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_011",
+          "x": -214,
+          "y": -101
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_012",
+          "x": -204,
+          "y": -99
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_013",
+          "x": -195,
+          "y": -94
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_014",
+          "x": -187,
+          "y": -87
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_015",
+          "x": -181,
+          "y": -86
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_016",
+          "x": -176,
+          "y": -85
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_017",
+          "x": -173,
+          "y": -85
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_018",
+          "x": -172,
+          "y": -86
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_019",
+          "x": -172,
+          "y": -86
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_020",
+          "x": -175,
+          "y": -87
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_021",
+          "x": -181,
+          "y": -88
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_022",
+          "x": -190,
+          "y": -88
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_023",
+          "x": -199,
+          "y": -88
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_024",
+          "x": -210,
+          "y": -88
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_025",
+          "x": -221,
+          "y": -87
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_026",
+          "x": -232,
+          "y": -84
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_027",
+          "x": -243,
+          "y": -80
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_028",
+          "x": -253,
+          "y": -76
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_029",
+          "x": -262,
+          "y": -78
+        },
+        {
+          "res": "Fish_BossCrocodile_Attack_030",
+          "x": -271,
+          "y": -81
+        }
+      ]
+    }
+  },
+  "res": {
+    "Fish_BossCrocodile_Attack_001": {
+      "x": 1069,
+      "y": 777,
+      "w": 532,
+      "h": 172
+    },
+    "Fish_BossCrocodile_Attack_002": {
+      "x": 1118,
+      "y": 392,
+      "w": 543,
+      "h": 174
+    },
+    "Fish_BossCrocodile_Attack_003": {
+      "x": 562,
+      "y": 394,
+      "w": 555,
+      "h": 177
+    },
+    "Fish_BossCrocodile_Attack_004": {
+      "x": 0,
+      "y": 563,
+      "w": 561,
+      "h": 180
+    },
+    "Fish_BossCrocodile_Attack_005": {
+      "x": 0,
+      "y": 0,
+      "w": 557,
+      "h": 183
+    },
+    "Fish_BossCrocodile_Attack_006": {
+      "x": 0,
+      "y": 184,
+      "w": 547,
+      "h": 186
+    },
+    "Fish_BossCrocodile_Attack_007": {
+      "x": 0,
+      "y": 371,
+      "w": 531,
+      "h": 191
+    },
+    "Fish_BossCrocodile_Attack_008": {
+      "x": 558,
+      "y": 0,
+      "w": 507,
+      "h": 198
+    },
+    "Fish_BossCrocodile_Attack_009": {
+      "x": 562,
+      "y": 572,
+      "w": 481,
+      "h": 204
+    },
+    "Fish_BossCrocodile_Attack_010": {
+      "x": 1066,
+      "y": 184,
+      "w": 463,
+      "h": 207
+    },
+    "Fish_BossCrocodile_Attack_011": {
+      "x": 1118,
+      "y": 567,
+      "w": 448,
+      "h": 209
+    },
+    "Fish_BossCrocodile_Attack_012": {
+      "x": 0,
+      "y": 1128,
+      "w": 435,
+      "h": 205
+    },
+    "Fish_BossCrocodile_Attack_013": {
+      "x": 534,
+      "y": 956,
+      "w": 422,
+      "h": 198
+    },
+    "Fish_BossCrocodile_Attack_014": {
+      "x": 453,
+      "y": 1352,
+      "w": 410,
+      "h": 189
+    },
+    "Fish_BossCrocodile_Attack_015": {
+      "x": 426,
+      "y": 1542,
+      "w": 400,
+      "h": 186
+    },
+    "Fish_BossCrocodile_Attack_016": {
+      "x": 400,
+      "y": 1729,
+      "w": 392,
+      "h": 185
+    },
+    "Fish_BossCrocodile_Attack_017": {
+      "x": 864,
+      "y": 1346,
+      "w": 389,
+      "h": 186
+    },
+    "Fish_BossCrocodile_Attack_018": {
+      "x": 1567,
+      "y": 567,
+      "w": 388,
+      "h": 188
+    },
+    "Fish_BossCrocodile_Attack_019": {
+      "x": 859,
+      "y": 1155,
+      "w": 391,
+      "h": 190
+    },
+    "Fish_BossCrocodile_Attack_020": {
+      "x": 957,
+      "y": 956,
+      "w": 403,
+      "h": 192
+    },
+    "Fish_BossCrocodile_Attack_021": {
+      "x": 0,
+      "y": 1728,
+      "w": 399,
+      "h": 195
+    },
+    "Fish_BossCrocodile_Attack_022": {
+      "x": 453,
+      "y": 1155,
+      "w": 405,
+      "h": 196
+    },
+    "Fish_BossCrocodile_Attack_023": {
+      "x": 0,
+      "y": 1531,
+      "w": 425,
+      "h": 196
+    },
+    "Fish_BossCrocodile_Attack_024": {
+      "x": 0,
+      "y": 1334,
+      "w": 452,
+      "h": 196
+    },
+    "Fish_BossCrocodile_Attack_025": {
+      "x": 1530,
+      "y": 184,
+      "w": 485,
+      "h": 193
+    },
+    "Fish_BossCrocodile_Attack_026": {
+      "x": 548,
+      "y": 199,
+      "w": 514,
+      "h": 194
+    },
+    "Fish_BossCrocodile_Attack_027": {
+      "x": 0,
+      "y": 744,
+      "w": 531,
+      "h": 190
+    },
+    "Fish_BossCrocodile_Attack_028": {
+      "x": 1066,
+      "y": 0,
+      "w": 537,
+      "h": 183
+    },
+    "Fish_BossCrocodile_Attack_029": {
+      "x": 532,
+      "y": 777,
+      "w": 536,
+      "h": 178
+    },
+    "Fish_BossCrocodile_Attack_030": {
+      "x": 0,
+      "y": 956,
+      "w": 533,
+      "h": 171
+    }
+  }
+}

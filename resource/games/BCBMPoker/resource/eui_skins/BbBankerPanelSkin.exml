@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbBankerPanelSkin" width="742" height="636" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="0" scale9Grid="352,189,41,43" height="100%" source="bb_bg_png" width="100%"/>
+	<e:Image y="19" horizontalCenter="0" source="bb_list_title_png"/>
+	<e:Image source="bb_banker_selectBg_png" y="83" width="690" scale9Grid="38,82,27,23" horizontalCenter="1" height="410"/>
+	<e:Button id="down_btn" label="" y="506" horizontalCenter="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_shimosho_png" source.down="bb_shimosho_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+
+	</e:Button>
+	<e:Button id="close_btn" label="" x="665" y="-12">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_set_clostNormal_png" source.down="bb_set_clostDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:HSlider id="curry_hsd" x="32" y="559" width="415" visible="false">
+        <e:Skin states="up,down">
+            <e:Image id="track" source="bb_banker_trackHighlight_png" scale9Grid="38,27,13,4" width="100%"/>
+            <e:Image id="trackHighlight" source="bb_banker_thumb_png" scale9Grid="11,26,3,4"/>
+            <e:Image id="thumb" source="bb_banker_trackNormal_png" source.down="bb_banker_trackDown_png" y="10"/>
+        </e:Skin>
+    </e:HSlider>
+	<e:Scroller width="670" height="390" y="95" horizontalCenter="0">
+		<e:List id="banker_lst" itemRendererSkinName="BbBankerItemSkin">
+			<e:layout>
+				<e:VerticalLayout gap="8"/>
+			</e:layout>
+		</e:List>
+	</e:Scroller>
+	<e:Label text="您要上庄携带:" x="32" y="506" fontFamily="微软雅黑" textColor="0x9c9c9c" visible="false"/>
+	<e:Image id="select_img" x="230" y="498" scale9Grid="71,23,34,9" height="56" source="bb_banker_carryBg_png" visible="false"/>
+	<e:Button id="select_btn" label="" x="403" y="524" anchorOffsetX="18" anchorOffsetY="14.5" rotation="0" visible="false">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_banker_trigNormal_png" source.down="bb_banker_trigDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="up_btn" label="" y="506" horizontalCenter="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_shzh_png" source.down="bb_shzh_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+
+	</e:Button>
+	<e:Label id="select_lbl" text="8000万" y="514" fontFamily="微软雅黑" size="25" horizontalCenter="-54" touchEnabled="false" visible="false"/>
+	<e:Group id="select_grp" width="206" height="162" x="230" y="334" visible="false">
+		<e:Label id="select1_lbl" text="8000万" y="0" fontFamily="微软雅黑" size="25" horizontalCenter="-42"/>
+		<e:Label id="select2_lbl" text="8000万" y="418" fontFamily="微软雅黑" size="25" horizontalCenter="-42"/>
+		<e:Label id="select3_lbl" text="8000万" y="374" fontFamily="微软雅黑" size="25" horizontalCenter="-42"/>
+		<e:Label id="select4_lbl" text="8000万" y="331" fontFamily="微软雅黑" size="25" horizontalCenter="-42"/>
+		<e:layout>
+			<e:VerticalLayout horizontalAlign="left" gap="20" paddingLeft="45"/>
+		</e:layout>
+	</e:Group>
+	
+</e:Skin>

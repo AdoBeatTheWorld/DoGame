@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AnnouncemenPanelSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="-2.67" y="0" fillAlpha="0.6"/>
+	<e:Image id="brackground" verticalCenter="0" width="800" height="500" horizontalCenter="0" source="common_bg_3" scale9Grid="26,35,153,77"/>
+	<e:Image width="700.06" height="300.12" source="authen_bg" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="0" horizontalCenter="0"/>
+	<e:Button id="closeBtn" label="Button" x="961" y="85.5" skinName="CloseBtnSkin"/>
+	<e:Label text="公告" y="146" size="35" textColor="0xa81a1a" fontFamily="Microsoft YaHei" horizontalCenter="0"/>
+	<e:Label id="announceLabel" text="欢迎您的到来，祝您游戏愉快！！
+	  真人棋牌，现金1：1
+	  公平公正，杜绝伙牌
+	  充值实时，提现便捷迅速
+	  客服不会向您索要任何费用及密码，谨防骗子" y="253.19" anchorOffsetX="0" width="682" anchorOffsetY="0" height="330" horizontalCenter="19" fontFamily="SimHei" textColor="0x000000" bold="true"/>
+</e:Skin>

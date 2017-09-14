@@ -1,0 +1,9 @@
+{"file":"awardFont.png","frames":{
+"1":{"x":0,"y":0,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"2":{"x":41,"y":0,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"3":{"x":82,"y":35,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"4":{"x":0,"y":70,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"5":{"x":41,"y":70,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"6":{"x":41,"y":35,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"7":{"x":0,"y":35,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33},
+"9":{"x":82,"y":0,"w":39,"h":33,"offX":0,"offY":0,"sourceW":39,"sourceH":33}}}

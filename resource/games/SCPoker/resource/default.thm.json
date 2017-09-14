@@ -1,0 +1,7 @@
+{
+  "skins": {
+    "eui.VSlider": "resource/eui_skins/VSliderSkin.exml"
+  },
+  "autoGenerateExmlsList": true,
+  "exmls": []
+}

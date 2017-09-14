@@ -1,0 +1,275 @@
+{
+  "file": "lib_res.png",
+  "frames": {
+    "button11": {
+      "x": 572,
+      "y": 225,
+      "w": 246,
+      "h": 73,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "button12": {
+      "x": 572,
+      "y": 299,
+      "w": 246,
+      "h": 73,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "button21": {
+      "x": 494,
+      "y": 422,
+      "w": 246,
+      "h": 73,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "button22": {
+      "x": 741,
+      "y": 373,
+      "w": 246,
+      "h": 73,
+      "offX": 0,
+      "offY": 3,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "common_bg": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "common_bg_3": {
+      "x": 572,
+      "y": 0,
+      "w": 205,
+      "h": 144,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 144
+    },
+    "confirm": {
+      "x": 908,
+      "y": 320,
+      "w": 83,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 41
+    },
+    "mjl_closebtn": {
+      "x": 819,
+      "y": 180,
+      "w": 74,
+      "h": 74,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "mjl_closebtn2": {
+      "x": 819,
+      "y": 255,
+      "w": 69,
+      "h": 69,
+      "offX": 3,
+      "offY": 4,
+      "sourceW": 75,
+      "sourceH": 75
+    },
+    "mjl_common_bg": {
+      "x": 0,
+      "y": 211,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "mjl_common_cancel1": {
+      "x": 572,
+      "y": 145,
+      "w": 245,
+      "h": 79,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "mjl_common_cancel2": {
+      "x": 778,
+      "y": 0,
+      "w": 245,
+      "h": 79,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "mjl_common_sure1": {
+      "x": 0,
+      "y": 422,
+      "w": 246,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "mjl_common_sure2": {
+      "x": 247,
+      "y": 422,
+      "w": 246,
+      "h": 79,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 246,
+      "sourceH": 79
+    },
+    "mjl_msgBoxBg": {
+      "x": 0,
+      "y": 211,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "mjl_txt_cancel": {
+      "x": 889,
+      "y": 275,
+      "w": 85,
+      "h": 44,
+      "offX": 16,
+      "offY": 7,
+      "sourceW": 116,
+      "sourceH": 59
+    },
+    "mjl_txt_sure": {
+      "x": 572,
+      "y": 373,
+      "w": 97,
+      "h": 46,
+      "offX": 9,
+      "offY": 6,
+      "sourceW": 116,
+      "sourceH": 59
+    },
+    "msgBoxBg": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "msgPanel": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "reset": {
+      "x": 827,
+      "y": 447,
+      "w": 82,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 39
+    },
+    "userInfo_bg": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "userInfo_close1": {
+      "x": 819,
+      "y": 80,
+      "w": 91,
+      "h": 99,
+      "offX": 6,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 105
+    },
+    "userInfo_close2": {
+      "x": 911,
+      "y": 80,
+      "w": 86,
+      "h": 88,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 88
+    },
+    "word_agree": {
+      "x": 894,
+      "y": 227,
+      "w": 89,
+      "h": 47,
+      "offX": 17,
+      "offY": 5,
+      "sourceW": 116,
+      "sourceH": 59
+    },
+    "word_cancel": {
+      "x": 741,
+      "y": 447,
+      "w": 85,
+      "h": 44,
+      "offX": 16,
+      "offY": 7,
+      "sourceW": 116,
+      "sourceH": 59
+    },
+    "word_refuse": {
+      "x": 819,
+      "y": 325,
+      "w": 88,
+      "h": 43,
+      "offX": 16,
+      "offY": 6,
+      "sourceW": 116,
+      "sourceH": 59
+    },
+    "word_sure": {
+      "x": 894,
+      "y": 180,
+      "w": 97,
+      "h": 46,
+      "offX": 9,
+      "offY": 6,
+      "sourceW": 116,
+      "sourceH": 59
+    }
+  }
+}

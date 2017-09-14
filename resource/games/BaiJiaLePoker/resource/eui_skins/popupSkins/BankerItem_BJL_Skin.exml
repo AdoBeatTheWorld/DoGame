@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BankerItem_BJL_Skin" width="610" height="60" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Label id="nameLabel" text="Label" size="25" anchorOffsetX="0" verticalCenter="0.5" width="144" textAlign="center" textColor="0x000000" horizontalCenter="-10"/>
+	<e:Label id="uidLabel" text="Label" x="94" size="25" verticalCenter="0.5" anchorOffsetX="0" width="153" textAlign="center" textColor="0x000000" visible="false"/>
+	<e:Label id="pointLabel" text="Label" x="415" size="25" anchorOffsetX="0" verticalCenter="0.5" width="182" textAlign="center" textColor="0xFFB900" visible="false"/>
+	<e:Image id="headImage" width="55" height="55" x="13.5" y="2"/>
+	<e:Image source="bjl_line" x="0" y="56" width="610"/>
+	<e:Group width="182" height="30" x="415" y="15" anchorOffsetX="0">
+		<e:BitmapLabel id="chipsLabel" scaleX="0.8" scaleY="0.8" letterSpacing="-3" text="" horizontalCenter="0" verticalCenter="0" font="bjl_winNumber_fnt"/>
+	</e:Group>
+</e:Skin>

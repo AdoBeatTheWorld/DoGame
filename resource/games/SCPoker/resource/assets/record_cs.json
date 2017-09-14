@@ -1,0 +1,45 @@
+{
+  "file": "record_cs.png",
+  "frames": {
+    "record_bg1": {
+      "x": 0,
+      "y": 0,
+      "w": 634,
+      "h": 191,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 634,
+      "sourceH": 191
+    },
+    "record_frame": {
+      "x": 0,
+      "y": 192,
+      "w": 56,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 56,
+      "sourceH": 56
+    },
+    "record_grid": {
+      "x": 0,
+      "y": 249,
+      "w": 41,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 41,
+      "sourceH": 29
+    },
+    "record_right": {
+      "x": 57,
+      "y": 192,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{"file":"puyu_Cyclone.png","frames":{
+"9":{"x":56,"y":104,"w":54,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"0":{"x":173,"y":52,"w":54,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"1":{"x":167,"y":104,"w":42,"h":50,"offX":7,"offY":1,"sourceW":56,"sourceH":52},
+"2":{"x":173,"y":0,"w":55,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"3":{"x":0,"y":56,"w":54,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"4":{"x":59,"y":52,"w":55,"h":50,"offX":0,"offY":1,"sourceW":56,"sourceH":52},
+"5":{"x":59,"y":0,"w":55,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"6":{"x":116,"y":52,"w":55,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"7":{"x":112,"y":104,"w":53,"h":50,"offX":0,"offY":1,"sourceW":56,"sourceH":52},
+"8":{"x":116,"y":0,"w":55,"h":50,"offX":1,"offY":1,"sourceW":56,"sourceH":52},
+"s":{"x":0,"y":0,"w":57,"h":54,"offX":1,"offY":1,"sourceW":60,"sourceH":56}}}

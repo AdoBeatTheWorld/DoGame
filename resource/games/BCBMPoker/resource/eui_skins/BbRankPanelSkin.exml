@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbRankPanelSkin" width="742" height="650" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bb_set_bg_png" x="0" y="0" height="100%" scale9Grid="377,189,16,43"/>
+	<e:Label text="名次" x="59" size="30" textColor="0xA8A8A8" fontFamily="微软雅黑" y="83"/>
+	<e:Label text="昵称" x="177" size="30" textColor="0xA8A8A8" fontFamily="微软雅黑" y="83"/>
+	<e:Label id="time_lbl" text="本期时间" size="25" fontFamily="微软雅黑" horizontalCenter="0" y="577" textColor="0xb2b2b2"/>
+	<e:Label id="nextTime_lbl" text="下期时间" size="25" fontFamily="微软雅黑" horizontalCenter="0" y="604" textColor="0x6e6c6c"/>
+	<e:Label text="ID" x="394" size="30" textColor="0xA8A8A8" fontFamily="微软雅黑" y="83"/>
+	<e:Label text="金额" x="584" size="30" textColor="0xA8A8A8" fontFamily="微软雅黑" y="83"/>
+	<e:Image source="bb_rank_title_png" y="18" horizontalCenter="0"/>
+	<e:Scroller width="653" height="450" y="123" horizontalCenter="0.5">
+		<e:Group id="rank_grp">
+			<e:layout>
+				<e:VerticalLayout gap="0"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Button id="close_btn" label="" x="670" y="-10">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_set_clostNormal_png" source.down="bb_set_clostDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

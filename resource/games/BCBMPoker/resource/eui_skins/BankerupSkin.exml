@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BankerupSkin" width="95" height="43" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+	<e:Image width="100%" height="100%" scaleX.down="0.8" scaleY.down="0.8" verticalCenter="0" horizontalCenter="0"
+	         source="bb_btn_bankerNormal_png" source.down="bb_btn_bankerNormal_png" />
+	<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+</e:Skin>

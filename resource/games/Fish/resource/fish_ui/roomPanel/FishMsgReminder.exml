@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FishMsgReminderSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="100%" height="100%" x="0" y="0" locked="true"/>
+	<e:Image width="438" height="280" x="421" y="220" source="hwpy_room_dikuang_png" scale9Grid="87,80,15,20"/>
+	<e:Label id="time_lbl" visible="true" text="" y="360" bold="true" fontFamily="微软雅黑" height="58" width="345" textAlign="center" verticalAlign="middle" size="28" lineSpacing="12" x="465.33" textColor="0xbf0303"/>
+	
+	<e:Label id="msg_lbl" text="是否退出游戏" y="251" fontFamily="微软雅黑" textColor="0xffffff" height="118" width="345" textAlign="center" verticalAlign="middle" size="28" lineSpacing="12" x="468"/>
+	<e:Button id="confirm_btn" label="" x="490" y="413" height="54" width="138">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="hwpy_room_icon13_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="22" fontFamily="微软雅黑"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="cancal_btn" label="" x="653" y="413" height="54" width="138">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="hwpy_room_icon14_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="22" fontFamily="微软雅黑"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image id="leave_img" width="363" height="58" y="284.67" source="hwpy_room_word01_png" horizontalCenter="0"/>
+</e:Skin>

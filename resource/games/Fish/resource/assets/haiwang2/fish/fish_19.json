@@ -1,0 +1,64 @@
+{"mc":{
+	"fish_17":{
+		"frameRate":10,
+		"labels":[
+			{"name":"run","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_CrabBoom_Life_01",
+			"x":-80,
+			"y":-71
+			},
+			{
+			"res":"Fish_CrabBoom_Life_02",
+			"x":-71,
+			"y":-69
+			},
+			{
+			"res":"Fish_CrabBoom_Life_03",
+			"x":-71,
+			"y":-68
+			},
+			{
+			"res":"Fish_CrabBoom_Life_04",
+			"x":-65,
+			"y":-68
+			},
+			{
+			"res":"Fish_CrabBoom_Life_05",
+			"x":-66,
+			"y":-67
+			},
+			{
+			"res":"Fish_CrabBoom_Life_06",
+			"x":-69,
+			"y":-66
+			},
+			{
+			"res":"Fish_CrabBoom_Life_07",
+			"x":-76,
+			"y":-66
+			},
+			{
+			"res":"Fish_CrabBoom_Life_08",
+			"x":-77,
+			"y":-69
+			}
+			]
+}},
+	"res":{
+		"Fish_CrabBoom_Life_03":{"x":0,"y":0,"w":149,"h":142},
+		"Fish_CrabBoom_Life_01":{"x":282,"y":279,"w":135,"h":140},
+		"Fish_CrabBoom_Life_07":{"x":0,"y":144,"w":147,"h":136},
+		"Fish_CrabBoom_Life_06":{"x":295,"y":0,"w":141,"h":138},
+		"Fish_CrabBoom_Life_02":{"x":142,"y":282,"w":138,"h":141},
+		"Fish_CrabBoom_Life_04":{"x":0,"y":282,"w":140,"h":141},
+		"Fish_CrabBoom_Life_05":{"x":151,"y":0,"w":142,"h":140},
+		"Fish_CrabBoom_Life_08":{"x":295,"y":140,"w":140,"h":137}
+	}}

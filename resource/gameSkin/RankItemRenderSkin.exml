@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RankItemRenderSkin" width="558" height="92" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="100%" height="100%" horizontalCenter="0" verticalCenter="0" source="ranklist_pin" scale9Grid="30,29,43,76"/>
+	<e:Label id="nameLabel" text="玩家名称7个字" x="347.5" fontFamily="SimHei" size="21" y="24" textColor="0x7d2f00" textAlign="left" anchorOffsetX="0" width="130" anchorOffsetY="0" height="21"/>
+	<e:Label id="moneycountLabel" text="金币数" x="347" size="21" fontFamily="SimHei" textColor="0x7d2f00" y="55" anchorOffsetX="0" width="200" textAlign="left" rotation="359.6"/>
+	<e:BitmapLabel id="rankLabel" textAlign="center" verticalCenter="0.5" x="38" y="2.5" text="1" anchorOffsetX="0" anchorOffsetY="0" font="rankFont_fnt" width="97"/>
+	<e:Image x="188" source="public_frame_head" scale9Grid="25,22,64,66" width="83" height="85" verticalCenter="0"/>
+</e:Skin>

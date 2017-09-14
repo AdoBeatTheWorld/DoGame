@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NBjl_RecordSkin" width="365" height="145" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="1" width="365" height="141" source="bjl_record_bg"  scale9Grid="68,29,47,83"/>
+	<e:Group width="66" height="46" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Label text="庄" x="8" y="0" width="30" height="46" fontFamily="黑体" textAlign="center"
+		         verticalAlign="middle" size="22"  textColor="0xffe400"/>
+		<e:Label id="bankerNum" text="0" x="38" y="0" width="30" height="46" fontFamily="黑体"
+		         textAlign="center" verticalAlign="middle" size="26"  textColor="0xffe400"/>
+	</e:Group>
+	<e:Group width="66" height="46" x="0" y="48" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Label text="闲" x="7" y="0" width="30" height="46" fontFamily="黑体" textAlign="center" verticalAlign="middle"
+		         size="22"  textColor="0x00fffc"/>
+		<e:Label id="userNum" text="0" x="38" y="0" width="30" height="46" fontFamily="黑体" textAlign="center"
+		         verticalAlign="middle" size="26"  textColor="0x00fffc"/>
+	</e:Group>
+	<e:Group width="66" height="46" x="0" y="97" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Label text="平" x="7" y="0" width="30" height="46" fontFamily="黑体" textAlign="center" verticalAlign="middle"
+		         size="22"  textColor="0x00ff8a"/>
+		<e:Label id="drawNum" text="0" x="38" y="0" width="30" fontFamily="黑体" textAlign="center" verticalAlign="middle"
+		         size="26" height="46"  textColor="0x00ff8a"/>
+	</e:Group>
+	<e:Group width="296" height="141" x="67" y="2" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Scroller id="listScroller" width="296" height="141" x="1" y="1" anchorOffsetX="0" anchorOffsetY="0">
+			<e:List id="recordList" anchorOffsetY="0" x="-1" anchorOffsetX="0">
+				<e:layout>
+					<e:HorizontalLayout gap="0" horizontalAlign="left" verticalAlign="middle"/>
+				</e:layout>
+			</e:List>
+		</e:Scroller>
+		<e:layout>
+			<e:HorizontalLayout/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

@@ -1,0 +1,355 @@
+{
+  "file": "public.png",
+  "frames": {
+    "agentinput_bg": {
+      "x": 92,
+      "y": 745,
+      "w": 164,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 164,
+      "sourceH": 30
+    },
+    "btn_text_cancle": {
+      "x": 356,
+      "y": 548,
+      "w": 82,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 82,
+      "sourceH": 34
+    },
+    "btn_text_sure": {
+      "x": 190,
+      "y": 656,
+      "w": 83,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 83,
+      "sourceH": 34
+    },
+    "btnpopgreen": {
+      "x": 717,
+      "y": 351,
+      "w": 187,
+      "h": 64,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 64
+    },
+    "btnpopyellow": {
+      "x": 691,
+      "y": 428,
+      "w": 187,
+      "h": 64,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 188,
+      "sourceH": 64
+    },
+    "buttonyellow": {
+      "x": 482,
+      "y": 357,
+      "w": 234,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 70
+    },
+    "common_bg1": {
+      "x": 475,
+      "y": 211,
+      "w": 79,
+      "h": 77,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 79,
+      "sourceH": 78
+    },
+    "duomi_pengyouquan": {
+      "x": 0,
+      "y": 594,
+      "w": 98,
+      "h": 97,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 97
+    },
+    "duomi_weixin": {
+      "x": 170,
+      "y": 508,
+      "w": 98,
+      "h": 97,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 98,
+      "sourceH": 97
+    },
+    "duomi_word_share": {
+      "x": 356,
+      "y": 508,
+      "w": 72,
+      "h": 39,
+      "offX": 1,
+      "offY": 3,
+      "sourceW": 74,
+      "sourceH": 43
+    },
+    "frame_bg": {
+      "x": 691,
+      "y": 90,
+      "w": 127,
+      "h": 144,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 129,
+      "sourceH": 146
+    },
+    "head_img_male": {
+      "x": 819,
+      "y": 113,
+      "w": 102,
+      "h": 102,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 102,
+      "sourceH": 102
+    },
+    "Input_bg": {
+      "x": 680,
+      "y": 304,
+      "w": 271,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 271,
+      "sourceH": 46
+    },
+    "invitation_bg": {
+      "x": 179,
+      "y": 297,
+      "w": 500,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 500,
+      "sourceH": 59
+    },
+    "jilu": {
+      "x": 0,
+      "y": 792,
+      "w": 169,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 43
+    },
+    "login_btn_weixin_new": {
+      "x": 179,
+      "y": 357,
+      "w": 302,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 302,
+      "sourceH": 89
+    },
+    "login_btn_yellow_new": {
+      "x": 572,
+      "y": 0,
+      "w": 302,
+      "h": 89,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 302,
+      "sourceH": 89
+    },
+    "new_pub_btn_green_s": {
+      "x": 92,
+      "y": 695,
+      "w": 119,
+      "h": 49,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 121,
+      "sourceH": 51
+    },
+    "new_pub_btn_yellow_s": {
+      "x": 190,
+      "y": 606,
+      "w": 119,
+      "h": 49,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 121,
+      "sourceH": 51
+    },
+    "new_public_btn_yellow": {
+      "x": 179,
+      "y": 447,
+      "w": 256,
+      "h": 60,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 257,
+      "sourceH": 60
+    },
+    "public1": {
+      "x": 572,
+      "y": 90,
+      "w": 118,
+      "h": 177,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 118,
+      "sourceH": 177
+    },
+    "public2": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "public3": {
+      "x": 0,
+      "y": 211,
+      "w": 474,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 474,
+      "sourceH": 85
+    },
+    "public4": {
+      "x": 269,
+      "y": 508,
+      "w": 86,
+      "h": 88,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 88
+    },
+    "public5": {
+      "x": 99,
+      "y": 606,
+      "w": 90,
+      "h": 88,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 88
+    },
+    "public6": {
+      "x": 0,
+      "y": 692,
+      "w": 91,
+      "h": 99,
+      "offX": 6,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 105
+    },
+    "public7": {
+      "x": 0,
+      "y": 297,
+      "w": 178,
+      "h": 178,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 180,
+      "sourceH": 180
+    },
+    "public8": {
+      "x": 436,
+      "y": 447,
+      "w": 45,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 46
+    },
+    "public9": {
+      "x": 212,
+      "y": 691,
+      "w": 45,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 45,
+      "sourceH": 46
+    },
+    "public10": {
+      "x": 0,
+      "y": 836,
+      "w": 74,
+      "h": 72,
+      "offX": 5,
+      "offY": 3,
+      "sourceW": 82,
+      "sourceH": 78
+    },
+    "public_cancel": {
+      "x": 482,
+      "y": 428,
+      "w": 208,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 69
+    },
+    "public_confirm": {
+      "x": 691,
+      "y": 235,
+      "w": 208,
+      "h": 68,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 69
+    },
+    "public_frame_head": {
+      "x": 875,
+      "y": 0,
+      "w": 111,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 113
+    },
+    "safebox_cancel": {
+      "x": 0,
+      "y": 476,
+      "w": 169,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 58
+    },
+    "safebox_confirm": {
+      "x": 0,
+      "y": 535,
+      "w": 169,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 58
+    }
+  }
+}

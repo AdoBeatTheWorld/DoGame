@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="JoinRoomPanelSkin" width="800" height="410" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+    <e:Image source="common_bg1" x="0" y="0" scale9Grid="19,17,42,42" anchorOffsetX="0" width="800"
+             height="400" visible="false" />
+    <e:Image source="public1" x="393" y="9" scale9Grid="23,21,73,122" anchorOffsetX="0" width="400"
+             anchorOffsetY="0" height="382" visible="false" />
+    <e:Image source="public1" x="7" y="9" scale9Grid="23,21,73,122" anchorOffsetX="0" width="393"
+             anchorOffsetY="0" height="382" visible="false" />
+    <e:Button id="backBtn" width="295" height="120" x="40" y="60">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" width.down="97%" height.down="97%" source="back_btn" horizontalCenter="0" verticalCenter="0"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+    </e:Button>
+    <e:Button id="createBtn" width="295" height="120" x="40" y="240">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" width.down="97%" height.down="97%" source="create_btn" horizontalCenter="0" verticalCenter="0"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+    </e:Button>
+    <e:Image id="bg" source="roomNum_bg" x="405" y="0" width="393" height="410" />
+    <e:Group id="numberGroup" width="308" height="57" x="449" y="42" anchorOffsetY="0" anchorOffsetX="0">
+        <e:layout>
+            <e:HorizontalLayout verticalAlign="middle" horizontalAlign="center" gap="0" />
+        </e:layout>
+    </e:Group>
+    <e:Group id="keyGroup" width="343" height="245" x="429" y="136" anchorOffsetY="0" anchorOffsetX="0">
+        <e:layout>
+            <e:TileLayout horizontalAlign="center" requestedRowCount="4" requestedColumnCount="3" horizontalGap="0"
+                          verticalGap="0" rowHeight="62" columnWidth="115" />
+        </e:layout>
+    </e:Group>
+</e:Skin>

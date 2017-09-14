@@ -1,0 +1,11 @@
+<e:Skin class="hb_RankItemSkin" width="380" height="90" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	
+	<e:Image source="newRes_json.hb_lottery_di_2" x="2" y="3" scale9Grid="10,15,64,56" anchorOffsetX="0" width="377" locked="true"/>
+	<e:Image source="hb_main_res_json.hb_money" x="224" y="45" locked="true"/>
+	<e:Image id="rankNum" source="newRes_json.hb_rank_label_1" x="14" y="22"/>
+    <e:Image id="headBg" source="newRes_json.hb_lottery_role_bg" x="99" y="5"/>
+	<e:Label id="userName" text="Label" x="268" y="9" size="27" fontFamily="Microsoft YaHei" textColor="0x67b5a4"/>
+	<e:Label id="coinnum" text="Label" x="268" y="47" size="27" fontFamily="Microsoft YaHei" textColor="0xb4edae"/>
+	<e:Image id="head" width="80" height="80" x="98" y="2"/>
+	<e:BitmapLabel id="commonRankNum" width="20" height="20" x="33" y="21" font="lotteryNum_fnt" text="7"/>
+</e:Skin>

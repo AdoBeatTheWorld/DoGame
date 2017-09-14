@@ -1,0 +1,11 @@
+[
+{"id":1,"preId":0,"nextId":2,"name":"术业有专攻","desc":"完成火拼30秒10局","type":1,"goal":10,"reward":[{"goodId":1,"goodNbr":500}]},
+{"id":2,"preId":1,"nextId":3,"name":"术业有专攻","desc":"完成火拼30秒20局","type":1,"goal":20,"reward":[{"goodId":1,"goodNbr":1000}]},
+{"id":3,"preId":2,"nextId":0,"name":"术业有专攻","desc":"完成火拼30秒30局","type":1,"goal":30,"reward":[{"goodId":1,"goodNbr":3000}]},
+{"id":4,"preId":0,"nextId":5,"name":"天生神将","desc":"坐庄20局","type":2,"goal":20,"reward":[{"goodId":1,"goodNbr":1000}]},
+{"id":5,"preId":4,"nextId":6,"name":"天生神将","desc":"坐庄30局","type":2,"goal":30,"reward":[{"goodId":1,"goodNbr":5000}]},
+{"id":6,"preId":5,"nextId":0,"name":"天生神将","desc":"坐庄40局","type":2,"goal":40,"reward":[{"goodId":1,"goodNbr":10000}]},
+{"id":7,"preId":0,"nextId":8,"name":"百战百胜","desc":"连续压中3局","type":3,"goal":3,"reward":[{"goodId":1,"goodNbr":1000}]},
+{"id":8,"preId":7,"nextId":9,"name":"百战百胜","desc":"连续压中5局","type":3,"goal":5,"reward":[{"goodId":1,"goodNbr":5000}]},
+{"id":9,"preId":8,"nextId":0,"name":"百战百胜","desc":"连续压中8局","type":3,"goal":8,"reward":[{"goodId":1,"goodNbr":10000}]}
+]

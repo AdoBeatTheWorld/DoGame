@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AgentItemRenderSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="agentitem_bg"  scale9Grid="24,51,241,61"/>
+	<e:Label id="agentNameLabel" text="金牌代理" size="18" horizontalCenter="0"  textColor="0xffede2" top="31"/>
+	<e:Label id="infoLabel" text="优惠大酬宾折折折折折" y="53" size="18" horizontalCenter="0" textAlign="center"  textColor="0xffede2"/>
+	<e:Label id="weChatLabel" text="微信号" y="74" size="20" textAlign="center" horizontalCenter="0"  textColor="0xffede2"/>
+	<e:Button id="copyButton" label="" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0"
+	          bottom="32">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image source="copy_bg" scaleY.down="0.8" scaleX.down="0.8" source.down="copy_bg" />
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

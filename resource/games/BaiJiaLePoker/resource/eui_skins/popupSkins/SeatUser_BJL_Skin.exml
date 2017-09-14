@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SeatUser_BJL_Skin" height="92" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        width="276">
+	<e:Group id="group" left="0" right="0" top="0" bottom="0">
+		<e:Image source="bjl_jsxx" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Image source="bjl_nch" x="89" y="19" scaleX="1" scaleY="1"/>
+		<e:Image source="bjl_jb" x="82" y="52" scaleX="1" scaleY="1"/>
+		<e:Image id="headImg" width="57" height="57" x="15" y="19" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+		<e:Image source="main_bjl_json.bjl_txk" x="16" y="20" scaleX="1" scaleY="1"/>
+		<e:Image id="identifyLogo" source="bjl_hox_xian" x="6" y="5" scaleX="1" scaleY="1"/>
+		<e:Label id="userName_txt" text="名字" x="114" y="20" size="20" anchorOffsetX="0" width="142" textAlign="center" verticalAlign="middle" textColor="0x97f4c4" fontFamily="黑体" height="22" scaleX="1" scaleY="1"/>
+		<e:Label id="userChipsTxt" text="0" x="118" y="52" size="20" anchorOffsetX="0" width="137" textAlign="center" verticalAlign="middle" fontFamily="黑体" textColor="0xfed100" height="22" scaleX="1" scaleY="1"/>
+	</e:Group>
+</e:Skin>

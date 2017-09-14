@@ -1,0 +1,8 @@
+{"file":"nbjl_roomPart.png","frames":{
+"activityBg":{"x":193,"y":1,"w":33,"h":145,"offX":0,"offY":0,"sourceW":33,"sourceH":145},
+"bankListBg":{"x":228,"y":1,"w":23,"h":22,"offX":0,"offY":0,"sourceW":23,"sourceH":22},
+"bjl_pointBg":{"x":33,"y":60,"w":53,"h":52,"offX":0,"offY":0,"sourceW":53,"sourceH":52},
+"heWin":{"x":113,"y":1,"w":78,"h":79,"offX":0,"offY":1,"sourceW":79,"sourceH":81},
+"redHand":{"x":88,"y":82,"w":43,"h":43,"offX":0,"offY":0,"sourceW":43,"sourceH":43},
+"win":{"x":1,"y":1,"w":110,"h":57,"offX":2,"offY":2,"sourceW":114,"sourceH":61},
+"activity":{"x":1,"y":60,"w":30,"h":113,"offX":0,"offY":0,"sourceW":30,"sourceH":113}}}

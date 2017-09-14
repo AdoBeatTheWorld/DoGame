@@ -1,0 +1,55 @@
+{
+  "file": "dragon66.png",
+  "frames": {
+    "Fish_BossDorgan_Life_066": {
+      "x": 0,
+      "y": 0,
+      "w": 243,
+      "h": 256,
+      "offX": 755,
+      "offY": 58,
+      "sourceW": 998,
+      "sourceH": 460
+    },
+    "Fish_BossDorgan_Life_067": {
+      "x": 0,
+      "y": 257,
+      "w": 222,
+      "h": 215,
+      "offX": 776,
+      "offY": 82,
+      "sourceW": 998,
+      "sourceH": 460
+    },
+    "Fish_BossDorgan_Life_068": {
+      "x": 244,
+      "y": 0,
+      "w": 207,
+      "h": 231,
+      "offX": 791,
+      "offY": 68,
+      "sourceW": 998,
+      "sourceH": 460
+    },
+    "Fish_BossDorgan_Life_069": {
+      "x": 244,
+      "y": 232,
+      "w": 172,
+      "h": 254,
+      "offX": 826,
+      "offY": 46,
+      "sourceW": 998,
+      "sourceH": 460
+    },
+    "Fish_BossDorgan_Life_070": {
+      "x": 452,
+      "y": 0,
+      "w": 153,
+      "h": 245,
+      "offX": 845,
+      "offY": 43,
+      "sourceW": 998,
+      "sourceH": 460
+    }
+  }
+}

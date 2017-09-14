@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FishRoomRechargeSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="100%" height="100%" x="0" y="0" id="touch_grp" locked="true"/>
+	<e:Image source="puyu_room_panelBg_png" scale9Grid="230,35,61,41" height="510" width="790" x="245" y="105" locked="true"/>
+	<e:Image y="205" scaleX="1" scaleY="1" x="275" source="buyu_roomNew_json.puyu_room_sxf_botton01_png" scale9Grid="23,76,89,117" width="729"/>
+	<e:Label text="币值" x="376" y="251" textColor="0xBEBEBE" fontFamily="微软雅黑" size="50"/>
+	<e:Label text="备注" x="376" y="358" textColor="0xBEBEBE" fontFamily="微软雅黑" size="50"/>
+	<e:Image source="puyu_room_touchBg_png" x="510" y="245" scale9Grid="121,15,36,29" anchorOffsetX="0" width="409"/>
+	<e:Image source="puyu_room_touchBg_png" x="510" y="352" anchorOffsetX="0" width="409"/>
+	<e:ToggleSwitch id="recharge_tsw" label="充值" x="310" y="128">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="buyu_roomNew_json.puyu_room_sxf_icon01_png" source.down="buyu_roomNew_json.puyu_room_sxf_icon01_press_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="36" textColor="0x589eff" textColor.down="0x3261da" fontFamily="微软雅黑"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleSwitch>
+	<e:ToggleSwitch id="exchange_tsw" label="兑换" x="505" y="128">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="buyu_roomNew_json.puyu_room_sxf_icon01_png" source.down="buyu_roomNew_json.puyu_room_sxf_icon01_press_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="36" textColor="0x589eff" textColor.down="0x3261da" fontFamily="微软雅黑"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleSwitch>
+	<e:Button id="true_btn" label="确 定" y="510" x="557">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="buyu_roomNew_json.puyu_room_btnNormal_png" source.down="buyu_roomNew_json.puyu_room_btnDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" fontFamily="微软雅黑" size="36"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:EditableText id="coin_etxt" width="399" height="61" text="" x="518" y="247" textAlign="left" verticalAlign="middle" size="40" fontFamily="微软雅黑" textColor="0xc8c3ec"/>
+	<e:EditableText id="option_etxt" width="399" height="61" text="" x="518" y="354" verticalAlign="middle" textColor="0xc8c3ec" fontFamily="微软雅黑" size="40"/>
+</e:Skin>

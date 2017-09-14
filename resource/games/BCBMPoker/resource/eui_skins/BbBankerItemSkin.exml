@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbBankerItemSkin" width="670" height="90" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bb_banker_listBg_png" x="0" y="0" width="100%" scale9Grid="20,39,8,9"/>
+	<e:Image source="bb_banker_headBg_png" x="15" verticalCenter="0"/>
+	<e:Image source="bb_banker_listGoldBg_png" x="430" scale9Grid="13,15,5,3" width="220" verticalCenter="0"/>
+	<e:Image source="bb_banker_gold_png" x="411" verticalCenter="0"/>
+	<e:Label id="nickName_lbl" text="标签" x="112" textColor="0x462d20" fontFamily="微软雅黑" size="35" verticalCenter="0"/>
+	<e:Label id="chips_lbl" text="标签" x="465" size="25" fontFamily="微软雅黑" verticalCenter="-1.5"/>
+	<e:Image id="head_img" width="65" height="65" x="22" verticalCenter="0.5"/>
+</e:Skin>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SoundButton2_SC_Skin" states="up,down,disabled" width="72" height="72" xmlns:e="http://ns.egret.com/eui">
+	<e:Image width="100%" height="100%" source="hb_zhcd_zhk_2" source.down="hb_zhcd_zhk"/>
+</e:Skin>

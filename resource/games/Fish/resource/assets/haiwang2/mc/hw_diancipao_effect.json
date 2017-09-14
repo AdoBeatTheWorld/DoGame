@@ -1,0 +1,178 @@
+{
+  "mc": {
+    "action": {
+      "frameRate": 10,
+      "labels": [
+        {
+          "name": "effect",
+          "frame": 1,
+          "end": 14
+        }
+      ],
+      "events": [
+		{
+			"name": "@hit",
+			"frame": 6
+		}
+	  ],
+      "frames": [
+        {
+          "res": "Bullet_LaserBullet_Fire_15",
+          "x": -147,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_16",
+          "x": -134,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_17",
+          "x": -146,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_18",
+          "x": -145,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_19",
+          "x": -141,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_20",
+          "x": -143,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_21",
+          "x": -135,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_22",
+          "x": -127,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_23",
+          "x": -146,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_24",
+          "x": -146,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_25",
+          "x": -140,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_26",
+          "x": -121,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_27",
+          "x": -93,
+          "y": -400
+        },
+        {
+          "res": "Bullet_LaserBullet_Fire_28",
+          "x": -63,
+          "y": -400
+        }
+      ]
+    }
+  },
+  "res": {
+    "Bullet_LaserBullet_Fire_15": {
+      "x": 0,
+      "y": 0,
+      "w": 302,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_16": {
+      "x": 876,
+      "y": 802,
+      "w": 279,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_17": {
+      "x": 303,
+      "y": 0,
+      "w": 301,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_18": {
+      "x": 605,
+      "y": 0,
+      "w": 300,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_19": {
+      "x": 1207,
+      "y": 0,
+      "w": 295,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_20": {
+      "x": 1503,
+      "y": 0,
+      "w": 294,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_21": {
+      "x": 294,
+      "y": 802,
+      "w": 290,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_22": {
+      "x": 1156,
+      "y": 802,
+      "w": 275,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_23": {
+      "x": 0,
+      "y": 802,
+      "w": 293,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_24": {
+      "x": 906,
+      "y": 0,
+      "w": 300,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_25": {
+      "x": 585,
+      "y": 802,
+      "w": 290,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_26": {
+      "x": 1432,
+      "y": 802,
+      "w": 258,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_27": {
+      "x": 1798,
+      "y": 0,
+      "w": 189,
+      "h": 801
+    },
+    "Bullet_LaserBullet_Fire_28": {
+      "x": 1691,
+      "y": 802,
+      "w": 122,
+      "h": 775
+    }
+  }
+}

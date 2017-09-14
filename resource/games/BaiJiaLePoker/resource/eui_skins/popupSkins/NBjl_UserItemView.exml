@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NBjl_UserItemView" width="230" height="75" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="156db98bc84"/>
+	<e:Image source="nbjl_userlistitem_bg_png" scale9Grid="15,13,18,18" left="0" right="0" top="0" bottom="0" locked="true"/>
+	<e:Image id="avar_img" width="65" height="60" x="14" y="8"/>
+	<e:Image source="nbjl_avar_frame_png" x="14" y="8" width="64" height="59"/>
+	<e:Label id="userName_lbl" text="标签" x="90" y="8" size="20" textColor="0xb77c5c"/>
+	<e:Label id="chip_lbl" text="标签" x="118" y="41" size="20" textColor="0x904123"/>
+	<e:Image id="moneyIcon" source="nbjl_money_png" x="85" y="38" width="25" height="25"/>
+</e:Skin>

@@ -1,0 +1,13 @@
+{"file":"puyu_select_gold.png","frames":{
+"元":{"x":1,"y":1,"w":28,"h":27,"offX":0,"offY":0,"sourceW":28,"sourceH":27},
+".":{"x":1,"y":54,"w":8,"h":8,"offX":0,"offY":13,"sourceW":8,"sourceH":23},
+"0":{"x":31,"y":1,"w":17,"h":23,"offX":1,"offY":0,"sourceW":18,"sourceH":23},
+"1":{"x":111,"y":1,"w":11,"h":22,"offX":2,"offY":0,"sourceW":18,"sourceH":23},
+"2":{"x":69,"y":1,"w":16,"h":22,"offX":0,"offY":0,"sourceW":18,"sourceH":23},
+"3":{"x":94,"y":1,"w":15,"h":23,"offX":1,"offY":0,"sourceW":18,"sourceH":23},
+"4":{"x":1,"y":30,"w":18,"h":22,"offX":0,"offY":0,"sourceW":18,"sourceH":23},
+"5":{"x":77,"y":25,"w":15,"h":23,"offX":1,"offY":0,"sourceW":18,"sourceH":23},
+"6":{"x":59,"y":25,"w":16,"h":23,"offX":1,"offY":0,"sourceW":18,"sourceH":23},
+"7":{"x":50,"y":1,"w":17,"h":22,"offX":0,"offY":0,"sourceW":18,"sourceH":23},
+"8":{"x":40,"y":26,"w":17,"h":23,"offX":0,"offY":0,"sourceW":18,"sourceH":23},
+"9":{"x":21,"y":30,"w":17,"h":23,"offX":0,"offY":0,"sourceW":18,"sourceH":23}}}

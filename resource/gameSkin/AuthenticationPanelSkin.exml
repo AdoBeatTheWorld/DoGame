@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AuthenticationPanelSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<w:Config id="15d4fb9e6fb" />
+	<e:Image horizontalCenter="0" width="686" source="common_bg_3" top="187" left="297"
+	         bottom="122"  scale9Grid="32,35,130,78"/>
+	<e:Image source="authen_bg" horizontalCenter="0" top="214" left="327" />
+	<e:Label text="姓名：" size="25" horizontalCenter="-111.5" verticalCenter="-92.5" fontFamily="Microsoft YaHei"
+	         textAlign="right" textColor="0xffefce" />
+	<e:Label text="手机号：" size="25" horizontalCenter="-123" verticalCenter="-20.5" fontFamily="Microsoft YaHei"
+	         textAlign="right" textColor="0xffefce" />
+	<e:Label text="支付宝账号：" size="25" horizontalCenter="-147" verticalCenter="50.5" fontFamily="Microsoft YaHei"
+	         textAlign="right" textColor="0xffefce" />
+	<e:TextInput id="nameNum" anchorOffsetX="0" anchorOffsetY="0" top="244" left="569">
+		<e:Skin width="300" height="46" minHeight="20" minWidth="300"
+		        states="normal,disabled,normalWithPrompt,disabledWithPrompt" xmlns:w="http://ns.egret.com/wing">
+			<e:Image anchorOffsetX="0" source="Input_bg" width="299" height="46" scale9Grid="18,15,240,17" />
+			<e:EditableText id="textDisplay" textColor.disabled="0xff0000" size="20" fontFamily="Microsoft YaHei"
+			                verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" x="14" textAlign="left" prompt="输入姓名"
+			                promptColor="0x7d2f00" textColor="0x000000" verticalCenter="0" width="274" />
+			<e:Label id="promptDisplay" verticalCenter="-1.5" left="10" right="10" size="20" touchEnabled="false"
+			         includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x7d2f00" />
+		</e:Skin>
+	</e:TextInput>
+	<e:TextInput id="phoneNum" anchorOffsetX="0" anchorOffsetY="0" top="316" left="569">
+		<e:Skin minHeight="20" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt"
+		        xmlns:w="http://ns.egret.com/wing">
+			<e:Image anchorOffsetX="0" source="Input_bg" width="299" height="46" scale9Grid="18,15,248,16" />
+			<e:EditableText id="textDisplay" size="20" fontFamily="Microsoft YaHei" verticalAlign="middle" anchorOffsetX="0"
+			                anchorOffsetY="0" textAlign="left" promptColor="0x7d2f00" prompt="输入手机号" x="14" verticalCenter="0"
+			                width="274" textColor="0x000000" />
+			<e:Label id="promptDisplay" verticalCenter="-1" left="10" right="-3" size="20" touchEnabled="false"
+			         includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x000000" />
+		</e:Skin>
+	</e:TextInput>
+	<e:TextInput id="zfbNum" anchorOffsetX="0" anchorOffsetY="0" top="388" left="569">
+		<e:Skin minHeight="20" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+			<e:Image anchorOffsetX="0" source="Input_bg" width="299" height="46" scale9Grid="18,15,248,16" />
+			<e:EditableText id="textDisplay" size="20" fontFamily="Microsoft YaHei" verticalAlign="middle" anchorOffsetX="0"
+			                anchorOffsetY="0" textAlign="left" promptColor="0x7d2f00" prompt="输入支付宝账号" x="14" verticalCenter="0"
+			                width="274" textColor="0x000000" />
+			<e:Label id="promptDisplay" verticalCenter="-1" left="10" right="-3" size="20" touchEnabled="false"
+			         includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x7d2f00" />
+		</e:Skin>
+	</e:TextInput>
+	<e:Button id="closeBtn" label="Button" skinName="CloseBtnSkin" anchorOffsetX="0" width="70" anchorOffsetY="0"
+	          height="73" horizontalCenter="332" verticalCenter="-164.5" />
+	<e:Button id="confirmButton" label="绑定" anchorOffsetY="0" anchorOffsetX="0" scaleX="1" scaleY="1"
+	          y="478" x="552" width="177" height="68">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image scaleX.down="0.7" scaleY.down="0.7" horizontalCenter="0" verticalCenter="0" source="exchange_bg"
+				         source.down="exchange_bg" scaleX="0.8" scaleY="0.8" />
+				<e:Image horizontalCenter="0" scaleX.down="0.9" scaleY.down="0.9" verticalCenter="0"  source="word_bangding" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label text="注：请填入真实姓名和支付宝账号，确保兑换及时到账!" y="556.51" size="18" fontFamily="Microsoft YaHei" bold="true"
+	         textColor="0x7d2f00" horizontalCenter="0" />
+	<e:Image y="107" source="public3" horizontalCenter="0" />
+	<e:Image y="125.88" source="word_Authen" horizontalCenter="0" />
+</e:Skin>

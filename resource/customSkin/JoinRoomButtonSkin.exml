@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="JoinRoomButtonSkin" width="115" height="62" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui">
+<e:Image  source="num_btn" scaleX.down="0.8" scaleY.down= "0.8" horizontalCenter="0" verticalCenter="0" source.down="num_btn_down" anchorOffsetY="0" height="62" anchorOffsetX="0" width="115"/>
+</e:Skin>

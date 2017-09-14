@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AgentSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="600" height="400" horizontalCenter="0" verticalCenter="0" source="common_bg_3" scale9Grid="26,23,151,92"/>
+	<e:Image width="510.66" height="254.67" y="230.34" source="authen_bg" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0.5"/>
+	<e:Button id="resetButton" label="编辑" scaleX="0.5" scaleY="0.5" skinName="ConfirmBtn1Skin" bottom="193" left="500"/>
+	<e:TextInput id="storeName" width="175.33" height="38.67" x="607" y="248.33" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Skin width="250" height="40" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+		<e:Image anchorOffsetX="0" width="100%" height="100%" source="Input_bg" scale9Grid="18,15,244,21"/>
+		<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="100%" size="25" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="100%" x="5" textAlign="left" textColor="0x5b5b5a"/>
+		<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="25" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+		</e:Skin>
+	</e:TextInput>
+	<e:TextInput id="weChatNum" width="154" height="38.67" x="506.3" y="356.01" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Skin width="250" height="40" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+		<e:Image anchorOffsetX="0" width="100%" height="100%" source="Input_bg" scale9Grid="13,10,247,28"/>
+		<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="100%" size="20" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="100%" x="5" textAlign="left" textColor="0x5b5b5a"/>
+		<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="20" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+		</e:Skin>
+	</e:TextInput>
+	<e:TextInput id="illustrate" width="324.66" height="72.01" x="507" y="402.34" anchorOffsetX="0" anchorOffsetY="0" enabled="true">
+		<e:Skin width="250" height="40" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+		<e:Image anchorOffsetX="0" width="100%" height="100%" source="Input_bg" scale9Grid="18,15,210,21"/>
+		<e:EditableText id="textDisplay" multiline="true" textColor.disabled="0xff0000" height="100%" size="25" fontFamily="黑体" verticalAlign="top" anchorOffsetX="0" anchorOffsetY="0" y="0" width="300" x="5" textAlign="left" textColor="0x5b5b5a"/>
+		<e:Label id="promptDisplay" verticalCenter="0.5" left="10" right="-60" height="35" size="20" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671" anchorOffsetX="0"/>
+		</e:Skin>
+	</e:TextInput>
+	<e:TextInput id="nameTextInput" width="130" height="38.67" x="506.3" y="307.67" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Skin width="130" height="38" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+		<e:Image anchorOffsetX="0" source="Input_bg" width="100%" height="100%" scale9Grid="18,15,221,20"/>
+		<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="100%" size="20" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="100%" x="5" textAlign="left" textColor="0x5b5b5a"/>
+		<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" size="20" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+		</e:Skin>
+	</e:TextInput>
+	<e:TextInput id="phoneNumber" width="130" height="38.67" x="751.69" y="306.34" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Skin width="250" height="40" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+		<e:Image anchorOffsetX="0" width="100%" height="100%" source="Input_bg" scale9Grid="12,15,250,27"/>
+		<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="100%" size="20" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="100%" x="5" textAlign="left" textColor="0x5b5b5a"/>
+		<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="20" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+		</e:Skin>
+	</e:TextInput>
+	<e:Label text="代理申请" y="189.36" textColor="0x7f2d00" bold="true" horizontalCenter="0" fontFamily="SimHei"/>
+	<e:Label text="店铺名字：" x="507" y="255.67" size="20" fontFamily="Microsoft JhengHei" textColor="0xffefce"/>
+	<e:Label text="姓名：" x="446.3" y="316.33" size="20" fontFamily="Microsoft JhengHei" textColor="0xffefce"/>
+	<e:Label text="手机号：" x="662.36" y="316.33" size="20" fontFamily="Microsoft JhengHei" textColor="0xffefce"/>
+	<e:Label text="微信号：" x="427" y="360" size="20" fontFamily="Microsoft JhengHei" textColor="0xffefce"/>
+	<e:Label text="店铺说明：" x="407" y="401.67" size="20" fontFamily="Microsoft JhengHei" textColor="0xffefce"/>
+	<e:Button id="comfirmButton" label="确认" scaleX="0.5" scaleY="0.5" skinName="cancelBtnSkin" bottom="193" right="500"/>
+	<e:Button id="closeBtn" label="Button" scaleX="1" scaleY="1" verticalCenter="-184.5" horizontalCenter="288" skinName="CloseBtnSkin"/>
+</e:Skin>

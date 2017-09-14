@@ -1,0 +1,235 @@
+{
+  "file": "result_cs.png",
+  "frames": {
+    "coin_img": {
+      "x": 934,
+      "y": 601,
+      "w": 37,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 37,
+      "sourceH": 40
+    },
+    "first_SC": {
+      "x": 859,
+      "y": 564,
+      "w": 74,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 41
+    },
+    "result_bg1": {
+      "x": 0,
+      "y": 926,
+      "w": 614,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 614,
+      "sourceH": 44
+    },
+    "result_bg2": {
+      "x": 0,
+      "y": 0,
+      "w": 827,
+      "h": 449,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 827,
+      "sourceH": 449
+    },
+    "result_bg3": {
+      "x": 166,
+      "y": 971,
+      "w": 162,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 30
+    },
+    "result_bg4": {
+      "x": 0,
+      "y": 798,
+      "w": 736,
+      "h": 127,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 736,
+      "sourceH": 127
+    },
+    "result_bg5": {
+      "x": 0,
+      "y": 640,
+      "w": 738,
+      "h": 157,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 738,
+      "sourceH": 157
+    },
+    "result_car1": {
+      "x": 828,
+      "y": 0,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car2": {
+      "x": 828,
+      "y": 188,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car3": {
+      "x": 828,
+      "y": 282,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car4": {
+      "x": 696,
+      "y": 450,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car5": {
+      "x": 696,
+      "y": 544,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car6": {
+      "x": 859,
+      "y": 376,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car7": {
+      "x": 859,
+      "y": 470,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car8": {
+      "x": 739,
+      "y": 638,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car9": {
+      "x": 739,
+      "y": 732,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_car10": {
+      "x": 828,
+      "y": 94,
+      "w": 162,
+      "h": 93,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 162,
+      "sourceH": 93
+    },
+    "result_exnum": {
+      "x": 0,
+      "y": 971,
+      "w": 165,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 165,
+      "sourceH": 40
+    },
+    "result_player": {
+      "x": 430,
+      "y": 971,
+      "w": 99,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 44
+    },
+    "result_title": {
+      "x": 0,
+      "y": 450,
+      "w": 695,
+      "h": 189,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 695,
+      "sourceH": 189
+    },
+    "result_zhuang": {
+      "x": 329,
+      "y": 971,
+      "w": 100,
+      "h": 44,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 100,
+      "sourceH": 44
+    },
+    "second_SC": {
+      "x": 934,
+      "y": 564,
+      "w": 75,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 36
+    },
+    "third_SC": {
+      "x": 530,
+      "y": 971,
+      "w": 75,
+      "h": 36,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 75,
+      "sourceH": 36
+    }
+  }
+}

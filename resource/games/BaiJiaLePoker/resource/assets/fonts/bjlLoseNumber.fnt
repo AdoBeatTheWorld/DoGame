@@ -1,0 +1,15 @@
+{"file":"bjlLoseNumber.png","frames":{
+"0":{"x":0,"y":59,"w":21,"h":28,"offX":1,"offY":3,"sourceW":22,"sourceH":40},
+"1":{"x":57,"y":0,"w":19,"h":28,"offX":1,"offY":3,"sourceW":21,"sourceH":40},
+"2":{"x":0,"y":89,"w":20,"h":28,"offX":1,"offY":3,"sourceW":22,"sourceH":40},
+"3":{"x":66,"y":30,"w":19,"h":28,"offX":1,"offY":3,"sourceW":20,"sourceH":40},
+"4":{"x":33,"y":0,"w":22,"h":28,"offX":1,"offY":3,"sourceW":24,"sourceH":40},
+"5":{"x":45,"y":30,"w":19,"h":28,"offX":1,"offY":3,"sourceW":21,"sourceH":40},
+"6":{"x":0,"y":29,"w":21,"h":28,"offX":1,"offY":3,"sourceW":22,"sourceH":40},
+"7":{"x":44,"y":60,"w":20,"h":28,"offX":1,"offY":3,"sourceW":22,"sourceH":40},
+"8":{"x":22,"y":89,"w":20,"h":28,"offX":1,"offY":3,"sourceW":22,"sourceH":40},
+"9":{"x":23,"y":30,"w":20,"h":28,"offX":1,"offY":3,"sourceW":22,"sourceH":40},
+",":{"x":23,"y":60,"w":9,"h":12,"offX":1,"offY":23,"sourceW":11,"sourceH":40},
+".":{"x":78,"y":0,"w":10,"h":9,"offX":1,"offY":23,"sourceW":11,"sourceH":40},
+"-":{"x":23,"y":74,"w":14,"h":7,"offX":1,"offY":14,"sourceW":16,"sourceH":40},
+"万":{"x":0,"y":0,"w":31,"h":27,"offX":0,"offY":3,"sourceW":31,"sourceH":40}}}

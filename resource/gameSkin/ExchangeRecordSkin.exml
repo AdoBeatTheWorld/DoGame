@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ExchangeRecordSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="-2.67" y="0" fillAlpha="0.6"/>
+	<e:Image horizontalCenter="0" width="778" height="443" scale9Grid="44,34,90,117" verticalCenter="0" source="public7"/>
+	<e:Label text="兑换记录" y="176.89" textColor="0x3f0000" fontFamily="SimHei" horizontalCenter="0"/>
+	<e:Scroller width="654.54" height="253.04" anchorOffsetX="325.04" anchorOffsetY="133.92" verticalCenter="47.5" horizontalCenter="0.5">
+		<e:List id="recordList" anchorOffsetY="0" x="0" y="28.79" itemRendererSkinName="ExItemRenderSkin">
+			<e:layout>
+				<e:VerticalLayout gap="15"/>
+			</e:layout>
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object asd="null"/>
+					<e:Object asd="null"/>
+					<e:Object asd="null"/>
+				</e:Array>
+			</e:ArrayCollection>
+		</e:List>
+	</e:Scroller>
+	<e:Label text="兑换时间" x="359.45" y="245" textColor="0x7f2d00" size="25"/>
+	<e:Label text="兑换数量" x="530.93" y="245" textColor="0x7f2d00" size="25"/>
+	<e:Label text="兑换结果" x="808.16" y="245" textColor="0x7f2d00" size="25"/>
+	<e:Button id="closeBtn" label="Button" x="967.54" y="101.89" skinName="CloseBtnSkin"/>
+</e:Skin>

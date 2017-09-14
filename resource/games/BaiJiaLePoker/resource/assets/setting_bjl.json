@@ -1,0 +1,135 @@
+{
+  "file": "setting_bjl.png",
+  "frames": {
+    "dismiss_bjl_1": {
+      "x": 0,
+      "y": 297,
+      "w": 176,
+      "h": 58,
+      "offX": 5,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 59
+    },
+    "dismiss_bjl_2": {
+      "x": 0,
+      "y": 356,
+      "w": 176,
+      "h": 58,
+      "offX": 5,
+      "offY": 0,
+      "sourceW": 185,
+      "sourceH": 59
+    },
+    "exitGame_btn_bjl1": {
+      "x": 0,
+      "y": 415,
+      "w": 169,
+      "h": 51,
+      "offX": 8,
+      "offY": 4,
+      "sourceW": 185,
+      "sourceH": 59
+    },
+    "exitGame_btn_bjl2": {
+      "x": 177,
+      "y": 297,
+      "w": 169,
+      "h": 51,
+      "offX": 8,
+      "offY": 4,
+      "sourceW": 185,
+      "sourceH": 59
+    },
+    "public_client3_bjl": {
+      "x": 0,
+      "y": 0,
+      "w": 571,
+      "h": 210,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 573,
+      "sourceH": 210
+    },
+    "public_client4_bjl": {
+      "x": 0,
+      "y": 211,
+      "w": 474,
+      "h": 85,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 474,
+      "sourceH": 85
+    },
+    "public_client5_bjl": {
+      "x": 177,
+      "y": 349,
+      "w": 86,
+      "h": 88,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 87,
+      "sourceH": 88
+    },
+    "setting_check_bjl": {
+      "x": 0,
+      "y": 467,
+      "w": 38,
+      "h": 38,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 38,
+      "sourceH": 38
+    },
+    "setting_checkbg_bjl": {
+      "x": 264,
+      "y": 349,
+      "w": 67,
+      "h": 67,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 67
+    },
+    "setting_language_bjl": {
+      "x": 170,
+      "y": 438,
+      "w": 55,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 55,
+      "sourceH": 55
+    },
+    "setting_music_bjl": {
+      "x": 572,
+      "y": 48,
+      "w": 53,
+      "h": 55,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 54,
+      "sourceH": 56
+    },
+    "setting_sound_bjl": {
+      "x": 347,
+      "y": 297,
+      "w": 53,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 46
+    },
+    "setting_title_bjl": {
+      "x": 572,
+      "y": 0,
+      "w": 101,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 47
+    }
+  }
+}

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="SetPanelSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height="720"
+        width="1280">
+	<e:Image id="brackground" horizontalCenter="1.5" width="725"
+	          source="common_bg_3" scale9Grid="27,25,150,89" left="279" bottom="126" top="214"/>
+	<e:Image source="authen_bg" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" width="667" height="240" left="307" top="241"/>
+	<e:Button id="closeBtn" label="Button" x="950" y="167.15" skinName="CloseBtnSkin" />
+	<e:HSlider id="soundSlider" height="48" value="50" maximum="100" anchorOffsetX="0" top="293" left="429">
+		<e:Skin>
+			<e:Image id="track" source="mjl_voice_bg"  verticalCenter="0"/>
+			<e:Button id="trackHighlight" verticalCenter="0">
+				<e:Skin states="up,down,disabled">
+					<e:Image source="mjl_voice_thumb" left="0" right="-30"  width="430" scale9Grid="20,14,34,6"/>
+				</e:Skin>
+			</e:Button>
+			<e:Image id="thumb" source="mjl_voice_track_press" verticalCenter="0" />
+		</e:Skin>
+	</e:HSlider>
+	<e:HSlider id="musicSlider" height="48" y="377" value="50" maximum="100" anchorOffsetX="0" left="429">
+		<e:Skin>
+			<e:Image id="track" source="mjl_voice_bg"  verticalCenter="0"/>
+			<e:Button id="trackHighlight" verticalCenter="0" x="-2">
+				<e:Skin states="up,down,disabled">
+					<e:Image source="mjl_voice_thumb" left="0" right="-30"  width="430" scale9Grid="20,10,34,9"/>
+				</e:Skin>
+			</e:Button>
+			<e:Image id="thumb" source="mjl_voice_track_press" verticalCenter="0"  x="-4"/>
+		</e:Skin>
+	</e:HSlider>
+	<e:ToggleButton id="musicBtn" y="367.66" left="877">
+		<e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected" currentState="up">
+			<e:Image source="setting_min_music_sign_new" includeIn="up,down" />
+			<e:Image source="setting_max_music_sign_new" includeIn="upAndSelected,downAndSelected" />
+		</e:Skin>
+	</e:ToggleButton>
+	<e:ToggleButton id="soundBtn" y="281.66" left="877">
+		<e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected" currentState="up,down">
+			<e:Image source="setting_min_sound_sign_new" includeIn="up,down" />
+			<e:Image source="setting_max_sound_sign_new" includeIn="upAndSelected,downAndSelected" />
+		</e:Skin>
+	</e:ToggleButton>
+
+
+
+
+	<e:BitmapLabel width="20" height="20" x="342" y="462" />
+	<e:Image source="public3" horizontalCenter="0" top="132"/>
+	<e:Button id="restartGameBtn" anchorOffsetX="0" anchorOffsetY="0" bottom="157" left="411" scaleY="1" scaleX="1" right="692" width="177" height="68">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image scaleX.down="0.7" scaleX="0.8" scaleY="0.8" horizontalCenter="0" verticalCenter="0" scaleY.down="0.7" source="exchange_bg"/>
+			<e:Image scaleX.down="0.8" scaleY.down="0.8" horizontalCenter="0" verticalCenter="0" source="word_reset"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="logOutBtn" anchorOffsetX="0" anchorOffsetY="0" bottom="157" left="692" scaleX="1" scaleY="1" right="411" width="177" height="68">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image scaleX.down="0.7" scaleX="0.8" scaleY="0.8"  horizontalCenter="0" verticalCenter="0" scaleY.down="0.7" source="exchange_bg"/>
+			<e:Image scaleX.down="0.8" scaleY.down="0.8" horizontalCenter="0" verticalCenter="0" source="word_out"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image y="146.92" source="setting_word_set" horizontalCenter="0"/>
+	<e:Image y="297.44" source="set_voice" left="347"/>
+	<e:Image y="385.2" source="set_music" left="347"/>
+</e:Skin>

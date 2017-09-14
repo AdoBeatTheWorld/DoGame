@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StatisticalPanel_HB_Skin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing" width="1280" height="720">
+	<e:Rect id="closeRect" left="0" right="0" top="0" bottom="0" alpha="0"/>
+	<e:Image id="background" anchorOffsetX="0" scale9Grid="44,39,482,127" width="700" height="530" anchorOffsetY="0" scaleX="1" scaleY="1" source="hb_bg" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image source="main_hb_json.hb_title" horizontalCenter="0" y="129"/>
+	<e:Image source="main_hb_json.hb_item_bg" x="333" y="198" scale9Grid="18,18,44,33" width="610" height="343"/>
+	<e:Image source="main_hb_json.hb_frame" x="332" y="196" scale9Grid="9,8,38,31" width="504" height="60"/>
+	<e:Image source="main_hb_json.hb_profit_title" x="837" y="195"/>
+	<e:Image source="main_hb_json.hb_tian_title" x="349" y="202"/>
+	<e:Image source="main_hb_json.hb_di_title" x="470" y="200"/>
+	<e:Image source="main_hb_json.hb_xuan" x="596" y="202"/>
+	<e:Image source="main_hb_json.hb_huang" x="722" y="201"/>
+	<e:Group width="610" height="286" x="333" y="255" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+		<e:Scroller width="610" height="286" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0">
+		<e:List id="recordList">
+			<e:layout>
+			<e:VerticalLayout horizontalAlign="center"/>
+			</e:layout>
+		</e:List>
+		</e:Scroller>
+		<e:layout>
+		<e:VerticalLayout horizontalAlign="center"/>
+		</e:layout>
+	</e:Group>
+	<e:Label id="totalInnings" text="总局数：300" x="515.5" y="557.01" textColor="0xdb6d06" fontFamily="黑体" textAlign="center" verticalAlign="middle" anchorOffsetX="0" width="245" scaleX="1" scaleY="1"/>
+</e:Skin>

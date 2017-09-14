@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleItemRender_SC_Skin" width="600" height="73" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="public_listbg" horizontalCenter="0" verticalCenter="0" width="600"/>
+	<e:Label id="nameLabel" text="Label" x="271" size="20" anchorOffsetX="0" width="144" textAlign="center" fontFamily="Microsoft YaHei" textColor="0xadf6ff" verticalCenter="0.5"/>
+	<e:BitmapLabel id="uidLabel" x="139" font="listFont_fnt" text="123123123" verticalCenter="0"/>
+	<e:BitmapLabel id="pointLabel" x="497" font="listFont_fnt" text="1231" verticalCenter="0.5"/>
+</e:Skin>

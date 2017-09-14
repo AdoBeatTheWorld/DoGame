@@ -1,0 +1,535 @@
+{
+  "file": "lobby_other1.png",
+  "frames": {
+    "agentitem_bg": {
+      "x": 605,
+      "y": 233,
+      "w": 320,
+      "h": 166,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 320,
+      "sourceH": 166
+    },
+    "authen_bg": {
+      "x": 0,
+      "y": 502,
+      "w": 627,
+      "h": 253,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 627,
+      "sourceH": 253
+    },
+    "baoxian2": {
+      "x": 941,
+      "y": 535,
+      "w": 167,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 167,
+      "sourceH": 60
+    },
+    "buy_btn": {
+      "x": 729,
+      "y": 136,
+      "w": 185,
+      "h": 71,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 187,
+      "sourceH": 73
+    },
+    "buy_btn2": {
+      "x": 222,
+      "y": 915,
+      "w": 185,
+      "h": 71,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 187,
+      "sourceH": 73
+    },
+    "buy_diamond105": {
+      "x": 628,
+      "y": 400,
+      "w": 205,
+      "h": 257,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 257
+    },
+    "buy_diamond106": {
+      "x": 628,
+      "y": 658,
+      "w": 205,
+      "h": 257,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 257
+    },
+    "buy_diamond107": {
+      "x": 926,
+      "y": 0,
+      "w": 205,
+      "h": 257,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 257
+    },
+    "buy_diamond108": {
+      "x": 1132,
+      "y": 0,
+      "w": 204,
+      "h": 257,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 205,
+      "sourceH": 257
+    },
+    "chongzhi2": {
+      "x": 834,
+      "y": 704,
+      "w": 111,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 59
+    },
+    "common_bg_4": {
+      "x": 0,
+      "y": 0,
+      "w": 728,
+      "h": 232,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 728,
+      "sourceH": 232
+    },
+    "copy_bg": {
+      "x": 1134,
+      "y": 421,
+      "w": 110,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 110,
+      "sourceH": 34
+    },
+    "daili": {
+      "x": 941,
+      "y": 596,
+      "w": 155,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 155,
+      "sourceH": 34
+    },
+    "exchange_bg": {
+      "x": 0,
+      "y": 915,
+      "w": 221,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 221,
+      "sourceH": 84
+    },
+    "getdown": {
+      "x": 1109,
+      "y": 516,
+      "w": 90,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 90,
+      "sourceH": 30
+    },
+    "getup": {
+      "x": 647,
+      "y": 978,
+      "w": 91,
+      "h": 30,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 91,
+      "sourceH": 30
+    },
+    "jiangbei": {
+      "x": 926,
+      "y": 258,
+      "w": 207,
+      "h": 217,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 207,
+      "sourceH": 217
+    },
+    "loginBg": {
+      "x": 1134,
+      "y": 318,
+      "w": 100,
+      "h": 102,
+      "offX": 4,
+      "offY": 2,
+      "sourceW": 108,
+      "sourceH": 108
+    },
+    "mjl_voice_bg": {
+      "x": 1337,
+      "y": 0,
+      "w": 430,
+      "h": 32,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 430,
+      "sourceH": 32
+    },
+    "mjl_voice_thumb": {
+      "x": 222,
+      "y": 987,
+      "w": 424,
+      "h": 24,
+      "offX": 3,
+      "offY": 3,
+      "sourceW": 430,
+      "sourceH": 32
+    },
+    "mjl_voice_track_press": {
+      "x": 947,
+      "y": 631,
+      "w": 57,
+      "h": 63,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 63
+    },
+    "num_bg": {
+      "x": 1337,
+      "y": 94,
+      "w": 174,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 174,
+      "sourceH": 59
+    },
+    "progress_btn": {
+      "x": 947,
+      "y": 695,
+      "w": 67,
+      "h": 47,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 67,
+      "sourceH": 47
+    },
+    "quickdelete": {
+      "x": 1343,
+      "y": 255,
+      "w": 116,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 29
+    },
+    "quickget": {
+      "x": 1235,
+      "y": 367,
+      "w": 116,
+      "h": 29,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 29
+    },
+    "ranklist_pin": {
+      "x": 729,
+      "y": 0,
+      "w": 99,
+      "h": 135,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 99,
+      "sourceH": 135
+    },
+    "ranktitle": {
+      "x": 0,
+      "y": 756,
+      "w": 591,
+      "h": 158,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 591,
+      "sourceH": 158
+    },
+    "return_bg": {
+      "x": 0,
+      "y": 233,
+      "w": 604,
+      "h": 268,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 604,
+      "sourceH": 268
+    },
+    "setting_cbox_bg": {
+      "x": 1616,
+      "y": 33,
+      "w": 39,
+      "h": 39,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 40,
+      "sourceH": 42
+    },
+    "setting_cbox_sel": {
+      "x": 1512,
+      "y": 100,
+      "w": 39,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 40,
+      "sourceH": 42
+    },
+    "setting_max_music_sign_new": {
+      "x": 829,
+      "y": 0,
+      "w": 66,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 66
+    },
+    "setting_max_sound_sign_new": {
+      "x": 829,
+      "y": 67,
+      "w": 66,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 66
+    },
+    "setting_min_music_sign_new": {
+      "x": 834,
+      "y": 400,
+      "w": 66,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 66
+    },
+    "setting_min_sound_sign_new": {
+      "x": 1549,
+      "y": 33,
+      "w": 66,
+      "h": 66,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 66,
+      "sourceH": 66
+    },
+    "setting_word_set": {
+      "x": 615,
+      "y": 916,
+      "w": 106,
+      "h": 61,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 106,
+      "sourceH": 61
+    },
+    "shop_bg2": {
+      "x": 834,
+      "y": 535,
+      "w": 106,
+      "h": 107,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 108
+    },
+    "shop_title": {
+      "x": 1337,
+      "y": 33,
+      "w": 211,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 211,
+      "sourceH": 60
+    },
+    "tixian": {
+      "x": 1235,
+      "y": 318,
+      "w": 103,
+      "h": 48,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 103,
+      "sourceH": 48
+    },
+    "weixin": {
+      "x": 1033,
+      "y": 476,
+      "w": 152,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 39
+    },
+    "word_Authen": {
+      "x": 834,
+      "y": 476,
+      "w": 198,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 198,
+      "sourceH": 58
+    },
+    "word_bangding": {
+      "x": 1449,
+      "y": 154,
+      "w": 80,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 42
+    },
+    "word_exchange": {
+      "x": 1337,
+      "y": 154,
+      "w": 111,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 60
+    },
+    "word_fenxiang": {
+      "x": 722,
+      "y": 916,
+      "w": 78,
+      "h": 42,
+      "offX": 2,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 42
+    },
+    "word_fuli": {
+      "x": 1134,
+      "y": 258,
+      "w": 208,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 208,
+      "sourceH": 59
+    },
+    "word_mail": {
+      "x": 834,
+      "y": 643,
+      "w": 112,
+      "h": 60,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 60
+    },
+    "word_out": {
+      "x": 1343,
+      "y": 285,
+      "w": 81,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 41
+    },
+    "word_pingjia": {
+      "x": 1005,
+      "y": 631,
+      "w": 80,
+      "h": 41,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 80,
+      "sourceH": 42
+    },
+    "word_reset": {
+      "x": 834,
+      "y": 806,
+      "w": 79,
+      "h": 40,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 40
+    },
+    "word_return": {
+      "x": 408,
+      "y": 915,
+      "w": 206,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 206,
+      "sourceH": 62
+    },
+    "word_send": {
+      "x": 834,
+      "y": 764,
+      "w": 86,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 86,
+      "sourceH": 41
+    },
+    "xuanze_di": {
+      "x": 1552,
+      "y": 100,
+      "w": 37,
+      "h": 39,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 38,
+      "sourceH": 40
+    },
+    "xuanze_lv": {
+      "x": 592,
+      "y": 756,
+      "w": 33,
+      "h": 33,
+      "offX": 1,
+      "offY": 3,
+      "sourceW": 38,
+      "sourceH": 40
+    },
+    "zhifubao": {
+      "x": 1337,
+      "y": 215,
+      "w": 129,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 129,
+      "sourceH": 39
+    }
+  }
+}

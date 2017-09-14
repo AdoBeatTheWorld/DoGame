@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoundResult_HB_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        width="640" height="190">
+	<e:Group id="group" anchorOffsetX="0" anchorOffsetY="0" left="0" right="0">
+		<e:Image id="bg" y="2" anchorOffsetY="0" anchorOffsetX="0" scaleX="1" scaleY="1" height="187.46" left="0" right="0" source="float-msg-bg"/>
+		<e:Image anchorOffsetY="0" anchorOffsetX="0" scaleX="1" scaleY="1" source="hb_result_line" y="95" x="10"/>
+		<e:BitmapLabel id="mianChipsLabel" y="128.00000000000006" x="234.77" font="hb_winNumber_fnt" text="123" scaleX="1" scaleY="1"/>
+		<e:BitmapLabel id="bankerChipsLabel" y="35" x="230.81" font="hb_winNumber_fnt" text="123" scaleX="1" scaleY="1"/>
+		<e:Image x="92.81" y="121.56" scaleX="1" scaleY="1" source="hb_user_txt"/>
+		<e:Image x="85.81" y="25.56" scaleX="1" scaleY="1" source="hb_banker_txt"/>
+	</e:Group>
+</e:Skin>

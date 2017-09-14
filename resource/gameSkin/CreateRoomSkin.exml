@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="CreateRoomSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect fillColor="0xA7A7A7" left="0" top="0" right="0" bottom="0" alpha="0.4"/>
+	<e:Image id="background" source="bottom" x="15" y="10" anchorOffsetX="0" width="1250" scale9Grid="24,18,121,105" height="700"/>
+	<e:Group id="left" y="30" width="948" height="584.67" x="300" anchorOffsetX="0" anchorOffsetY="0">
+		<e:layout>
+			<e:BasicLayout/>
+		</e:layout>
+		<e:Image id="describe" source="create_room_bg_new" x="-12" y="0" scale9Grid="24,22,72,120" anchorOffsetX="0" width="950" anchorOffsetY="0" height="590"/>
+		<e:Image source="bk_bottom_new" x="-7.47" y="533.83" anchorOffsetX="0" width="941.66" scale9Grid="20,6,84,15" anchorOffsetY="0" height="45.33"/>
+		<e:Label id="remarksLabel" text="" x="99.32" y="545.5" anchorOffsetX="0" width="752.67" size="20" fontFamily="Microsoft YaHei" textColor="0x63522c" textAlign="center" height="20" verticalAlign="middle"/>
+		<e:Image source="create_room_line_new" y="83" anchorOffsetX="0" width="936" anchorOffsetY="0" height="1" scaleX="1" scaleY="1" horizontalCenter="0"/>
+		<e:Group id="setGroup" height="515.67" width="909.33" y="15" x="8.48" scaleX="1" scaleY="1" anchorOffsetX="0" anchorOffsetY="0">
+			<e:layout>
+				<e:VerticalLayout horizontalAlign="left" verticalAlign="top"/>
+			</e:layout>
+		</e:Group>
+	</e:Group>
+	<e:Group id="GameList" width="240" height="650" x="45" y="26.7" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Image id="listBg" source="list_bk_new" x="0" y="0" anchorOffsetY="0" height="650" scale9Grid="21,24,69,69" anchorOffsetX="0" width="240"/>
+		<e:Image source="create_room_line_new" x="10" y="635" anchorOffsetX="0" width="220" anchorOffsetY="0" height="1"/>
+		<e:Scroller scrollPolicyV="auto" width="230" scrollPolicyH="off" height="630" y="5" x="5"  touchEnabled="false">
+			<e:List id="gameList"/>
+		</e:Scroller>
+	</e:Group>
+	<e:Button id="closeButton" x="1185.32" width="100" y="-5.32" height="100">
+		<e:Skin states="up,down,disabled">
+		<e:Image source="close" scaleX.down="0.95" scaleY.down="0.95" anchorOffsetX="50" anchorOffsetY="50" x="50" y="50"/>
+		</e:Skin>
+	</e:Button>
+	<e:Button id="createBtn" x="624" width="282" y="615" height="79" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Skin states="up,down,disabled">
+		<e:Image source="btn_create_new" scaleX.down="0.95" scaleY.down="0.95" anchorOffsetX="141" anchorOffsetY="40" x="141" y="40"/>
+		<e:Image source="btn_create_title_new" x="50" y="11" scaleX.down="0.95" scaleY.down="0.95"/>
+		</e:Skin>
+	</e:Button>
+</e:Skin>

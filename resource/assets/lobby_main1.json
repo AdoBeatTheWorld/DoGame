@@ -1,0 +1,115 @@
+{
+  "file": "lobby_main1.png",
+  "frames": {
+    "gameId5011": {
+      "x": 0,
+      "y": 0,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "gameId5014": {
+      "x": 336,
+      "y": 0,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "gameId5015": {
+      "x": 672,
+      "y": 0,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "gameId5016": {
+      "x": 0,
+      "y": 410,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "gameId5017": {
+      "x": 336,
+      "y": 410,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "gameId5018": {
+      "x": 672,
+      "y": 410,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "gameId5019": {
+      "x": 1008,
+      "y": 0,
+      "w": 335,
+      "h": 409,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 335,
+      "sourceH": 410
+    },
+    "lobby_match0": {
+      "x": 1344,
+      "y": 0,
+      "w": 295,
+      "h": 377,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 295,
+      "sourceH": 377
+    },
+    "lobby_match1": {
+      "x": 1008,
+      "y": 410,
+      "w": 295,
+      "h": 377,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 295,
+      "sourceH": 377
+    },
+    "lobby_match2": {
+      "x": 1640,
+      "y": 0,
+      "w": 295,
+      "h": 377,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 295,
+      "sourceH": 377
+    },
+    "lobby_match3": {
+      "x": 1304,
+      "y": 410,
+      "w": 295,
+      "h": 377,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 295,
+      "sourceH": 377
+    }
+  }
+}

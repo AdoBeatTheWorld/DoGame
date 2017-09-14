@@ -1,0 +1,19 @@
+﻿{
+"mc": {
+	"ellipsisEffect": {
+		"frameRate":30,
+		"labels": [
+		],
+		"frames": [
+			{"res":"ellipsisEffect0000","x":0,"y":0,"duration":5},
+			{"res":"ellipsisEffect0005","x":0,"y":0,"duration":5},
+			{"res":"ellipsisEffect0010","x":0,"y":0,"duration":5}
+		]
+	}
+},
+"res": {
+	"ellipsisEffect0000":{"x":0,"y":0,"w":16,"h":71},
+	"ellipsisEffect0005":{"x":16,"y":0,"w":32,"h":71},
+	"ellipsisEffect0010":{"x":48,"y":0,"w":48,"h":71}
+}
+}

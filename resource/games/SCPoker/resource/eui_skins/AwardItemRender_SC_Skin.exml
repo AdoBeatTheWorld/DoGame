@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AwardItemRender_SC_Skin" width="922" height="36" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Label id="idLabel" text="627063" x="8" size="18" fontFamily="Microsoft YaHei" textAlign="left" verticalCenter="0"/>
+	<e:Label id="dateLabel" text="07-05" x="93" size="18" fontFamily="Microsoft YaHei" textAlign="center" verticalCenter="0"/>
+	<e:Label id="profitLabel" text="100" size="18" fontFamily="Microsoft YaHei" textAlign="right" verticalCenter="0" right="32"/>
+	<e:Label id="timeLabel" text="14:07" x="154" size="18" fontFamily="Microsoft YaHei" textAlign="left" verticalCenter="0"/>
+	<e:Group id="rankGroup" x="234.65" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="0.5" width="396">
+		<e:Image x="-1" verticalCenter="0" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="281" verticalCenter="0" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:Image x="81.63999999999999" verticalCenter="0.5" y="2" scaleX="1" scaleY="1" source="carNo1_CS" width="39" height="33"/>
+		<e:layout>
+		<e:HorizontalLayout gap="1"/>
+		</e:layout>
+	</e:Group>
+	<e:Image width="20" height="20" source="coin_img" verticalCenter="0" right="8"/>
+	<e:Label id="remainderLabel" text="余数:0" x="677" size="18" fontFamily="Microsoft YaHei" verticalCenter="0"/>
+
+</e:Skin>

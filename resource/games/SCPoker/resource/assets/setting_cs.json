@@ -1,0 +1,95 @@
+{
+  "file": "setting_cs.png",
+  "frames": {
+    "dismiss_sc1": {
+      "x": 0,
+      "y": 0,
+      "w": 192,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 59
+    },
+    "dismiss_sc2": {
+      "x": 0,
+      "y": 0,
+      "w": 192,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 59
+    },
+    "exitGame_btn_sc1": {
+      "x": 0,
+      "y": 60,
+      "w": 192,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 59
+    },
+    "exitGame_btn_sc2": {
+      "x": 0,
+      "y": 60,
+      "w": 192,
+      "h": 59,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 192,
+      "sourceH": 59
+    },
+    "setting_check_cs": {
+      "x": 0,
+      "y": 222,
+      "w": 29,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 29,
+      "sourceH": 28
+    },
+    "setting_checkbg_sc": {
+      "x": 112,
+      "y": 120,
+      "w": 53,
+      "h": 52,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 53,
+      "sourceH": 52
+    },
+    "setting_music_sc": {
+      "x": 0,
+      "y": 170,
+      "w": 62,
+      "h": 51,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 51
+    },
+    "setting_sound_sc": {
+      "x": 193,
+      "y": 0,
+      "w": 52,
+      "h": 56,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 52,
+      "sourceH": 56
+    },
+    "setting_title_sc": {
+      "x": 0,
+      "y": 120,
+      "w": 111,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 49
+    }
+  }
+}

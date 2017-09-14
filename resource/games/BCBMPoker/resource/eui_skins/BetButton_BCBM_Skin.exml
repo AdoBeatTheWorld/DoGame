@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BetButton_BCBM_Skin" states="up,down" height="80" xmlns:e="http://ns.egret.com/eui" width="80">
+    <e:Image id="iconDisplay" source="1_bet_bcbm" left="0" right="0" top="0" bottom="0" />
+    <e:Label id="labelDisplay" stroke="1" horizontalCenter="0" verticalCenter="-10"  text="0.1"/>
+</e:Skin>

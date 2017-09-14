@@ -1,0 +1,25 @@
+{
+  "file": "dragon71.png",
+  "frames": {
+    "Fish_BossDorgan_Life_071": {
+      "x": 0,
+      "y": 0,
+      "w": 125,
+      "h": 242,
+      "offX": 873,
+      "offY": 32,
+      "sourceW": 998,
+      "sourceH": 460
+    },
+    "Fish_BossDorgan_Life_072": {
+      "x": 126,
+      "y": 0,
+      "w": 113,
+      "h": 209,
+      "offX": 885,
+      "offY": 48,
+      "sourceW": 998,
+      "sourceH": 460
+    }
+  }
+}

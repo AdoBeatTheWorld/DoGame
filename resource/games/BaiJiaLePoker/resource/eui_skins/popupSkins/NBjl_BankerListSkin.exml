@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="NBjl_BankerListSkin" width="630" height="600" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="nbjl_list_bg_png" width="630" x="0" height="600" y="0" scale9Grid="31,28,6,5"/>
+	<e:Image source="nbjl_history_content_bg_png" scale9Grid="21,20,21,18" height="342" y="81" width="570" x="30"/>
+	<e:Image source="nbjl_history_content_bg_png" x="32" y="448" width="570" height="119" scale9Grid="17,17,27,24"/>
+	<e:Image source="nbjl_sign_banker_title_png" x="189" y="7"/>
+	<e:Label y="776" textColor="0x8A949E" text="上庄必须按申请时间排队，请耐心等待" fontFamily="微软雅黑" textAlign="center" width="475" size="23" horizontalCenter="0.5"/>
+	
+
+	<e:Button id="closeBtn" x="556" y="6">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="nbjl_banker_closebtn_nonal_png" source.down="nbjl_banker_closebtn_selected_png" source.disabled="closeBtn_normal_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+
+	<e:List id="bankerList" width="542" height="320" x="44" y="90" itemRendererSkinName="NBjl_BankerListItemSkin">
+		<e:ArrayCollection>
+			<e:Array>
+				<e:Object/>
+				<e:Object/>
+				<e:Object dsf="null"/>
+				<e:Object dsf="null"/>
+				<e:Object dsf="null"/>
+				<e:Object dsf="null"/>
+				<e:Object dsf="null"/>
+			</e:Array>
+		</e:ArrayCollection>
+		<e:layout>
+			<e:VerticalLayout/>
+		</e:layout>
+	</e:List>
+	<e:Group id="cancelApplyGroup" y="581" height="95" locked="false" x="52" visible="false">	
+		<e:Label text="携带:" x="10" y="21" textColor="0x8A949E" size="23" fontFamily="微软雅黑"/>
+		<e:Label text="取消上庄" verticalCenter="-1" x="377" fontFamily="微软雅黑" size="35" touchEnabled="false"/>
+		<e:Label id="carryChipsLabel2" text="100,043,24" x="79" y="19" size="25" fontFamily="微软雅黑" textColor="0x333333" width="270" height="27"/>
+		<e:Label y="61" textColor="0x8A949E" text="正在申请上庄中......" fontFamily="微软雅黑" textAlign="left" width="244" size="20" x="11" height="23"/>
+	</e:Group>
+	
+	
+	<e:Group id="applyGroup" y="446" height="120" width="571" x="30">
+		<e:Group id="dropDownListGroup" x="163" y="6"> 
+			<e:Group id="selectedChipsGroup" height="266" left="0" right="0" y="-231" name="listGroup">	
+			</e:Group>
+		</e:Group>
+		<e:Label text="您要上庄携带:" x="10" y="15" textColor="0x8A949E" size="23" fontFamily="微软雅黑"/>
+		<e:Image source="listDarkBg_png" y="0" scale9Grid="21,18,16,18" height="95" x="-1" visible="false"/>
+		
+		<e:Button id="applyBankerBtn"  name="applybanker" x="399" y="31" width="141" height="59">
+		<!--<e:Button id="applyBankerBtn" label="申请上庄" x="399" y="31" width="141" height="59">-->
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="nbjl_msgbox_gran_btn_png" source.down="nbjl_banker_btn_selected_png" scale9Grid="10,12,61,51"/>
+				<!--<e:Image width="100%" height="100%" source="nbjl_msgbox_gran_btn_png" source.down="nbjl_applyGold_nor_png" scale9Grid="10,12,61,51"/>-->
+				<e:Label id="labelDisplay" size="32"  strokeColor="0x823b0d" stroke="2.3" fontFamily="隶书" horizontalCenter="0.5" verticalCenter="-0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		
+		<e:Button id="cancelApplyBankerBtn" name="cancelbanker" x="399" y="31" width="141" height="59" visible="false">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="nbjl_msgbox_gran_btn_png" source.down="nbjl_banker_btn_selected_png" scale9Grid="10,12,61,51"/>
+				<e:Label id="labelDisplay" size="32"  strokeColor="0x823b0d" stroke="2.3" fontFamily="隶书" horizontalCenter="0.5" verticalCenter="-0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>	
+	</e:Group>
+	
+	
+
+</e:Skin>

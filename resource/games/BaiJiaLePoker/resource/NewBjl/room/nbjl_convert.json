@@ -1,0 +1,15 @@
+{"file":"nbjl_convert.png","frames":{
+"nbjl_room_cqf_tiao":{"x":241,"y":100,"w":38,"h":20,"offX":0,"offY":6,"sourceW":38,"sourceH":26},
+"nbjl_room_cqf_tiao_press":{"x":1,"y":1,"w":406,"h":22,"offX":0,"offY":0,"sourceW":406,"sourceH":26},
+"nbjl_convert_bg_png":{"x":432,"y":76,"w":67,"h":68,"offX":0,"offY":0,"sourceW":67,"sourceH":68},
+"nbjl_convert_coin_png":{"x":1,"y":82,"w":96,"h":52,"offX":1,"offY":0,"sourceW":98,"sourceH":52},
+"nbjl_convert_save_png":{"x":332,"y":25,"w":70,"h":35,"offX":0,"offY":0,"sourceW":70,"sourceH":35},
+"nbjl_convert_score_png":{"x":332,"y":76,"w":98,"h":51,"offX":0,"offY":1,"sourceW":98,"sourceH":52},
+"nbjl_convert_take_png":{"x":169,"y":100,"w":70,"h":34,"offX":0,"offY":1,"sourceW":70,"sourceH":35},
+"nbjl_convert_textBg_png":{"x":99,"y":100,"w":68,"h":66,"offX":0,"offY":0,"sourceW":68,"sourceH":66},
+"nbjl_room_cqf_icon01":{"x":184,"y":25,"w":72,"h":73,"offX":0,"offY":0,"sourceW":73,"sourceH":73},
+"nbjl_room_cqf_icon01_press":{"x":258,"y":25,"w":72,"h":73,"offX":0,"offY":0,"sourceW":73,"sourceH":73},
+"nbjl_room_cqf_icon02":{"x":110,"y":25,"w":72,"h":73,"offX":0,"offY":0,"sourceW":73,"sourceH":73},
+"nbjl_room_cqf_icon02_press":{"x":409,"y":1,"w":72,"h":73,"offX":0,"offY":0,"sourceW":73,"sourceH":73},
+"nbjl_room_cqf_icon03":{"x":1,"y":25,"w":107,"h":55,"offX":0,"offY":0,"sourceW":107,"sourceH":55},
+"nbjl_room_cqf_icon03_press":{"x":1,"y":25,"w":107,"h":55,"offX":0,"offY":0,"sourceW":107,"sourceH":55}}}

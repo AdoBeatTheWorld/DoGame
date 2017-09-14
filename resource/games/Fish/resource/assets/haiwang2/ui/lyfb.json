@@ -1,0 +1,15 @@
+{"file":"lyfb.png","frames":{
+"lyfb_lie_png":{"x":329,"y":326,"w":160,"h":155,"offX":2,"offY":2,"sourceW":164,"sourceH":160},
+"lyfb_score_bg_png":{"x":681,"y":105,"w":144,"h":50,"offX":2,"offY":1,"sourceW":148,"sourceH":52},
+"lyfb_start_png":{"x":329,"y":201,"w":303,"h":123,"offX":2,"offY":2,"sourceW":308,"sourceH":128},
+"lyfb_x1_png":{"x":683,"y":451,"w":46,"h":46,"offX":1,"offY":1,"sourceW":48,"sourceH":48},
+"lyfb_x2_png":{"x":683,"y":384,"w":64,"h":65,"offX":1,"offY":1,"sourceW":66,"sourceH":66},
+"lyfb_x3_png":{"x":683,"y":310,"w":72,"h":72,"offX":1,"offY":1,"sourceW":74,"sourceH":74},
+"lyfb_x4_png":{"x":789,"y":0,"w":78,"h":78,"offX":2,"offY":2,"sourceW":82,"sourceH":82},
+"lyfb_x5_png":{"x":681,"y":0,"w":106,"h":103,"offX":1,"offY":2,"sourceW":108,"sourceH":108},
+"lyfb_yan_png":{"x":519,"y":0,"w":160,"h":155,"offX":2,"offY":2,"sourceW":164,"sourceH":160},
+"lyfb_bao_png":{"x":519,"y":326,"w":162,"h":156,"offX":1,"offY":2,"sourceW":164,"sourceH":160},
+"lyfb_begin_png":{"x":0,"y":316,"w":327,"h":129,"offX":2,"offY":1,"sourceW":332,"sourceH":132},
+"lyfb_betAdd_png":{"x":328,"y":0,"w":189,"h":199,"offX":1,"offY":2,"sourceW":192,"sourceH":204},
+"lyfb_bg_png":{"x":0,"y":0,"w":326,"h":314,"offX":1,"offY":1,"sourceW":328,"sourceH":316},
+"lyfb_feng_png":{"x":634,"y":157,"w":162,"h":151,"offX":1,"offY":4,"sourceW":164,"sourceH":160}}}

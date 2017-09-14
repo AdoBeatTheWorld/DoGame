@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Decrease" width="71" height="66"  states="up,down" xmlns:e="http://ns.egret.com/eui">
+	<e:Image width="71" height="66" scaleX.down="0.8" scaleY.down="0.8" horizontalCenter="0" verticalCenter="0" source="button_decrease"/>
+</e:Skin>

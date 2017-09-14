@@ -1,0 +1,305 @@
+{
+  "file": "gameResult_DDZ.png",
+  "frames": {
+    "beishu": {
+      "x": 183,
+      "y": 1824,
+      "w": 80,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 42
+    },
+    "ddz_bg": {
+      "x": 0,
+      "y": 721,
+      "w": 785,
+      "h": 381,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 785,
+      "sourceH": 381
+    },
+    "difen": {
+      "x": 0,
+      "y": 1996,
+      "w": 81,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 81,
+      "sourceH": 43
+    },
+    "farmer1_4": {
+      "x": 1281,
+      "y": 512,
+      "w": 152,
+      "h": 183,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 152,
+      "sourceH": 183
+    },
+    "farmer2_2": {
+      "x": 0,
+      "y": 1753,
+      "w": 182,
+      "h": 183,
+      "offX": 0,
+      "offY": 16,
+      "sourceW": 182,
+      "sourceH": 199
+    },
+    "fenshu": {
+      "x": 1198,
+      "y": 818,
+      "w": 80,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 80,
+      "sourceH": 41
+    },
+    "glass_bg_lose": {
+      "x": 786,
+      "y": 721,
+      "w": 507,
+      "h": 96,
+      "offX": 68,
+      "offY": 218,
+      "sourceW": 637,
+      "sourceH": 323
+    },
+    "glass_bg_win": {
+      "x": 0,
+      "y": 1564,
+      "w": 507,
+      "h": 96,
+      "offX": 68,
+      "offY": 218,
+      "sourceW": 637,
+      "sourceH": 323
+    },
+    "jinbi": {
+      "x": 1294,
+      "y": 739,
+      "w": 77,
+      "h": 41,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 77,
+      "sourceH": 41
+    },
+    "kuang": {
+      "x": 1281,
+      "y": 0,
+      "w": 764,
+      "h": 511,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 764,
+      "sourceH": 511
+    },
+    "kuang1": {
+      "x": 0,
+      "y": 1480,
+      "w": 714,
+      "h": 83,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 714,
+      "sourceH": 83
+    },
+    "label_gameEnd_png": {
+      "x": 786,
+      "y": 818,
+      "w": 411,
+      "h": 109,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 411,
+      "sourceH": 109
+    },
+    "label_winner_png": {
+      "x": 851,
+      "y": 1117,
+      "w": 93,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 93,
+      "sourceH": 64
+    },
+    "listbackgrund": {
+      "x": 0,
+      "y": 1103,
+      "w": 709,
+      "h": 243,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 709,
+      "sourceH": 243
+    },
+    "lord1_4": {
+      "x": 710,
+      "y": 1117,
+      "w": 140,
+      "h": 176,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 140,
+      "sourceH": 176
+    },
+    "lord2_4": {
+      "x": 786,
+      "y": 928,
+      "w": 182,
+      "h": 188,
+      "offX": 0,
+      "offY": 18,
+      "sourceW": 182,
+      "sourceH": 206
+    },
+    "lord_icon": {
+      "x": 851,
+      "y": 1182,
+      "w": 62,
+      "h": 49,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 49
+    },
+    "lose_anim_30": {
+      "x": 0,
+      "y": 1661,
+      "w": 421,
+      "h": 91,
+      "offX": 4,
+      "offY": 57,
+      "sourceW": 430,
+      "sourceH": 150
+    },
+    "nicheng": {
+      "x": 1294,
+      "y": 696,
+      "w": 79,
+      "h": 42,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 79,
+      "sourceH": 42
+    },
+    "qm": {
+      "x": 969,
+      "y": 1076,
+      "w": 34,
+      "h": 34,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 34,
+      "sourceH": 34
+    },
+    "total_bank": {
+      "x": 1530,
+      "y": 512,
+      "w": 44,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 44,
+      "sourceH": 43
+    },
+    "total_item_bg": {
+      "x": 969,
+      "y": 928,
+      "w": 301,
+      "h": 84,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 301,
+      "sourceH": 84
+    },
+    "total_item_kuang": {
+      "x": 593,
+      "y": 1347,
+      "w": 116,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 116,
+      "sourceH": 112
+    },
+    "total_lose": {
+      "x": 710,
+      "y": 1294,
+      "w": 70,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 62
+    },
+    "total_mc_bg": {
+      "x": 1434,
+      "y": 512,
+      "w": 95,
+      "h": 99,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 95,
+      "sourceH": 99
+    },
+    "total_result_bg": {
+      "x": 0,
+      "y": 0,
+      "w": 1280,
+      "h": 720,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 1280,
+      "sourceH": 720
+    },
+    "total_share_btn": {
+      "x": 183,
+      "y": 1753,
+      "w": 234,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 234,
+      "sourceH": 70
+    },
+    "total_title": {
+      "x": 0,
+      "y": 1937,
+      "w": 246,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 246,
+      "sourceH": 58
+    },
+    "total_win": {
+      "x": 969,
+      "y": 1013,
+      "w": 74,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 74,
+      "sourceH": 62
+    },
+    "win_anim_18": {
+      "x": 0,
+      "y": 1347,
+      "w": 592,
+      "h": 132,
+      "offX": 4,
+      "offY": 86,
+      "sourceW": 600,
+      "sourceH": 220
+    }
+  }
+}

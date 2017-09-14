@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BetNumButton_SC_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="236.67">
+	<e:Image source="public_bg3" scale9Grid="35,11,210,71" height="61.01" anchorOffsetY="0" anchorOffsetX="0" width="240.66"/>
+	<e:Label id="betNum" text="已下注：3453456666" anchorOffsetX="0" anchorOffsetY="0" size="15" verticalCenter="-10.5" left="87" textColor="0xadf6ff" top="13" width="142.67"/>
+	<e:Label id="betNumLast" text="可下注：345345" anchorOffsetX="0" anchorOffsetY="0" size="15" left="87" textColor="0xadf6ff" verticalCenter="10.5" width="142"/>
+	<e:Label text="最大单门" x="17.95" size="15" textColor="0xadf6ff" verticalCenter="0"/>
+</e:Skin>

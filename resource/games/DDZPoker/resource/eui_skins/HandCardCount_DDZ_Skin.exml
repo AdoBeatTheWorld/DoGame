@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HandCardCount_DDZ_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="80" height="34">
+    <e:Image scale9Grid="12,10,18,19" x="0" source="spoker_count"/>
+	<e:BitmapLabel id="countLabel" x="38" font="glodLittleFont_fnt" text="20" scaleX="0.8" scaleY="0.8" letterSpacing="-6" anchorOffsetX="0" verticalCenter="0"/>
+</e:Skin>

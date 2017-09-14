@@ -1,0 +1,11 @@
+{"file":"countdownFont.png","frames":{
+"0":{"x":200,"y":0,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"1":{"x":120,"y":65,"w":32,"h":63,"offX":0,"offY":0,"sourceW":32,"sourceH":63},
+"2":{"x":160,"y":0,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"3":{"x":80,"y":65,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"4":{"x":0,"y":0,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"5":{"x":0,"y":65,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"6":{"x":40,"y":0,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"7":{"x":40,"y":65,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"8":{"x":120,"y":0,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63},
+"9":{"x":80,"y":0,"w":38,"h":63,"offX":0,"offY":0,"sourceW":38,"sourceH":63}}}

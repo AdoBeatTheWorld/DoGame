@@ -1,0 +1,205 @@
+{
+  "file": "create_room.png",
+  "frames": {
+    "bk_bottom_new": {
+      "x": 279,
+      "y": 207,
+      "w": 119,
+      "h": 36,
+      "offX": 2,
+      "offY": 2,
+      "sourceW": 123,
+      "sourceH": 40
+    },
+    "bottom": {
+      "x": 0,
+      "y": 0,
+      "w": 170,
+      "h": 156,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 170,
+      "sourceH": 156
+    },
+    "btn_create_new": {
+      "x": 0,
+      "y": 178,
+      "w": 278,
+      "h": 73,
+      "offX": 2,
+      "offY": 4,
+      "sourceW": 282,
+      "sourceH": 79
+    },
+    "btn_create_title_new": {
+      "x": 0,
+      "y": 394,
+      "w": 180,
+      "h": 52,
+      "offX": 1,
+      "offY": 2,
+      "sourceW": 182,
+      "sourceH": 56
+    },
+    "btTab_disable": {
+      "x": 290,
+      "y": 0,
+      "w": 212,
+      "h": 88,
+      "offX": 9,
+      "offY": 2,
+      "sourceW": 235,
+      "sourceH": 91
+    },
+    "btTab_n": {
+      "x": 0,
+      "y": 323,
+      "w": 169,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 169,
+      "sourceH": 70
+    },
+    "btTab_P": {
+      "x": 0,
+      "y": 252,
+      "w": 179,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 179,
+      "sourceH": 70
+    },
+    "close": {
+      "x": 180,
+      "y": 252,
+      "w": 91,
+      "h": 99,
+      "offX": 6,
+      "offY": 0,
+      "sourceW": 104,
+      "sourceH": 105
+    },
+    "coin_2": {
+      "x": 399,
+      "y": 89,
+      "w": 102,
+      "h": 73,
+      "offX": 2,
+      "offY": 17,
+      "sourceW": 104,
+      "sourceH": 104
+    },
+    "create_room_bg_new": {
+      "x": 171,
+      "y": 0,
+      "w": 118,
+      "h": 177,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 118,
+      "sourceH": 177
+    },
+    "create_room_btn_checkbox2_new": {
+      "x": 0,
+      "y": 529,
+      "w": 38,
+      "h": 39,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 40,
+      "sourceH": 41
+    },
+    "create_room_btn_checkbox_new": {
+      "x": 503,
+      "y": 3,
+      "w": 39,
+      "h": 39,
+      "offX": 1,
+      "offY": 1,
+      "sourceW": 41,
+      "sourceH": 43
+    },
+    "create_room_check_mark2_new": {
+      "x": 279,
+      "y": 244,
+      "w": 57,
+      "h": 46,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 58,
+      "sourceH": 47
+    },
+    "create_room_check_mark_new": {
+      "x": 170,
+      "y": 352,
+      "w": 32,
+      "h": 38,
+      "offX": 4,
+      "offY": 4,
+      "sourceW": 41,
+      "sourceH": 43
+    },
+    "create_room_line_new": {
+      "x": 503,
+      "y": 0,
+      "w": 945,
+      "h": 2,
+      "offX": 2,
+      "offY": 0,
+      "sourceW": 948,
+      "sourceH": 2
+    },
+    "jia": {
+      "x": 111,
+      "y": 447,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "jian": {
+      "x": 399,
+      "y": 163,
+      "w": 50,
+      "h": 50,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 50,
+      "sourceH": 50
+    },
+    "list_bk_new": {
+      "x": 290,
+      "y": 89,
+      "w": 108,
+      "h": 117,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 108,
+      "sourceH": 117
+    },
+    "lobby_diamond": {
+      "x": 0,
+      "y": 489,
+      "w": 48,
+      "h": 39,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 48,
+      "sourceH": 39
+    },
+    "math_btn_detail": {
+      "x": 0,
+      "y": 447,
+      "w": 110,
+      "h": 41,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 111,
+      "sourceH": 41
+    }
+  }
+}

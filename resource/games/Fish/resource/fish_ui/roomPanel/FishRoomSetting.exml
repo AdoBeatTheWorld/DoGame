@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FishRoomSettingSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group width="100%" height="100%" x="0" y="0" id="touch_grp"/>
+	<e:Image source="puyu_room_panelBg_png" x="359" y="165" scale9Grid="214,42,67,41" height="390"/>
+	<e:Label text="游戏音效" x="475" y="228" fontFamily="微软雅黑" textColor="0xcdcdcd" size="28"/>
+	<e:Label text="背景音乐" x="474" y="304" fontFamily="微软雅黑" size="28" textColor="0xcdcdcd"/>
+	<e:Label text="屏幕长亮" x="474" y="375" fontFamily="微软雅黑" textColor="0xCDCDCD" size="28" visible="false"/>
+	<e:Image source="puyu_room_line_png" y="275" x="434"/>
+	<e:Image source="puyu_room_line_png" y="348" x="434"/>
+	<e:Image source="puyu_room_line_png" y="422" x="434" visible="false"/>
+	<e:Button id="confirm_btn" label="确 定" y="422" x="557">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="puyu_room_btnNormal_png" source.down="puyu_room_btnDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="34" fontFamily="微软雅黑"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:ToggleSwitch id="sound_tsw" label="" x="733" y="223">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="puyu_room_switchBtnNormal_png" source.down="puyu_room_switchBtnDown_png" source.disabled="puyu_room_switchBtnDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:ToggleSwitch>
+	<e:ToggleSwitch id="music_tsw" label="" x="733" y="294">
+		<e:Skin states="up,down,disabled">
+		<e:Image width="100%" height="100%" source="puyu_room_switchBtnNormal_png" source.down="puyu_room_switchBtnDown_png" source.disabled="puyu_room_switchBtnDown_png"/>
+		<e:Label id="labelDisplay0" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+	</e:ToggleSwitch>
+	<e:ToggleSwitch id="screen_tsw" label="" x="733" y="368" visible="false">
+		<e:Skin states="up,down,disabled">
+		<e:Image width="100%" height="100%" source="puyu_room_switchBtnNormal_png" source.down="puyu_room_switchBtnDown_png" source.disabled="puyu_room_switchBtnDown_png"/>
+		<e:Label id="labelDisplay1" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+	</e:ToggleSwitch>
+</e:Skin>

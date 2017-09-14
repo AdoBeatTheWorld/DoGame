@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MoneyRankSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="-2.67" y="0" fillAlpha="0.6" visible="false"/>
+	<e:Image width="727" height="610" horizontalCenter="0" source="bottom" scale9Grid="24,22,121,101" y="107"/>
+	<e:Image id="brackground" width="687" height="572" horizontalCenter="0" source="loginBg" scale9Grid="40,39,27,29" y="119"/>
+	<e:Button id="closeBtn" label="Button" x="924.69" y="77.86" skinName="CloseBtnSkin"/>
+	<e:Scroller width="558" height="466.36" y="186.07" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0">
+		<e:List id="rankList" anchorOffsetY="0" height="100%" x="0" y="-13.64" width="100%">
+			<e:layout>
+				<e:VerticalLayout gap="8"/>
+			</e:layout>
+		</e:List>
+	</e:Scroller>
+	<e:Image width="591" height="158" y="22" source="ranktitle" horizontalCenter="0.5"/>
+	<e:Image width="207" height="217" x="919" y="500" source="jiangbei"/>
+</e:Skin>

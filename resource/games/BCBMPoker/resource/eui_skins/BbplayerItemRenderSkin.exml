@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbplayerItemRenderSkin" width="600" height="75" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="headImage" x="41" width="55" height="55" verticalCenter="0"/>
+	<e:Label id="nameLabel" text="我的名字七个字" x="210" verticalCenter="1" textColor="0x000000" size="25" textAlign="center" anchorOffsetX="0" width="186"/>
+	<e:Label id="moneyLabel" text="213" x="453" verticalCenter="2" textColor="0x000000" size="25" anchorOffsetX="0" width="127" textAlign="center"/>
+	<e:Image source="bb_result_line_png" bottom="1" horizontalCenter="0.5"/>
+</e:Skin>

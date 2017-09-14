@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NBjl_MsgBoxSkin" width="500" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="nbjl_avar_select_bg_png" scale9Grid="8,8,52,50" width="500" x="0" height="300" y="0"/>
+	<e:Label id="info_lbl" text="信息" y="22" fontFamily="微软雅黑" left="32" right="32" horizontalCenter="0" height="166" verticalAlign="middle" size="28"/>
+	<e:Button id="sure_btn" label="确定" x="48" y="211">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="nbjl_msgbox_green_btn_png" source.down="nbjl_msgbox_green_btn_png" source.disabled="nbjl_msgbox_green_btn_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="cacel_btn" label="取消" x="279" y="211">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="nbjl_msgbox_gran_btn_png" source.down="nbjl_msgbox_gran_btn_png" source.disabled="nbjl_msgbox_gran_btn_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

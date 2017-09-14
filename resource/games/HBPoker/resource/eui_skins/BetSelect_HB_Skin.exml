@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BetSelect_HB_Skin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Image anchorOffsetY="0" source="hb_chm_bj"  x="0" anchorOffsetX="0" width="545" height="80"/>
+    <e:Group id="jetton" anchorOffsetX="0" anchorOffsetY="0" y="3" width="469" x="11">
+        <e:RadioButton id="betRadioButton" label="0.1" x="1" groupName="chips">
+            <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                <e:Image source="hb_1q_white" width="80" height="80" source.down="hb_1q_white" horizontalCenter="0" verticalCenter="0"/>
+                <e:Label id="labelDisplay" text="0.1" horizontalCenter="0" verticalCenter="-9" size="20" stroke="1"/>
+            </e:Skin>
+        </e:RadioButton>
+        <e:RadioButton label="1" x="111" y="0" groupName="chips" >
+            <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                <e:Image source="hb_1w_white" width="80" height="80" source.down="hb_1w_white" horizontalCenter="0" verticalCenter="0"/>
+                <e:Label  id="labelDisplay" text="1" horizontalCenter="0" verticalCenter="-9" size="20" stroke="1"/>
+            </e:Skin>
+        </e:RadioButton>
+        <e:RadioButton label="5" x="224" y="0" groupName="chips">
+            <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                <e:Image source="hb_1shw_white" width="80" height="80" source.down="hb_1shw_white" horizontalCenter="0" verticalCenter="0"/>
+                <e:Label  id="labelDisplay" text="0.1" horizontalCenter="0" verticalCenter="-9" size="20" stroke="1"/>
+            </e:Skin>
+        </e:RadioButton>
+        <e:RadioButton label="10" x="335" y="0" groupName="chips">
+            <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                <e:Image source="hb_1bw_white" width="80" height="80" source.down="hb_1bw_white" horizontalCenter="0" verticalCenter="0"/>
+                <e:Label  id="labelDisplay" text="0.1" horizontalCenter="0" verticalCenter="-9" size="20" stroke="1"/>
+            </e:Skin>
+        </e:RadioButton>
+        <e:RadioButton label="100" y="0" groupName="chips" right="-55">
+            <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                <e:Image source="hb_5bw_white" width="80" height="80" source.down="hb_5bw_white" horizontalCenter="0" verticalCenter="0"/>
+                <e:Label  id="labelDisplay" text="0.1" horizontalCenter="0" verticalCenter="-9" size="20" stroke="1"/>
+            </e:Skin>
+        </e:RadioButton>
+    </e:Group>
+	<e:Button id="lastPressureButton" y="25" width="89" height="64" x="560">
+		<e:Skin states="up,down,disabled">
+		<e:Image source="hb_xy" width.down="95%" height.down="95%" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+	</e:Button>
+</e:Skin>

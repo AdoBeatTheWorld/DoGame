@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="SafePanelSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" height="720"
+        width="1280">
+	<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.6"  visible="false"/>
+	<e:Image id="brackground" width="905" height="426" x="186.67" y="193.67" source="bottom" scale9Grid="35,35,41,47" />
+	<e:Image source="public1" x="401.35" y="208.45" width="678" height="397" scale9Grid="23,21,73,121"/>
+	<e:Image width="192" height="385.33" x="115.16" y="218.78" source="list_bk_new" anchorOffsetX="-86.17"
+	         anchorOffsetY="13.44" scale9Grid="22,24,60,72" />
+	<e:TextInput id="inputLabel" width="250" height="40" x="592.33" y="365.32" anchorOffsetX="0" anchorOffsetY="0"
+	             visible="false">
+		<e:Skin width="250" height="40" minHeight="40" minWidth="300"
+		        states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+			<e:Image source="invitation_bg" anchorOffsetX="0" width="250" scale9Grid="18,15,459,28" height="40" />
+			<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="40" size="25" fontFamily="黑体"
+			                verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="240" x="5" textAlign="left"
+			                prompt="输入金额" textColor="0x5b5b5a" />
+			<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="25"
+			         touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left"
+			         textColor="0x777671" />
+		</e:Skin>
+	</e:TextInput>
+	<e:RadioButton id="drawmoneyBtn" label="取款" x="211.19" groupName="depos" y="291.33" skinName="RadioButton1Skin"
+	               />
+	<e:RadioButton id="depositBtn" label="存款" selected="true" x="209.67" groupName="depos" y="212.52"
+	               skinName="RadioButton1Skin" />
+	<e:Button id="closeBtn" label="Button" x="1026.19" y="152.33" skinName="CloseBtnSkin" scaleX="1" scaleY="1"/>
+	<e:RadioButton id="changePassBtn" label="修改密码" selected="false" x="210.52" groupName="depos" y="507"
+	               skinName="RadioButton1Skin" />
+
+	<e:Image height="85" width="474" y="110.32" source="public3" horizontalCenter="0" />
+	<e:Image width="167" height="60" y="126.99" source="baoxian2" horizontalCenter="-3.5" />
+
+
+	<e:ViewStack id="viewStack" width="676" height="374" selectedIndex="0" x="408" y="212" anchorOffsetX="0" anchorOffsetY="0">
+		<e:Group  anchorOffsetX="0" anchorOffsetY="0" x="0" y="0" width="663" height="383">
+			<e:Label id="boxBalanceLabel" text="存款：10000" y="68.26" textColor="0x7F2D00"
+			         fontFamily="Microsoft YaHei" size="35" anchorOffsetX="0" width="293.67" scaleX="1" scaleY="1"  horizontalCenter="14.5"/>
+			<e:Label id="typeLabel" text="存款" x="30.66" y="23.97" textColor="0x7F2D00" fontFamily="Microsoft YaHei" size="40"
+			         anchorOffsetX="0" width="101.67" scaleX="1" scaleY="1" />
+			<e:Label id="currentBalanceLabel" text="现金：10000" y="119.42" textColor="0x7F2D00"
+			         fontFamily="Microsoft YaHei" size="35" anchorOffsetX="0" width="266.67" scaleX="1" scaleY="1"  horizontalCenter="2"/>
+			<e:Button id="depositInBtn" label="" y="287" anchorOffsetX="0" width="208" anchorOffsetY="0" height="68"
+			          skinName="cancelBtnSkin" scaleX="1" scaleY="1"  left="100"/>
+
+			<e:HSlider id="moneySilder" width="454.68" height="49.33" y="194.95" anchorOffsetX="0" anchorOffsetY="0"
+			           scaleX="1" scaleY="1" horizontalCenter="7">
+				<e:Skin>
+					<e:Image id="track" source="mjl_voice_bg"  verticalCenter="0"/>
+					<e:Button id="trackHighlight" verticalCenter="0">
+						<e:Skin states="up,down,disabled">
+							<e:Image source="mjl_voice_thumb" scale9Grid="20,26,34,10" left="0" right="-30" />
+						</e:Skin>
+					</e:Button>
+					<e:Image id="thumb" source="progress_btn" verticalCenter="0"  x="-2"/>
+				</e:Skin>
+			</e:HSlider>
+			<e:Button id="moneyDecreaseBtn" label="Button" x="21.18" y="185" skinName="Decrease" scaleX="1" scaleY="1" />
+			<e:Image id="resetImage" height="39" x="163.32" y="300" source="reset" scaleX="1" scaleY="1" />
+			<e:Button id="tackOutBtn" label="" y="287" skinName="ConfirmBtn1Skin" anchorOffsetX="0" width="208" anchorOffsetY="0" height="68" scaleX="1" scaleY="1" right="100"/>
+			<e:Image id="confirmImage" width="82" height="39" y="300" source="confirm" scaleX="1" scaleY="1" right="160"/>
+			<e:Button id="moneyAddBtn" label="Button" x="572.68" y="184.68" skinName="AddBtn2" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Group width="676" height="376" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+			<e:Label id="instLabel_1" text="说明文字" x="296" y="167.48" textColor="0x7F2D00" fontFamily="黑体" size="20" anchorOffsetX="0" width="246" scaleX="1" scaleY="1"/>
+			<e:Label id="instLabel_0" text="说明文字" x="296" y="95.6" textColor="0x7F2D00" fontFamily="黑体" size="20" anchorOffsetX="0" width="246" scaleX="1" scaleY="1"/>
+			<e:Label id="instLabel_2" text="说明文字" x="296" y="244.98" textColor="0x7F2D00" fontFamily="黑体" size="20" anchorOffsetX="0" width="246" scaleX="1" scaleY="1"/>
+			<e:TextInput id="newPassword" width="271" height="45" y="120" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" right="137">
+			<e:Skin width="271" height="46" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+				<e:Image anchorOffsetX="0" width="271" height="46" source="Input_bg" scale9Grid="18,15,199,17"/>
+				<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="46" size="25" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="271" x="5" textAlign="left" prompt="输入新密码" textColor="0x5b5b5a"/>
+				<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="25" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+			</e:Skin>
+			</e:TextInput>
+			<e:TextInput id="oldPassword" width="271" height="46" y="46" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" right="137">
+			<e:Skin height="46" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt" width="271">
+				<e:Image anchorOffsetX="0" width="271" height="46" source="Input_bg" scale9Grid="18,13,261,22"/>
+				<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="46" size="25" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="271" x="5" textAlign="left" prompt="输入旧密码" textColor="0x5b5b5a"/>
+				<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="25" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+			</e:Skin>
+			</e:TextInput>
+			<e:TextInput id="confirmLabel" width="271" height="46" y="194" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" right="137">
+			<e:Skin width="271" height="46" minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt">
+				<e:Image anchorOffsetX="0" width="271" height="46" source="Input_bg" scale9Grid="91,15,142,18"/>
+				<e:EditableText id="textDisplay" textColor.disabled="0xff0000" height="46" size="25" fontFamily="黑体" verticalAlign="middle" anchorOffsetX="0" anchorOffsetY="0" y="0" width="271" x="5" textAlign="left" prompt="确认新密码" textColor="0x5b5b5a"/>
+				<e:Label id="promptDisplay" verticalCenter="0" left="10" right="10" width="100%" height="35" size="25" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt" fontFamily="黑体" textAlign="left" textColor="0x777671"/>
+			</e:Skin>
+			</e:TextInput>
+			<e:Button id="submitBtn" label="" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" right="130" height="58" width="169" top="293">
+				<e:skinName>
+					<e:Skin states="up,down,disabled">
+					<e:Image width="100%" height="100%" source="safebox_confirm" source.down="safebox_confirm"/>
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+					</e:Skin>
+				</e:skinName>
+
+			</e:Button>
+			<e:Button id="cancleBtn" label="" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1" top="293" left="130" width="169">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="safebox_cancel" source.down="safebox_cancel"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+			</e:Button>
+			<e:Label text="新密码" y="130" textColor="0x7F2D00" fontFamily="Microsoft YaHei" size="28" anchorOffsetX="0" width="92" scaleX="1" scaleY="1" right="429"/>
+			<e:Label text="旧密码" y="54" textColor="0x7F2D00" fontFamily="Microsoft YaHei" size="28" anchorOffsetX="0" width="92" scaleX="1" scaleY="1" right="429"/>
+			<e:Label text="确认密码" y="206" textColor="0x7F2D00" fontFamily="Microsoft YaHei" size="28" anchorOffsetX="0" width="121" scaleX="1" scaleY="1" right="429"/>
+		</e:Group>
+
+	</e:ViewStack>
+</e:Skin>

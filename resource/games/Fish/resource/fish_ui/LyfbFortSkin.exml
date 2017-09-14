@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LyfbFortSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="293" height="201">
+
+	<e:Image source="lyfb_score_bg_png" y="129" x="108"/>
+	<e:Image id="lyfb_bet_icon" source="lyfb_json.lyfb_x1_png" anchorOffsetX="24" anchorOffsetY="24" y="154" x="253"/>
+
+	<e:BitmapLabel id="score_lb" name="score_lb" width="106" height="25" y="144" anchorOffsetX="0" anchorOffsetY="0" font="hw_fen_fnt" text="0" textAlign="center" x="122"/>
+	<e:BitmapLabel id="count_lbl" name="count_lbl" width="176" height="29" y="90" anchorOffsetX="0" anchorOffsetY="0" font="hw2_lyfb_score_fnt" text="30：00" x="108"/>
+	<e:BitmapLabel id="score_lbl" name="score_uplbl" width="268" height="52" anchorOffsetX="134" anchorOffsetY="26" x="95" y="102" font="hw2_lyfb_score_fnt" text="" textAlign="center" scaleX="1.2" scaleY="1.2"/>
+</e:Skin>

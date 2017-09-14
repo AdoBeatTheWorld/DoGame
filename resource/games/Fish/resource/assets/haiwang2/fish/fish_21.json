@@ -1,0 +1,64 @@
+{"mc":{
+	"fish_17":{
+		"frameRate":10,
+		"labels":[
+			{"name":"run","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_CrabAiguille_Life_01",
+			"x":-89,
+			"y":-63
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_02",
+			"x":-84,
+			"y":-61
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_03",
+			"x":-87,
+			"y":-59
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_04",
+			"x":-76,
+			"y":-60
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_05",
+			"x":-81,
+			"y":-59
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_06",
+			"x":-84,
+			"y":-58
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_07",
+			"x":-85,
+			"y":-58
+			},
+			{
+			"res":"Fish_CrabAiguille_Life_08",
+			"x":-85,
+			"y":-61
+			}
+			]
+}},
+	"res":{
+		"Fish_CrabAiguille_Life_02":{"x":0,"y":243,"w":148,"h":122},
+		"Fish_CrabAiguille_Life_05":{"x":172,"y":124,"w":163,"h":119},
+		"Fish_CrabAiguille_Life_07":{"x":0,"y":0,"w":172,"h":120},
+		"Fish_CrabAiguille_Life_08":{"x":174,"y":0,"w":166,"h":122},
+		"Fish_CrabAiguille_Life_03":{"x":337,"y":125,"w":155,"h":119},
+		"Fish_CrabAiguille_Life_01":{"x":342,"y":0,"w":159,"h":123},
+		"Fish_CrabAiguille_Life_04":{"x":150,"y":245,"w":150,"h":120},
+		"Fish_CrabAiguille_Life_06":{"x":0,"y":122,"w":170,"h":119}
+	}}

@@ -1,0 +1,115 @@
+{
+  "file": "chips_cs.png",
+  "frames": {
+    "chips2": {
+      "x": 90,
+      "y": 0,
+      "w": 62,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 64
+    },
+    "chips2_up": {
+      "x": 188,
+      "y": 63,
+      "w": 57,
+      "h": 58,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 57,
+      "sourceH": 58
+    },
+    "chips10": {
+      "x": 126,
+      "y": 65,
+      "w": 61,
+      "h": 62,
+      "offX": 1,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 64
+    },
+    "chips10_up": {
+      "x": 0,
+      "y": 128,
+      "w": 57,
+      "h": 56,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 57,
+      "sourceH": 58
+    },
+    "chips50": {
+      "x": 153,
+      "y": 0,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 64
+    },
+    "chips50_up": {
+      "x": 58,
+      "y": 185,
+      "w": 57,
+      "h": 56,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 57,
+      "sourceH": 58
+    },
+    "chips100": {
+      "x": 0,
+      "y": 65,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 64
+    },
+    "chips100_up": {
+      "x": 0,
+      "y": 185,
+      "w": 57,
+      "h": 56,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 57,
+      "sourceH": 58
+    },
+    "chips1000": {
+      "x": 63,
+      "y": 65,
+      "w": 62,
+      "h": 62,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 62,
+      "sourceH": 64
+    },
+    "chips1000_up": {
+      "x": 58,
+      "y": 128,
+      "w": 57,
+      "h": 56,
+      "offX": 0,
+      "offY": 1,
+      "sourceW": 57,
+      "sourceH": 58
+    },
+    "sc_xy": {
+      "x": 0,
+      "y": 0,
+      "w": 89,
+      "h": 64,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 89,
+      "sourceH": 64
+    }
+  }
+}

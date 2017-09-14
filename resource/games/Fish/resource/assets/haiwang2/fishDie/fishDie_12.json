@@ -1,0 +1,64 @@
+{"mc":{
+	"1":{
+		"frameRate":8,
+		"labels":[
+			{"name":"run","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_BigRasbora_Die_01",
+			"x":-145,
+			"y":-166
+			},
+			{
+			"res":"Fish_BigRasbora_Die_02",
+			"x":-155,
+			"y":-153
+			},
+			{
+			"res":"Fish_BigRasbora_Die_03",
+			"x":-166,
+			"y":-174
+			},
+			{
+			"res":"Fish_BigRasbora_Die_04",
+			"x":-138,
+			"y":-168
+			},
+			{
+			"res":"Fish_BigRasbora_Die_05",
+			"x":-144,
+			"y":-162
+			},
+			{
+			"res":"Fish_BigRasbora_Die_06",
+			"x":-155,
+			"y":-151
+			},
+			{
+			"res":"Fish_BigRasbora_Die_07",
+			"x":-171,
+			"y":-173
+			},
+			{
+			"res":"Fish_BigRasbora_Die_08",
+			"x":-137,
+			"y":-165
+			}
+			]
+}},
+	"res":{
+		"Fish_BigRasbora_Die_03":{"x":0,"y":320,"w":327,"h":296},
+		"Fish_BigRasbora_Die_06":{"x":0,"y":0,"w":327,"h":318},
+		"Fish_BigRasbora_Die_02":{"x":329,"y":0,"w":323,"h":319},
+		"Fish_BigRasbora_Die_04":{"x":0,"y":618,"w":319,"h":286},
+		"Fish_BigRasbora_Die_05":{"x":329,"y":321,"w":319,"h":298},
+		"Fish_BigRasbora_Die_07":{"x":654,"y":0,"w":327,"h":302},
+		"Fish_BigRasbora_Die_08":{"x":650,"y":617,"w":315,"h":298},
+		"Fish_BigRasbora_Die_01":{"x":654,"y":304,"w":317,"h":311}
+	}}

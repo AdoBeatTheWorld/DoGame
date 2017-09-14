@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MaiRoleSeat_SC_Skin" height="93" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"
+        width="280">
+
+	<e:Image  source="public_bg3" horizontalCenter="0" verticalCenter="0" width="100%" height="100%"/>
+	<e:Image source="public_info" right="16" verticalCenter="-18"/>
+	<e:Image source="public_info" right="16" verticalCenter="18"/>
+	<e:Image x="20" anchorOffsetX="0" anchorOffsetY="0"  verticalCenter="0" source="public_head"/>
+	<e:Image id="headIcon" x="24" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="0.5" source="" width="55" height="56"/>
+
+	<e:Label id="nameLabel" text="名字" size="16" anchorOffsetX="0" width="108" textAlign="left"
+	         verticalAlign="middle" fontFamily="黑体"  textColor="0xffffff" right="26" verticalCenter="-17.5"/>
+	<e:Label id="propertyLabel" text="10000" size="16" anchorOffsetX="0" width="114" textAlign="left" verticalAlign="middle"
+	         fontFamily="黑体"  height="22" textColor="0xffffff" right="20" verticalCenter="18.5"/>
+	<e:Label text="昵称" x="102" size="16" textColor="0xfaff89" fontFamily="Microsoft YaHei" verticalCenter="-17.5"/>
+	<e:Label text="金币" x="102" size="16" textColor="0xfaff89" fontFamily="Microsoft YaHei" verticalCenter="18.5"/>
+	<e:Image id="identifyImage" x="-4" y="-11" source="common_hox" anchorOffsetX="0" anchorOffsetY="0"/>
+
+</e:Skin>

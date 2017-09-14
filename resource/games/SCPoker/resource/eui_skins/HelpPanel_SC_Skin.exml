@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HelpPanel_SC_Skin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Image horizontalCenter="0" source="public_bg5" scale9Grid="35,54,625,347" y="135" />
+	<e:Label id="helpInfoLabel"
+	         text="玩法规则：     北京赛车是由国家福利彩票管理中心统一发行的赛车主题排列型高频材料， PK10共有13种排列游戏玩法，竞猜每次比赛后的10个名词，每期5分钟，每天179期， 开奖周期为9：02--23：57，每期由10辆赛车进行比赛的结果作为开奖号码，北京赛车每日 派奖超亿元。  本游戏本着公平公正原则以北京赛车开奖数据为结果，下注玩法例如（前三名之和除4取余） 如： 前三 为 1，2 ，3 号  （1+2+3）/4  = 2  中奖号为2 ，单注中奖赔率为 1赔3.8  其他如系统卡奖超过3期，系统暂停下注内容帮助内容帮助内容帮助内容帮助内容"
+	         y="170" lineSpacing="20" anchorOffsetX="0" width="660.12" size="20" horizontalCenter="2"  textColor="0xadf6ff"/>
+	<e:Button id="closeButton" label="" x="956.04" y="105.73" width="63" height="65">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image bottom="0" horizontalCenter="0" verticalCenter="0"
+				         source="userInfo_close2" source.down="userInfo_close1" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

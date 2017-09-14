@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NBjl_SelfSelectSkin" width="175" height="118" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="nbjl_avar_select_bg_png" scale9Grid="8,8,52,50" width="175" x="0" height="118" y="0"/>
+	<e:Image source="nbjl_avar_select_bg_line_png" y="60" x="1"/>
+	<e:Button id="detail_btn" label="" x="25" y="15">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="nbjl_avar_select_detail_font_png" source.down="nbjl_avar_select_detail_font_png" source.disabled="nbjl_avar_select_detail_font_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="stand_btn" label="" x="24" y="69">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="nbjl_avar_leave_seat_font_png" source.down="nbjl_avar_leave_seat_font_png" source.disabled="nbjl_avar_leave_seat_font_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

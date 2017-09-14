@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RecordItem_HB_Skin" width="610" height="48" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="image0" source="main_hb_json.hb_win" x="45" y="8"/>
+	<e:Image id="image1" x="168" y="8" source="main_hb_json.hb_lose"/>
+	<e:Image id="image2" source="main_hb_json.hb_win" x="290" y="8"/>
+	<e:Image id="image3" x="420" y="8" source="main_hb_json.hb_lose"/>
+	<e:Image id="line" source="main_hb_json.hb_line" x="0" y="45" width="610" height="2"/>
+	<e:Group width="124" height="24" x="487" y="12" anchorOffsetY="0" anchorOffsetX="0">
+		<e:BitmapLabel id="profitLabel" scaleX="1" scaleY="1" font="hb_win_font_fnt" horizontalCenter="0" verticalCenter="0" text="+350.02" letterSpacing="-2"/>
+	</e:Group>
+</e:Skin>

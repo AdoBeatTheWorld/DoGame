@@ -1,0 +1,55 @@
+{
+  "file": "betArea_bjl.png",
+  "frames": {
+    "banker_bjl": {
+      "x": 401,
+      "y": 0,
+      "w": 401,
+      "h": 349,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 401,
+      "sourceH": 350
+    },
+    "ping_bjl": {
+      "x": 296,
+      "y": 350,
+      "w": 518,
+      "h": 130,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 518,
+      "sourceH": 130
+    },
+    "xian_bjl": {
+      "x": 0,
+      "y": 0,
+      "w": 401,
+      "h": 350,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 401,
+      "sourceH": 350
+    },
+    "xiand_bjl": {
+      "x": 0,
+      "y": 350,
+      "w": 296,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 296,
+      "sourceH": 239
+    },
+    "zhd_bjl": {
+      "x": 0,
+      "y": 589,
+      "w": 296,
+      "h": 239,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 296,
+      "sourceH": 239
+    }
+  }
+}

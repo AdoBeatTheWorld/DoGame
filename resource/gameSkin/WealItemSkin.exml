@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="WealItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" x="0" y="0" source="mailitem_bg" scale9Grid="33,28,649,28" />
+	<e:Button id="itemBtn" label="领取" x="559" anchorOffsetX="0" anchorOffsetY="0"
+	          verticalCenter="0" scaleX="0.6" scaleY="0.6" width="221" height="76">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image scaleX.down="0.9" scaleY.down="0.9" horizontalCenter="0" verticalCenter="0" source="exchange_bg" source.down="exchange_bg" />
+	<e:Image id="image" source="word_bangding" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label id="wealName" text="好评有礼" x="95" fontFamily="Microsoft YaHei" width="200" size="23" top="20"
+	         textColor="0xffefce" />
+	<e:Label id="wealdes" text="好评有礼" x="95" fontFamily="Microsoft YaHei" width="500" size="18" anchorOffsetX="0"
+	         textAlign="left" verticalAlign="middle" top="51" textColor="0xffd879" />
+	<e:Image id="icon" source="fuli" x="26" width="60" height="60" verticalCenter="0" />
+</e:Skin>

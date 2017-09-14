@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BbTurntableSkin" width="1280" height="720" states="up,down" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bb_bgImage_png" y="-1" />
+	<e:Group id="imageGruop" width="1280" height="720"  anchorOffsetX="0" anchorOffsetY="0">
+		<e:Button width="73" height="73" name="_9" label="" right="287" top="23" x="920.0000000000001" y="23.000000000000004">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoshijie_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_25" label="Button" x="275" bottom="153" y="494">
+			<e:Skin>
+				<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoshijie_big" />
+			</e:Skin>
+		</e:Button>
+		<e:Button width="73" height="73" name="_32" label="" top="58" right="1002" x="205.00000000000003" y="58">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_26" label="" bottom="187" right="1002" x="205.00000000000003"
+		          y="460.00000000000006">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoshijie_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_31" x="150" top="114" y="114.00000000000001">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_27" x="150" bottom="243" y="404">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_30" x="113" y="183">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_aodi_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_28" x="113" bottom="313" y="334">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_29" x="103" y="258">
+			<e:Skin>
+				<e:Image id="Image" scaleY="1" source="bb_aodi_big" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:Button>
+		<e:Button width="73" height="73" name="_1" top="23" right="932" x="275" y="23.000000000000004">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoshijie_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_17" bottom="153" y="494" right="287" x="920.0000000000001">
+			<e:Skin>
+				<e:Image id="Image" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0" source="bb_baoshijie_big" />
+			</e:Skin>
+		</e:Button>
+		<e:Button width="73" height="73" name="_10" top="58" right="217" x="990" y="58">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" horizontalCenter="0" verticalCenter="0" source="bb_baoshijie_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_16" bottom="187" y="460.00000000000006" right="217" x="990">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_11" top="114" right="162" x="1045" y="114.00000000000001">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_15" bottom="243" y="404" right="162" x="1045">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_12" y="183" right="125" x="1082">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_14" bottom="313" right="125" x="1092" y="334">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_aodi_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_13" y="258" right="115" x="1092">
+			<e:Skin>
+				<e:Image id="Image" source="bb_aodi_big" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:Button>
+		<e:Button width="73" height="73" name="_24" y="502" x="356">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_23" x="437" y="502">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_22" x="518" y="502">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_aodi_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_21" x="599" y="502">
+			<e:Skin>
+				<e:Image id="Image" source="bb_aodi_big" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:Button>
+		<e:Button width="73" height="73" name="_20" x="680" y="502">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_19" x="761.0000000000001" y="502">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_18" label="" x="842" y="502">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoshijie_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_2" x="356" y="13">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoshijie_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_3" label="" x="437" y="13">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_baoma_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_4" x="518" y="13">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" horizontalCenter="0" verticalCenter="0" source="bb_baoma_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_5" label="Button" x="599" y="13">
+			<e:Skin>
+				<e:Image id="Image" source="bb_aodi_big" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:Button>
+		<e:Button width="73" height="73" name="_6" x="680" y="13">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_aodi_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_7" x="761.0000000000001" y="13">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_big" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button width="73" height="73" name="_8" x="842" y="13">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+					<e:Image id="Image" verticalCenter="0" horizontalCenter="0" source="bb_dazhong_small" />
+					<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Image x="212" y="228" source="bb_shangzhuang3" />
+		<e:BitmapLabel x="469" y="229" font="bb_big_Font_fnt" text="x40" />
+		<e:BitmapLabel x="633.17" y="229" font="bb_big_Font_fnt" text="x30" />
+		<e:BitmapLabel x="797.5" y="229" font="bb_big_Font_fnt" text="x20" />
+		<e:BitmapLabel x="956.5" y="229" font="bb_big_Font_fnt" text="x10" />
+		<e:BitmapLabel x="469" y="413" font="bb_big_Font_fnt" text="x5" anchorOffsetX="0" width="59" />
+		<e:BitmapLabel x="633" y="414" font="bb_big_Font_fnt" text="x5" anchorOffsetX="0" width="59" />
+		<e:BitmapLabel x="797" y="414" font="bb_big_Font_fnt" text="x5" anchorOffsetX="0" width="59" />
+		<e:BitmapLabel x="956" y="412" font="bb_big_Font_fnt" text="x5" anchorOffsetX="0" width="59" />
+	</e:Group>
+
+
+	<e:Group id="lightGroup" width="1280" height="720">
+		<e:Image id="light_01Image" source="che2_1_png" x="0" y="0" scaleX="1" scaleY="1"/>
+		<e:Image id="light_03Image" x="868" y="0" source="che1_1_png" scaleX="1" scaleY="1"/>
+		<e:Image id="light_02Image" source="che3_1_png" bottom="102" x="0" y="272" scaleX="1" scaleY="1"/>
+		<e:Image id="light_04Image" x="906" y="272" source="che_1_1_png" scaleX="1" scaleY="1"/>
+
+	</e:Group>
+	<e:Group x="291" y="110" width="80" height="80">
+		<e:Image source="Bb_clock_bg_png" y="0" x="0"/>
+		<e:BitmapLabel id="_timer_tf" font="bb_countdown_number_fnt" text="0" scaleX="1" scaleY="1" horizontalCenter="0" verticalCenter="0"/>
+	</e:Group>
+	<e:Label id="stateLabel" text="空闲时间" x="290.29" y="194.64" textColor="0xffcc00" size="21" fontFamily="SimHei"/>
+
+	<e:Button id="click_01" label="asd" y="82" left="391">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bb_bet_click1_png" alpha.up="0" source.down="bb_bet_click1_png"/>
+
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" horizontalCenter="-1" bottom="-1" font="countFont_fnt" text="0"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_02" label="" y="290.67" left="390" width="190" height="210">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click2_png" alpha.up="0" source.down="bb_bet_click2_png" />
+
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" font="countFont_fnt" text="0" top="0" horizontalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_03" label="Button" x="577.35" y="82" width="174" height="210" x.down="581.34">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click3_png" alpha.up="0" source.down="bb_bet_click3_png" />
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" horizontalCenter="2" bottom="-1" font="countFont_fnt" text="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_06" label="Button" x="749.34" y="292" width="174" height="210">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click4_png" alpha.up="0" source.down="bb_bet_click4_png" />
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" horizontalCenter="2" font="countFont_fnt" text="0" top="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_05" label="Button" x="749.35" y="82" width="174" height="210" x.down="749.35">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click5_png" alpha.up="0" source.down="bb_bet_click5_png" />
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" horizontalCenter="2" bottom="0" font="countFont_fnt" text="0"/>
+
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_04" label="Button" x="578.01" y="292" width="174" height="210" x.down="578.01">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click3_png" alpha.up="0" source.down="bb_bet_click3_png" />
+
+	<e:BitmapLabel id="allLabel" horizontalCenter="2" font="countFont_fnt" text="0" top="0"/>
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_07" label="Button" y="85.67" right="191" width="166" height="205">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click7_png" alpha.up="0" source.down="bb_bet_click7_png" />
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" horizontalCenter="3" bottom="0" font="countFont_fnt" text="0"/>
+
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="click_08" label="Button" y="292" right="190" width="166" height="205">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="bb_bet_click8_png" alpha.up="0" source.down="bb_bet_click8_png" />
+	<e:BitmapLabel id="myLabel" font="mycountFont_fnt" text="0" horizontalCenter="0" verticalCenter="0"/>
+	<e:BitmapLabel id="allLabel" horizontalCenter="2" font="countFont_fnt" text="0" top="0"/>
+
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image x="218" y="271" source="bb_shangzhuang3_png"/>
+	<e:Label id="personNumLabel" text="申请人数：" x="231" y="360" textColor="0x668f3f" fontFamily="SimHei" size="20"
+	         width="145" />
+	<e:Label id="limitLabel" text="上庄需10000金币" x="241" y="390" textColor="0x668f3f" fontFamily="SimHei" size="20" />
+	<e:Button id="_downBanker_btn" x="214" y="300">
+		<e:Skin states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" width="95" height="43">
+			<e:Image width="100%" height="100%" scaleX.down="0.8" scaleY.down="0.8" verticalCenter="0" horizontalCenter="0"
+			         source="bb_btn_downBanker_normal_png" source.down="bb_btn_downBanker_normal_png" />
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+		</e:Skin>
+	</e:Button>
+	<e:Button id="_applyBanker_btn" x="214" y="301">
+		<e:Skin width="95" height="43" states="up,down,disabled">
+			<e:Image width="100%" height="100%" scaleX.down="0.8" scaleY.down="0.8" verticalCenter="0" horizontalCenter="0"
+			         source="bb_btn_bankerNormal_png" source.down="bb_btn_bankerNormal_png" />
+		</e:Skin>
+	</e:Button>
+	<e:Label id="_bankerNum_tf" text="123123" x="262" y="276" size="20" fontFamily="SimHei" textColor="0xffcc00" />
+	<e:Label id="_bankerName_tf" text="当前名字七个字" x="256.68" y="229.65" fontFamily="SimHei" size="20" textColor="0xffe491"  width="140"/>
+	<e:Image x="207" y="214" source="bb_zuozhuang_png" />
+	<e:Label id="roomId" text="初级场" x="312.23" y="422.26" textColor="0xffd505" fontFamily="PMingLiU" anchorOffsetX="0" width="127.99" size="30"/>
+	<e:BitmapLabel id="allcountLabel" y="471.19" font="countFont_fnt" text="总下注：" horizontalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainOperation_SC_Skin" width="1280" height="108" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect left="0" right="0" top="0" bottom="0" fillColor="0x282828"/>
+	<e:Image anchorOffsetX="0" anchorOffsetY="0" source="public_bg" scale9Grid="160,14,960,88" horizontalCenter="1" height="108" y="0"/>
+	<e:Image source="public_bg2" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="0" width="510" height="80" horizontalCenter="-85"/>
+	<e:Group id="chipGroup" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="0" width="510" height="80" horizontalCenter="-75">
+		<e:RadioButton id="chip1000Button"  groupName="chips" y="1" value="2" label="2" width="80" height="80">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="chips2_up" source.down="chips2_up" source.disabled="chips2_up"/>
+				<e:Label id="labelDisplay" size="22" stroke="1" bold="true" horizontalCenter="0" verticalCenter="-10"/>
+				</e:Skin>
+			</e:skinName>
+		</e:RadioButton>
+		<e:RadioButton id="chips5000Button" groupName="chips" y="1" value="10" label="10" x="102" width="80" height="80">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="chips10_up" source.down="chips10_up" source.disabled="chips10_up"/>
+				<e:Label id="labelDisplay" size="22" stroke="1" bold="true" horizontalCenter="0" verticalCenter="-10"/>
+				</e:Skin>
+			</e:skinName>
+		</e:RadioButton>
+		<e:RadioButton id="chip10000Button"  groupName="chips" y="1" value="50" label="50" x="204" width="80" height="80">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="chips50_up" source.down="chips50_up" source.disabled="chips50_up"/>
+				<e:Label id="labelDisplay" size="22" stroke="1" bold="true" horizontalCenter="0" verticalCenter="-10"/>
+				</e:Skin>
+			</e:skinName>
+		</e:RadioButton>
+		<e:RadioButton id="chips50000Button"  groupName="chips" y="1" value="100" label="100" x="306" height="80" width="80">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="chips100_up" source.down="chips100_up" source.disabled="chips100_up"/>
+				<e:Label id="labelDisplay" stroke="1" bold="true" size="22" horizontalCenter="0" verticalCenter="-10"/>
+				</e:Skin>
+			</e:skinName>
+		</e:RadioButton>
+		<e:RadioButton id="chip100000Button" groupName="chips" y="1" value="1000" label="1000" x="408" width="80" height="80">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="chips1000_up" source.down="chips1000_up" source.disabled="chips1000_up"/>
+				<e:Label id="labelDisplay" size="22" stroke="1" bold="true" horizontalCenter="0" verticalCenter="-10"/>
+				</e:Skin>
+			</e:skinName>
+		</e:RadioButton>
+	</e:Group>
+	<e:Group width="364" height="72" x="906.65" anchorOffsetY="0" anchorOffsetX="0" verticalCenter="0">
+		<e:Button id="soundButton" label="" x="33" y="-1" scaleX="1" scaleY="1" skinName="SoundButton2_SC_Skin"/>
+		<e:Button id="recordButton" label="" x="103" y="-13" scaleX="1" scaleY="1">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="hb_phb_2" source.down="hb_phb"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="helpButton" label="" x="130" y="-3" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="hb_help" source.down="hb_bzh"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="oddsButton" label="" x="203" y="-8.5" scaleX="1" scaleY="1">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="sc_player_nor" source.down="sc_player_nor_down"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+
+		</e:Button>
+		<e:layout>
+			<e:HorizontalLayout gap="22"/>
+		</e:layout>
+	</e:Group>
+
+	<e:Button id="xyButton" x="812.02" y="33.64" width="89" height="65.33" anchorOffsetY="0">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image scaleX.down="0.8" scaleY.down="0.8" bottom="0" verticalCenter="0" horizontalCenter="0" source="sc_xy"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RecordItemRender_SC_Skin" width="41" height="116" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="record_grid" horizontalCenter="0" x="0" y="0" scaleX="1" scaleY="1"/>
+	<e:Image y="29" source="record_grid" horizontalCenter="0" x="0" scaleX="1" scaleY="1"/>
+	<e:Image y="58" source="record_grid" horizontalCenter="0" x="0" scaleX="1" scaleY="1"/>
+	<e:Image y="87" source="record_grid" horizontalCenter="0" x="0" scaleX="1" scaleY="1"/>
+	<e:Group anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0">
+		<e:Image id="Image_01" x="28" y="44" source="record_right"/>
+		<e:Image id="Image_02" x="15" y="52" source="record_right"/>
+		<e:Image id="Image_03" x="19" y="54" scaleX="1" scaleY="1" source="record_right"/>
+		<e:Image id="Image_04" x="13" y="84" scaleX="1" scaleY="1" source="record_right"/>
+		<e:layout>
+			<e:VerticalLayout gap="1"/>
+		</e:layout>
+	</e:Group>
+	<e:Image id="lightFrame" source="record_cs_json.record_frame" x="-3" y="-3" anchorOffsetX="0" width="47" scale9Grid="12,18,24,22" height="121" visible="false"/>
+</e:Skin>

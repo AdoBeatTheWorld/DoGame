@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MailInfoPanelSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+
+	<e:Image width="400" height="300" horizontalCenter="0" verticalCenter="0" source="common_bg_3"
+	          scale9Grid="27,26,148,89"/>
+
+	<e:Image width="351" height="143" x="464" y="266" source="authen_bg" anchorOffsetX="0" anchorOffsetY="0" />
+	<e:Label id="titleLabel" text="标题：" size="20" verticalCenter="-70" horizontalCenter="-13" textAlign="left"
+	         anchorOffsetX="0" width="274" fontFamily="Microsoft YaHei" textColor="0xffefce" />
+	<e:Label id="timeLabel" text="时间：" size="20" verticalCenter="-35" horizontalCenter="-10.5" textAlign="left"
+	         anchorOffsetX="0" width="278.5" fontFamily="Microsoft YaHei" textColor="0xffefce" />
+	<e:Label text="内容：" size="20" verticalCenter="1" horizontalCenter="-120" textAlign="left" fontFamily="Microsoft YaHei"
+	         textColor="0xffefce" />
+	<e:Label id="informationLabel" text="XXX" size="20" anchorOffsetX="0" width="237.67" anchorOffsetY="0"
+	         horizontalCenter="29" fontFamily="Microsoft YaHei" y="352.32" textColor="0xffefce"  height="56"/>
+	<e:Label text="系统邮件" size="25" horizontalCenter="0" verticalCenter="-113.5" fontFamily="SimHei"
+	         bold="true"  textColor="0x7f2d00"/>
+	<e:Image horizontalCenter="-45" verticalCenter="67" source="coin_2"  scaleX="0.5" scaleY="0.5"/>
+	<e:Button id="itemBtn" label="领取" anchorOffsetX="0" anchorOffsetY="0" verticalCenter="109.5" horizontalCenter="0.5" scaleX="0.6" scaleY="0.6" width="155" height="58">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image scaleX="0.9" scaleY="0.9" source="mail_btn" horizontalCenter="0" verticalCenter="0" source.down="mail_btn"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" size="25" textColor="0xffefce" fontFamily="Microsoft YaHei" text="领取"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Label id="moneyLabel" text="123" size="20" horizontalCenter="62.5" verticalCenter="69"
+	         textAlign="left" anchorOffsetX="0" width="145"  textColor="0x7f2d00"/>
+	<e:Button id="closeBtn" label="Button" scaleX="0.8" scaleY="0.8" verticalCenter="-140" horizontalCenter="188.5" skinName="CloseBtnSkin">
+
+	</e:Button>
+</e:Skin>

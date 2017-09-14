@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="hb_LotterySkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Panel id="jiesuanPanel" width="1280" height="720" x="0" y="0" enabled="false">
+		<e:Image source="hb_convert_bg_png" scale9Grid="30,25,6,6" width="959" height="654" x="157" y="50" name="hb_convert_bg_png" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1"/>
+		<e:Image source="newRes_json.hb_lottery_title" x="316" y="6" scaleX="1" scaleY="1"/>
+		<e:Button id="exitBtn" label="" x="1041.02" y="49.04">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="newRes_json.nebg_banker_closebtn_selected" source.down="newRes_json.nebg_banker_closebtn_nonal"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Image source="newRes_json.hb_lottery_di_1" x="186.67" y="146" scale9Grid="19,37,59,43" anchorOffsetX="0" width="901.33" anchorOffsetY="0" height="535.67"/>
+		<e:Image source="newRes_json.hb_lottery_di_1" x="200.67" y="156" scale9Grid="19,37,59,43" anchorOffsetX="0" width="422.66" anchorOffsetY="0" height="509"/>
+		<e:Image source="newRes_json.hb_lottery_di_1" x="654.36" y="156" scale9Grid="19,37,59,43" anchorOffsetX="0" width="422.66" anchorOffsetY="0" height="509"/>
+		<e:Image source="newRes_json.hb_label_rank" x="638.66" y="319.01"/>
+		<e:Image source="newRes_json.hb_label_self" x="186.97" y="310.32"/>
+		<e:Image source="newRes_json.hb_icon_di" x="229" y="264"/>
+		<e:Image source="newRes_json.hb_icon_huang" x="229" y="436"/>
+		<e:Image source="newRes_json.hb_icon_xuan" x="233" y="349"/>
+		<e:Image source="newRes_json.hb_icon_tian" x="233.67" y="172.34"/>
+
+		<e:Image source="newRes_json.hb_icon_total" x="230.33" y="568.01"/>
+		<e:Image source="newRes_json.hb_icon_zuang" x="469" y="98.32"/>
+		<e:Label id="Num_4" text="+xxx万" x="645.67" y="103.63" size="24" fontFamily="Microsoft YaHei" textColor="0xffff00"/>
+		<e:Label id="Num_0" text="+xxx万" x="463" y="184.34" size="24" fontFamily="Microsoft YaHei" textColor="0xFFFF00"/>
+		<e:Label id="Num_1" text="+xxx万" x="463" y="284" size="24" fontFamily="Microsoft YaHei" textColor="0xFFFF00"/>
+		<e:Label id="Num_2" text="+xxx万" x="463" y="369" size="24" fontFamily="Microsoft YaHei" textColor="0xFFFF00"/>
+		<e:Label id="Num_3" text="+xxx万" x="463" y="456" size="24" fontFamily="Microsoft YaHei" textColor="0xFFFF00"/>
+		<e:Label id="totalNum" text="+xxx万" x="424.97" y="588.01" size="24" fontFamily="Microsoft YaHei" textColor="0xFFFF00"/>
+		<e:Image id="NiuNum_4" source="hb_main_res_json.hb_lose_cow2" x="521.34" y="98.81" scaleX="0.8" scaleY="0.8"/>
+		<e:Image id="NiuNum_0" source="hb_main_res_json.hb_lose_cow2" x="311.34" y="184.34" scaleX="0.8" scaleY="0.8"/>
+		<e:Image id="NiuNum_1" source="hb_main_res_json.hb_lose_cow2" x="311.34" y="276" scaleX="0.8" scaleY="0.8"/>
+		<e:Image id="NiuNum_2" source="hb_main_res_json.hb_lose_cow2" x="311.34" y="359.8" scaleX="0.8" scaleY="0.8"/>
+		<e:Image id="NiuNum_3" source="hb_main_res_json.hb_lose_cow2" x="311.34" y="448" scaleX="0.8" scaleY="0.8"/>
+		<e:Group id="scrollviewNode" width="413.34" height="489.33" x="661" y="161.67" anchorOffsetX="0" anchorOffsetY="0"/>
+	
+	
+		
+	</e:Panel>
+	<e:Panel id="dayingjiaPanel" width="500" height="500" x="412" y="142">
+		<e:Image id="dayingjiaHead" width="239" height="240" x="100" y="67"/>
+		<e:Image source="newRes_json.hb_dayingjia_bg" x="-36" y="-36" scaleX="1" scaleY="1"/>
+		<e:Image source="newRes_json.nebg_jinbi" x="251.42" y="458" scaleX="1.5" scaleY="1.5"/>
+		<e:Label id="dayingjiaName" text="超级国度" x="156" y="284" size="32" fontFamily="Microsoft YaHei" textColor="0xe2b944"/>
+		<e:Image source="newRes_json.hb_dayingjia_add" x="118.61" y="459.99"/>
+		<e:BitmapLabel id="cornNum" width="200" height="50" x="143.16" y="458" font="nebg_chips_font_fnt" text="1000" scaleX="1" scaleY="1"/>
+	</e:Panel>
+</e:Skin>

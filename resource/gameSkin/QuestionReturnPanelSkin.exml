@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="QuestionReturnPanelSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui"
+        xmlns:w="http://ns.egret.com/wing">
+	<e:Image y="72" horizontalCenter="0" source="public3" />
+	<e:Image id="brackground" verticalCenter="0" horizontalCenter="0" source="common_bg_3"
+	         width="686" height="422" top="149"  scale9Grid="44,35,119,80"/>
+	<e:TextInput id="zfbID" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" prompt="请输入要反馈的问题" top="188">
+		<e:Skin minHeight="40" minWidth="300" states="normal,disabled,normalWithPrompt,disabledWithPrompt"
+		        xmlns:w="http://ns.egret.com/wing">
+			<e:Image anchorOffsetX="0" scale9Grid="18,15,459,28" source="return_bg" />
+			<e:EditableText id="textDisplay" multiline="true" maxHeight="266" maxWidth="498" wordWrap="true"
+			                textColor.disabled="0xff0000" size="25" fontFamily="黑体" verticalAlign="top" anchorOffsetX="0"
+			                anchorOffsetY="0" textAlign="left" textColor="0xffefce" width="502" height="230" x="30" y="28" />
+			<e:Label id="promptDisplay" size="25" touchEnabled="false" includeIn="normalWithPrompt,disabledWithPrompt"
+			         fontFamily="黑体" textAlign="left" anchorOffsetX="0" anchorOffsetY="0" y="28" x="30" textColor="0xffefce"
+			         width="100%" />
+		</e:Skin>
+	</e:TextInput>
+	<e:Button id="closeBtn" label="Button" x="918.34" y="118.83" skinName="CloseBtnSkin" />
+	<e:Button id="sendButon" label="" y="476.24" anchorOffsetX="0" scaleX="1" scaleY="1" horizontalCenter="0.5" width="177"
+	          height="68">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image scaleX.down="0.7" scaleY.down="0.7" horizontalCenter="0" verticalCenter="0" source="exchange_bg"
+				         source.down="exchange_bg" scaleX="0.8" scaleY="0.8" />
+				<e:Image source="word_send" scaleX.down="0.9" scaleY.down="0.9" horizontalCenter="0" verticalCenter="0" />
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0" />
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image y="88.01" source="word_return" horizontalCenter="0" />
+</e:Skin>

@@ -1,0 +1,45 @@
+{
+  "file": "award_cs.png",
+  "frames": {
+    "award_bg": {
+      "x": 0,
+      "y": 0,
+      "w": 904,
+      "h": 577,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 904,
+      "sourceH": 577
+    },
+    "award_button": {
+      "x": 0,
+      "y": 578,
+      "w": 159,
+      "h": 43,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 159,
+      "sourceH": 43
+    },
+    "award_next": {
+      "x": 0,
+      "y": 642,
+      "w": 64,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 64,
+      "sourceH": 19
+    },
+    "award_time": {
+      "x": 0,
+      "y": 622,
+      "w": 65,
+      "h": 19,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 65,
+      "sourceH": 19
+    }
+  }
+}

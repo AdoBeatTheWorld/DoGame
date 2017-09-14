@@ -1,0 +1,31 @@
+{
+  "autoGenerateExmlsList": true,
+  "exmls": [],
+  "skins": {
+    "eui.Alert": "skins.AlertSkin",
+    "eui.Button": "skins.ButtonSkin",
+    "eui.CheckBox": "skins.CheckBoxSkin",
+    "eui.Component": "skins.PanelSkin",
+    "eui.DropDownList": "skins.DropDownListSkin",
+    "eui.HScrollBar": "skins.HScrollBarSkin",
+    "eui.HSlider": "skins.HSliderSkin",
+    "eui.ItemRenderer": "skins.ItemRendererSkin",
+    "eui.List": "skins.ListSkin",
+    "eui.ProgressBar": "skins.ProgressBarSkin",
+    "eui.RadioButton": "skins.RadioButtonSkin",
+    "eui.Scroller": "skins.ScrollerSkin",
+    "eui.SkinnableContainer": "skins.SkinnableContainerSkin",
+    "eui.SkinnableDataContainer": "skins.SkinnableDataContainerSkin",
+    "eui.TabBar": "skins.TabBarSkin",
+    "eui.TabBarButton": "skins.TabBarButtonSkin",
+    "eui.TextArea": "skins.TextAreaSkin",
+    "eui.TextInput": "skins.TextInputSkin",
+    "eui.TitleWindow": "skins.TitleWindowSkin",
+    "eui.ToggleButton": "skins.ToggleButtonSkin",
+    "eui.ToggleSwitch": "skins.ToggleSwitchSkin",
+    "eui.Tree": "skins.TreeSkin",
+    "eui.TreeItemRenderer": "skins.TreeItemRendererSkin",
+    "eui.VScrollBar": "skins.VScrollBarSkin",
+    "eui.VSlider": "skins.VSliderSkin"
+  }
+}

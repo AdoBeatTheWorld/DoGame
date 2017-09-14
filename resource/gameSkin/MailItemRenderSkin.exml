@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MailItemRenderSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" x="0" anchorOffsetX="0" anchorOffsetY="0" source="mailitem_bg" y="0" scale9Grid="32,28,656,30"/>
+	<e:Label id="gameNameLabel" text="北京飞车" x="121" textAlign="left" size="25" fontFamily="Microsoft YaHei" textColor="0xffefce" bold="true" top="30"/>
+	<e:Label id="moneyNumLabel" text="金额：13123" textAlign="left" size="20" anchorOffsetX="0" width="266.5" fontFamily="Microsoft YaHei" textColor="0xffefce" bold="true" top="34" x="298"/>
+	<e:Image id="letterImage" scaleX="0.7" scaleY="0.7" left="30" verticalCenter="0" source="main_letter"/>
+	<e:RadioButton id="itemBtn" label="" top="29" right="48">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="getup" source.down="getdown" source.disabled="getdown"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+
+	</e:RadioButton>
+</e:Skin>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RoleList_SC_Skin" states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="1280" height="720">
+	<e:Image anchorOffsetX="0" width="682.66" height="530" verticalCenter="0" horizontalCenter="0" source="public_bg5" scale9Grid="50,53,635,359"/>
+	<e:Scroller width="610" height="426.67" y="169.33" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0.5">
+		<e:Group id="group" y="-1.33">
+			<e:layout>
+				<e:VerticalLayout/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Button id="closeButton" label="" x="946" y="76.5" width="63" height="65">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" bottom="0" scaleX.down="0.8" scaleY.down="0.8" height="100%" horizontalCenter="0" verticalCenter="0" source="userInfo_close2" source.down="userInfo_close1"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image x="367.67" y="125" source="head"/>
+	<e:Image x="492" y="125" source="id"/>
+	<e:Image x="641.01" y="125" source="name"/>
+	<e:Image x="832" y="125" source="money"/>
+</e:Skin>

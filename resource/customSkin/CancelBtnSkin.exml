@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="cancelBtnSkin" width="234" height="70" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="public_cancel" scale9Grid="33,2,149,63" left="0" top="0" right="0" bottom="0"/>
+	<e:Label id="labelDisplay" height="40" width="180" textAlign="center" verticalAlign="middle" fontFamily="黑体" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

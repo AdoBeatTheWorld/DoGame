@@ -1,0 +1,64 @@
+{"mc":{
+	"1":{
+		"frameRate":8,
+		"labels":[
+			{"name":"run","frame":1,"end":8}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Fish_Swordfish_Die_01",
+			"x":-87,
+			"y":-69
+			},
+			{
+			"res":"Fish_Swordfish_Die_02",
+			"x":-86,
+			"y":-67
+			},
+			{
+			"res":"Fish_Swordfish_Die_03",
+			"x":-85,
+			"y":-70
+			},
+			{
+			"res":"Fish_Swordfish_Die_04",
+			"x":-92,
+			"y":-68
+			},
+			{
+			"res":"Fish_Swordfish_Die_05",
+			"x":-93,
+			"y":-66
+			},
+			{
+			"res":"Fish_Swordfish_Die_06",
+			"x":-89,
+			"y":-67
+			},
+			{
+			"res":"Fish_Swordfish_Die_07",
+			"x":-91,
+			"y":-68
+			},
+			{
+			"res":"Fish_Swordfish_Die_08",
+			"x":-92,
+			"y":-62
+			}
+			]
+}},
+	"res":{
+		"Fish_Swordfish_Die_08":{"x":542,"y":134,"w":184,"h":124},
+		"Fish_Swordfish_Die_07":{"x":186,"y":0,"w":183,"h":135},
+		"Fish_Swordfish_Die_04":{"x":0,"y":0,"w":184,"h":136},
+		"Fish_Swordfish_Die_01":{"x":741,"y":0,"w":173,"h":136},
+		"Fish_Swordfish_Die_05":{"x":371,"y":0,"w":187,"h":132},
+		"Fish_Swordfish_Die_03":{"x":371,"y":134,"w":169,"h":139},
+		"Fish_Swordfish_Die_06":{"x":560,"y":0,"w":179,"h":132},
+		"Fish_Swordfish_Die_02":{"x":186,"y":137,"w":170,"h":134}
+	}}
